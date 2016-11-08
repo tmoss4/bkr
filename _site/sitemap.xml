@@ -5,26 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/bkr//404.html</loc>
+	<loc>http://localhost:4000/bkr/404.html</loc>
 	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//atom.xml</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,114 +22,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/bkr//design/</loc>
+	<loc>http://localhost:4000/bkr/atom.xml</loc>
 	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//documentation/</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//feed.xml</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//getting-started/</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//humans.txt</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//redirect-page/</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/bkr//robots.txt</loc>
-	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -160,12 +38,134 @@
 	
 
 	
+	<url>
+	<loc>http://localhost:4000/bkr/design/</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/bkr//sitemap.xml</loc>
+	<loc>http://localhost:4000/bkr/documentation/</loc>
 	
-		<lastmod>2016-11-07T22:13:09-05:00</lastmod>
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/feed.xml</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/about/</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/humans.txt</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/redirect-page/</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/robots.txt</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/bkr/sitemap.xml</loc>
+	
+		<lastmod>2016-11-07T22:35:51-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -183,7 +183,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/bkr//design/header-logo-only/</loc>
+	<loc>http://localhost:4000/bkr/design/header-logo-only/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
 	
@@ -198,7 +198,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/bkr//design/post-left-sidebar/</loc>
+	<loc>http://localhost:4000/bkr/design/post-left-sidebar/</loc>
 	
 		<lastmod>2014-07-09T00:00:00-04:00</lastmod>
 	

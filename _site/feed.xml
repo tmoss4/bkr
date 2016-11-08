@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/bkr//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/bkr//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/bkr/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/bkr/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bahamas Knowledge Revolution</title>
-		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-		<link>http://localhost:4000/bkr//</link>
-		<atom:link href="http://localhost:4000/bkr//feed.xml" rel="self" type="application/rss+xml" />
+		<description>Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics</description>
+		<link>http://localhost:4000/bkr/</link>
+		<atom:link href="http://localhost:4000/bkr/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Header With Logo Only</title>
-				<link>http://localhost:4000/bkr//design/header-logo-only/</link>
+				<link>http://localhost:4000/bkr/design/header-logo-only/</link>
 				<pubDate>Thu, 09 Oct 2014 00:00:00 -0400</pubDate>
 				<description>&lt;p&gt;No front matter code needed.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -22,19 +22,19 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/bkr//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/bkr/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/bkr//design/header-logo-only/</guid>
+				<guid isPermaLink="true">http://localhost:4000/bkr/design/header-logo-only/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post With Left Sidebar</title>
-				<link>http://localhost:4000/bkr//design/post-left-sidebar/</link>
+				<link>http://localhost:4000/bkr/design/post-left-sidebar/</link>
 				<pubDate>Wed, 09 Jul 2014 00:00:00 -0400</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -56,14 +56,14 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/bkr//design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/bkr/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/bkr//design/post-left-sidebar/</guid>
+				<guid isPermaLink="true">http://localhost:4000/bkr/design/post-left-sidebar/</guid>
 			</item>
 		
 	</channel>

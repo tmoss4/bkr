@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/bkr//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/bkr/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/bkr//assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/bkr/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -31,19 +31,19 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics">
   	<meta name="google-site-verification" content="">
 	<meta name="msvalidate.01" content="" >
 	<link rel="author" href="">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/bkr//assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/bkr/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="http://localhost:4000/bkr//assets/xslt/rss.xslt">
+	<meta property="og:description" content="Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics">
+	<meta property="og:url" content="http://localhost:4000/bkr/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Bahamas Knowledge Revolution">
@@ -53,34 +53,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/bkr//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/bkr/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/bkr//assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/bkr/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/bkr//assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/bkr/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/bkr//assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/bkr/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/bkr//assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/bkr/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -95,7 +95,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/bkr/" class="icon-tree"> Bahamas Knowledge Revolution</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/bkr" class="icon-tree"> Bahamas Knowledge Revolution</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -165,7 +165,7 @@
 
             
             
-              <li><a href="http://localhost:4000/bkr//">Bahamas Knowledge Revolution</a></li>
+              <li><a href="http://localhost:4000/bkr/">Bahamas Knowledge Revolution</a></li>
               <li class="divider"></li>
 
             
@@ -180,7 +180,7 @@
 
             
             
-              <li><a href="http://localhost:4000/bkr//getting-started/">About</a></li>
+              <li><a href="http://localhost:4000/bkr/about/">About</a></li>
               <li class="divider"></li>
 
             
@@ -197,34 +197,34 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr/">Politics</a>
+                <a href="http://localhost:4000/bkr">Politics</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/grid/">Constitution</a></li>
+                      <li><a href="http://localhost:4000/bkr/constitution/">Constitution</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/typography/typography/">System</a></li>
+                      <li><a href="http://localhost:4000/bkr/system/">System</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/page/">Parties</a></li>
+                      <li><a href="http://localhost:4000/bkr/parties/">Parties</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/post-left-sidebar/">Know Your Politician</a></li>
+                      <li><a href="http://localhost:4000/bkr/know-your-politician/">Know Your Politician</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/">Statistics</a></li>
+                      <li><a href="http://localhost:4000/bkr">Statistics</a></li>
                     
                   </ul>
 
@@ -243,34 +243,49 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr/">Education</a>
+                <a href="http://localhost:4000/bkr">Education</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/header-full-width-image/">Overview</a></li>
+                      <li><a href="http://localhost:4000/bkr/overview/">Overview</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/header-full-width-image/">List of Schools</a></li>
+                      <li><a href="http://localhost:4000/bkr/list-of-schools/">List of Schools</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/header-image-pattern/">Higher Education</a></li>
+                      <li><a href="http://localhost:4000/bkr/higher-education/">Higher Education</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//design/header-image-color/">All Bahamas Merit Scholars</a></li>
+                      <li><a href="http://localhost:4000/bkr/all-bahamas-merit-scholars/">All Bahamas Merit Scholars</a></li>
                     
                   </ul>
 
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/bkr/years-in-review/">Years in Review</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
@@ -284,19 +299,54 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr//documentation/">Years in Review</a>
+                <a href="http://localhost:4000/bkr/blog/">Issues</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//changelog/">Changelog</a></li>
+                      <li><a href="http://localhost:4000/bkr/blog/archive/">Crime</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr//roadmap/">Roadmap</a></li>
+                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Unemployment</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Declining GDP</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-image-pattern/">Education</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-image-color/">Climate Change</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Corruption</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Difficulty of Doing Business</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-image-pattern/">Social Issues</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/design/header-image-color/">All Bahamas Merit Scholars</a></li>
                     
                   </ul>
 
@@ -313,73 +363,7 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr//blog/">Issues</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//blog/archive/">Crime</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-full-width-image/">Unemployment</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-full-width-image/">Declining GDP</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-image-pattern/">Education</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-image-color/">Climate Change</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-full-width-image/">Corruption</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-full-width-image/">Difficulty of Doing Business</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-image-pattern/">Social Issues</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr//design/header-image-color/">All Bahamas Merit Scholars</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/bkr//search/">Business</a></li>
+              <li><a href="http://localhost:4000/bkr/search/">Business</a></li>
               <li class="divider"></li>
 
             
@@ -394,7 +378,7 @@
 
             
             
-              <li><a href="http://localhost:4000/bkr//contact/">State of the Nation / Vision 2040</a></li>
+              <li><a href="http://localhost:4000/bkr/contact/">State of the Nation / Vision 2040</a></li>
               <li class="divider"></li>
 
             
@@ -412,8 +396,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/bkr/" title="Bahamas Knowledge Revolution – A Bahamian's Guide to the Bahamas">
-				<img src="http://localhost:4000/bkr//assets/img/logo.png" alt="Bahamas Knowledge Revolution – A Bahamian's Guide to the Bahamas">
+			<a id="logo" href="http://localhost:4000/bkr" title="Bahamas Knowledge Revolution – A Bahamian's Guide to the Bahamas">
+				<img src="http://localhost:4000/bkr/assets/img/logo.png" alt="Bahamas Knowledge Revolution – A Bahamian's Guide to the Bahamas">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -490,8 +474,8 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="http://localhost:4000/bkr//info/">More ›</a>
+              Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics
+              <a href="http://localhost:4000/bkr/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -515,27 +499,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/bkr/" title=""></a>
+                    <a href="http://localhost:4000/bkr" title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/bkr//contact/" title="Contact">Contact</a>
+                    <a href="http://localhost:4000/bkr/contact/" title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/bkr//feed.xml" title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/bkr/feed.xml" title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/bkr//atom.xml" title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/bkr/atom.xml" title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/bkr//sitemap.xml" title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/bkr/sitemap.xml" title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -557,7 +541,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/bkr/" title=""></a>
+                  <a href="http://localhost:4000/bkr" title=""></a>
                 </li>
             
               
@@ -595,7 +579,7 @@
 		
 
 
-<script src="http://localhost:4000/bkr//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/bkr/assets/js/javascript.min.js"></script>
 
 
 

@@ -4,7 +4,7 @@
   side: left
 
 - title: About
-  url: "/getting-started/"
+  url: "/about/"
   side: left
 
 # Indented are subheadings
@@ -12,35 +12,28 @@
   side: left
   dropdown:
   - title: "Constitution"
-    url: "/design/grid/"
+    url: "/constitution/"
   - title: "System"
-    url: "/design/typography/typography/"
+    url: "/system/"
   - title: "Parties"
-    url: "/design/page/"
+    url: "/parties/"
   - title: "Know Your Politician"
-    url: "/design/post-left-sidebar/"
+    url: "/know-your-politician/"
   - title: "Statistics"
 
 - title: "Education"
   side: left
   dropdown:
   - title: "Overview"
-    url: "/design/header-full-width-image/"
+    url: "/overview/"
+  - title: "BJC/BGCSE Results"
+    url: "/exam-results/"
   - title: "List of Schools"
-    url: "/design/header-full-width-image/"
+    url: "/list-of-schools/"
   - title: "Higher Education"
-    url: "/design/header-image-pattern/"
+    url: "/higher-education/"
   - title: "All Bahamas Merit Scholars"
-    url: "/design/header-image-color/"
-
-- title: "Years in Review"
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+    url: "/all-bahamas-merit-scholars/"
 
 - title: "Issues"
   url: "/blog/"
@@ -65,10 +58,24 @@
   - title: "All Bahamas Merit Scholars"
     url: "/design/header-image-color/"
 
-- title: "Business"
+- title: "Businesses"
   url: "/search/"
+  side: left
+  dropdown:
+  - title: "BEC/BPL"
+    url: "/bec-bpl/"
+  - title: "BTC"
+    url: "/btc/"
+  - title: "Notable Bahamian Owned"
+    url: "/notable-bahamian-owned/"
+
+- title: "Years in Review"
+  url: "/years-in-review/"
   side: left
 
 - title: "State of the Nation / Vision 2040"
-  url: "/contact/"
+  url: "/bec-bpl"
   side: left
+  dropdown:
+  - title: "BEC/BPL"
+    url: "/bec-bpl/"

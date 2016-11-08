@@ -4,10 +4,17 @@
 
 - name: "The First Say"
   url: "http://www.thefirstsay.org/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  class: ""
+  title: "The First Say"
 
 - name: "Bahama Pundit"
   url: "http://www.bahamapundit.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+  class: ""
+  title: "Bahama Pundit"
+
+  - name: "Gapminder"
+  url: "https://www.gapminder.org/ignorance/"
+  class: ""
+  title: "Gapminder"
+
+
