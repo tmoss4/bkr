@@ -2940,7 +2940,7 @@ label.error {
 
 /* line 112, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 meta.foundation-mq-topbar {
-  font-family: "/only screen and (min-width: 64.063em)/";
+  font-family: "/only screen and (min-width: 1300px)/";
   width: 64.063em;
 }
 
@@ -3426,7 +3426,7 @@ meta.foundation-mq-topbar {
   display: block;
 }
 
-@media only screen and (min-width: 64.063em) {
+@media only screen and (min-width: 1300px) {
   /* line 455, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar {
     background: #fdfdfd;

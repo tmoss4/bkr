@@ -12,7 +12,7 @@
   class: ""
   title: "Bahama Pundit"
 
-  - name: "Gapminder"
+- name: "Gapminder"
   url: "https://www.gapminder.org/ignorance/"
   class: ""
   title: "Gapminder"

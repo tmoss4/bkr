@@ -146,31 +146,10 @@
           
           
         
-
-              
-
-          
-          
-        
         
       </ul>
 
       <ul class="left">
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/bkr/">Bahamas Knowledge Revolution</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
         
 
               
@@ -255,6 +234,11 @@
 
                       
 
+                      <li><a href="http://localhost:4000/bkr/exam-results/">BJC/BGCSE Results</a></li>
+                    
+
+                      
+
                       <li><a href="http://localhost:4000/bkr/list-of-schools/">List of Schools</a></li>
                     
 
@@ -271,21 +255,6 @@
 
               </li>
               <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/bkr/years-in-review/">Years in Review</a></li>
-              <li class="divider"></li>
-
-            
             
           
         
@@ -363,7 +332,43 @@
 
             
             
-              <li><a href="http://localhost:4000/bkr/search/">Business</a></li>
+
+              <li class="has-dropdown">
+                <a href="http://localhost:4000/bkr/search/">Businesses</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/bec-bpl/">BEC/BPL</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/btc/">BTC</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/notable-bahamian-owned/">Notable Bahamian Owned</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/bkr/years-in-review/">Years in Review</a></li>
               <li class="divider"></li>
 
             
@@ -378,7 +383,7 @@
 
             
             
-              <li><a href="http://localhost:4000/bkr/contact/">State of the Nation / Vision 2040</a></li>
+              <li><a href="/bkrhttp://www.cob.edu.bs/DOCS/VISION2040SNR.pdf" target="_blank">State of the Nation / Vision 2040</a></li>
               <li class="divider"></li>
 
             
@@ -536,6 +541,8 @@
             
               
             
+              
+            
 
             <ul class="no-bullet shadow-black">
             
@@ -545,13 +552,18 @@
                 </li>
             
               
-                <li class="network-entypo" >
-                  <a href="http://www.thefirstsay.org/" title="Icons by Daniel Bruce">The First Say</a>
+                <li class="" >
+                  <a href="http://www.thefirstsay.org/" title="The First Say">The First Say</a>
                 </li>
             
               
-                <li class="services-newsletter" >
-                  <a href="http://www.bahamapundit.com/" title="Built on Foundation">Bahama Pundit</a>
+                <li class="" >
+                  <a href="http://www.bahamapundit.com/" title="Bahama Pundit">Bahama Pundit</a>
+                </li>
+            
+              
+                <li class="" >
+                  <a href="https://www.gapminder.org/ignorance/" title="Gapminder">Gapminder</a>
                 </li>
             
             </ul>

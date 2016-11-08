@@ -1,7 +1,4 @@
 # Top level navigation- 
-- title: "Bahamas Knowledge Revolution"
-  url: "/"
-  side: left
 
 - title: About
   url: "/about/"
@@ -74,8 +71,5 @@
   side: left
 
 - title: "State of the Nation / Vision 2040"
-  url: "/bec-bpl"
+  url: "http://www.cob.edu.bs/DOCS/VISION2040SNR.pdf"
   side: left
-  dropdown:
-  - title: "BEC/BPL"
-    url: "/bec-bpl/"
