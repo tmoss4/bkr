@@ -1,27 +1,29 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
+# Controls the Icons in the footer
 
-- name: YouTube
-  url: https://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+#- name: GitHub
+ # url: http://github.com/tmoss4
+  #class: icon-github
+  #title: Global Island
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+#- name: YouTube
+#  url: https://www.youtube.com/PhlowMedia
+ # class: icon-youtube
+  #title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+#- name: Twitter
+ # url: http://twitter.com/phlow
+  #class: icon-twitter
+  #title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Phlow YouTube Google+
-  url: http://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+#- name: Mixcloud
+ # url: http://www.mixcloud.com/phlow/
+  #class: icon-cloud
+  #title: "Mixe, was sonst?"
+
+#- name: Phlow YouTube Google+
+ # url: http://plus.google.com/u/0/+Phlow
+  #class: icon-googleplus
+  #title: "YouTube Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/

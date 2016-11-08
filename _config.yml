@@ -8,16 +8,16 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Bahamas Knowledge Revolution'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'A Bahamian's Guide to the Bahamas
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to tmoss4 or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://github.com/tmoss4">tmoss4</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://tmoss4.github.io/bkr/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -142,9 +142,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'http://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+google_author:             ''
+google_site_verification:  ''
+bing_webmastertools_id:    ''
 # alexa_verify_id:         ''
 
 
@@ -191,8 +191,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: tmoss4
-    facebook: tmoss4.media
+    twitter: 
+    facebook: 
 
 
 #        ____  _
@@ -204,7 +204,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: somethingelse
+disqus_shortname: 
 
 
 #      _____

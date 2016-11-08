@@ -1,56 +1,37 @@
-- title: Start
+# Top level navigation- 
+title: Bahamas Knowledge Revolution
   url: "/"
   side: left
 
-- title: Getting Started
+- title: About
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
-  side: left
+# Indented are subheadings
+- title: "Politics"
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Constitution"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "System"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Parties"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Know Your Politician"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Statistics"
 
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
+- title: "Education"
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Overview"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "List of Schools"
+    url: "/design/header-full-width-image/"
+  - title: "Higher Education"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "All Bahamas Merit Scholars"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "Years in Review"
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,17 +40,33 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: "Issues"
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Crime"
     url: "/blog/archive/"
+  - title: "Unemployment"
+    url: "/design/header-full-width-image/"
+  - title: "Declining GDP"
+    url: "/design/header-full-width-image/"
+  - title: "Education"
+    url: "/design/header-image-pattern/"
+  - title: "Climate Change"
+    url: "/design/header-image-color/"
+  - title: "Corruption"
+    url: "/design/header-full-width-image/"
+  - title: "Difficulty of Doing Business"
+    url: "/design/header-full-width-image/"
+  - title: "Social Issues"
+    url: "/design/header-image-pattern/"
+  - title: "All Bahamas Merit Scholars"
+    url: "/design/header-image-color/"
 
-- title: "Search"
+- title: "Business"
   url: "/search/"
-  side: right
+  side: left
 
-- title: "Contact"
+- title: "State of the Nation / Vision 2040"
   url: "/contact/"
-  side: right
+  side: left
