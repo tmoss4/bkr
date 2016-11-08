@@ -27,7 +27,7 @@ permalink: "/roadmap/"
 ## Done
 
 * [<s>Add schema.org Markup for Videos</s>](http://support.google.com/webmasters/answer/2413309?hl=en)
-* [<s>Submit <em>Feeling Responsive</em> to jekyllthemes.org</s>](http://jekyllthemes.org/themes/feeling-responsive/)
+* [<s>Submit <em>Feeling Responsive</em> to jekyllthemes.org</s>](http://jekyllthemes.org/themes/bkr/)
 * <s>Use `style` in front matter to inject css-styles into `<head></s>
 * <s>Add include to loop through collections</s>
 * <s>Now with optional caption for header</s>
@@ -46,7 +46,7 @@ permalink: "/roadmap/"
 * <s>Patterns for header</s>
 * <s>Clean up color scheme and highlighting colors</s>
 * <s>Make theme translation ready</s>
-* [<s>Add draft-templates for new pages/posts</s>](http://github.com/Phlow/feeling-responsive/tree/gh-pages/_drafts)
+* [<s>Add draft-templates for new pages/posts</s>](http://github.com/Phlow/bkr/tree/gh-pages/_drafts)
 * [<s>Step-by-Step-Guide to customize *Feeling Responsive*</s>]({{ site.url }}{{ site.baseurl }}/getting-started/)
 * [<s>Video-Post-Format to feature videos in a huge way</s>]({{ site.url }}{{ site.baseurl }}/design/video/)
 * <s>Title and captions for images</s>

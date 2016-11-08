@@ -12,10 +12,10 @@ permalink: "/changelog/"
 :   I added a nasty hack to highlight the homepage in the topbar navigation. To do it, you have to add `homepage: true` to your homepage. The pages *404* and *search* are now excluded from the sitemap.
 
 2015-10-29 // Version 1.9
-:   I needed a call for action button on the frontpage to get your awareness for the new and fresh [*Feeling Responsive*-Newsletter](http://tinyletter.com/feeling-responsive) which informs you about new features. Now you can use it, too. Just have a look into *pages/pages-root-folder/index.md* to delete or use it. Uh, there were some images missing and the video-template didn't show up correct. I use now `{% raw %}{{ layout.format }}{% endraw %}` to inject the class of a layout in `default.html` into `<body>` to make it work.
+:   I needed a call for action button on the frontpage to get your awareness for the new and fresh [*Feeling Responsive*-Newsletter](http://tinyletter.com/bkr) which informs you about new features. Now you can use it, too. Just have a look into *pages/pages-root-folder/index.md* to delete or use it. Uh, there were some images missing and the video-template didn't show up correct. I use now `{% raw %}{{ layout.format }}{% endraw %}` to inject the class of a layout in `default.html` into `<body>` to make it work.
 
 2015-10-27 // Version 1.8
-:   *Feeling Responsive* works smoothly with [Jekyll 3.0](http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/). I added a Gemfile with the pagination gem *jekyll-paginate* so that paginate works. And now there is also a [bones-version](http://github.com/Phlow/feeling-responsive/tree/bare-bones-version) available to get a clean project started right from the beginning.
+:   *Feeling Responsive* works smoothly with [Jekyll 3.0](http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/). I added a Gemfile with the pagination gem *jekyll-paginate* so that paginate works. And now there is also a [bones-version](http://github.com/Phlow/bkr/tree/bare-bones-version) available to get a clean project started right from the beginning.
 
 2015-10-18 // Version 1.7
 :   Now with audio- and video-player [mediaelement.js]({{ site.url }}{{ site.baseurl }}/design/mediaelement_js/). Added new gallery include. Changed names again... Sorry.
