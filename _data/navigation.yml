@@ -9,7 +9,7 @@
 
 # Indented are subheadings
 - title: "Politics"
- side: left
+  side: left
   dropdown:
   - title: "Constitution"
     url: "/design/grid/"
@@ -22,7 +22,7 @@
   - title: "Statistics"
 
 - title: "Education"
- side: left
+  side: left
   dropdown:
   - title: "Overview"
     url: "/design/header-full-width-image/"
