@@ -1,44 +1,37 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=tmoss4
-#
-#      _____ _ __          _____      __  __  _
-#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
-#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
-#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
-#                                                 /____/
-#
-# Title of your website
-title: 'Bahamas Knowledge Revolution'
-
-# The slogan describes your website and is used on homepage in <title> and other important places
+# Site settings
+name: Theo Moss
+author: Theo Moss
+title: Bahamas Knowledge Revolution
+subtitle: 
+description: Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics
 slogan: "A Bahamian's Guide to the Bahamas"
+keywords: 
+language: 'en'
 
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics'
+url: https://tmoss4.github.io
+baseurl: /bkr
+urlimg: https://tmoss4.github.io/bkr/images/
+
+github: http://www.github.com/tmoss4
+facebook: https://www.facebook.com/theophilus.moss
+linkedin: https://www.linkedin.com/in/tmoss4
+email: moss.theophilus@gmail.com
+location: 
+disqus: theophilusmoss 
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to tmoss4 or Feeling Responsive as a thank you :)
-credits: '<p>Created with with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
-
-# Main author of the website
-# See > authors.yml
-author: tmoss4
-
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://tmoss4.github.io'
-baseurl: '/bkr'
+credits: <p>Created with with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://github.com/tmoss4/bkr/edit/gh-pages
-
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-#
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
-urlimg: 'https://tmoss4.github.io/bkr/images/'
 
 
 # Logo size is 600x80 pixels
@@ -61,13 +54,6 @@ gems:
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
-
-# Theme works best with Kramdown (using the table of contents function)
-markdown: kramdown
-permalink: /:categories/:title/
-highlight: rouge
-excerpt_separator: "<!--more-->"
-include: ['.htaccess']
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -79,7 +65,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+
 
 
 # Used › default.html front-matter and compress.html
