@@ -23,8 +23,6 @@ To get to know *Feeling Responsive* check out all the features explained in the 
 
 And what license is *Feeling Responsive* released under? [This one][2].
 
-
-
 ## Why use this theme?
 
 Feeling Responsive is heavily customizable.
@@ -37,28 +35,17 @@ Feeling Responsive is heavily customizable.
 
 **[More ›][3]**
 
-
-
 ## Changelog
 
 *Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
 
 **[Read Changelog ›][6]**
 
-
-
 ## Video Tutorial
 
 Click the image to [watch the YouTube-Video-Tutorial][4].
 
 [![Start Video](https://github.com/Phlow/bkr/blob/gh-pages/images/video-bkr-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
 
  [1]: http://phlow.github.io/bkr/documentation/
  [2]: https://github.com/Phlow/bkr/blob/gh-pages/LICENSE

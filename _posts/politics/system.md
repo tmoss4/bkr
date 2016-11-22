@@ -5,7 +5,7 @@ title: "System"
 subheadline: ""
 teaser:
 header:
-permalink: "politics/system/"
+permalink: "/politics/system/"
 ---
 "An educated population is an empowered one."
 Sidebar.
