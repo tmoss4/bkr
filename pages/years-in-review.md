@@ -7,6 +7,20 @@ teaser:
 header:
 permalink: "/years-in-review/"
 ---
+A
+  - b
+
+blockquote
+> text
+
+header
+# text
+
+codeblock fenced
+```
+puts hello world
+```
+
 <div markdown="1">
 ###Those who fail to learn from history are doomed to repeat it.###
 
