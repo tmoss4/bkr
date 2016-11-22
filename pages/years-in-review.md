@@ -7,38 +7,23 @@ teaser:
 header:
 permalink: "/years-in-review/"
 ---
-A
-  - b
-
-blockquote
-> text
-
-header
-# text
-
-codeblock fenced
-```
-puts hello world
-```
-
-<div markdown="1">
 ### Those who fail to learn from history are doomed to repeat it.
 
-##### This page chronicles the major events that have affected the Bahamas starting from the year 2000. #####
+##### This page chronicles the major events that have affected the Bahamas starting from the year 2000.
 
-##2000
+##  2000
 
 1. Ricardo Davis named All Bahamas Merit Scholar (ABMS) to attend Queen’s University and study Biochemistry [[Ref]](http://google.com)
 2. Murder count: 73 [[Ref]](http://google.com)
 
-##2001
+## 2001
 
 1. 9/11 occurs and consequent measures lengthen the check-in process for Bahamians traveling to the US for vacation [[Ref]](http://google.com)
 2. Moody’s changes Bahamas’ A3 rating outlook from positive to stable [[Ref]](http://google.com)
 3. Hurricane Michelle hits the Bahamas [[Ref]](http://google.com)
 4. Murder count: 43 [[Ref]](http://google.com)
 
-##2002
+## 2002
 
 1. Bahamians vote to deny women equal rights [[Ref]](http://google.com)
 2. The PLP defeat the governing FNM in the election [[Ref]](http://google.com)
@@ -47,13 +32,13 @@ puts hello world
 5. Highest recorded crime rate ever! [[Ref]](http://google.com)
 6. Murder count: 52 [[Ref]](http://google.com)
 
-##2003
+## 2003
 
 1. Moody’s changes Bahamas’ A3 rating outlook from positive to stable [[Ref]](http://google.com)
 2. Sebastian Hutchinson named ABMS to attend the University of Pennsylvania and study Finance and Accounting [[Ref]](http://google.com)
 3. Murder count: 50 [[Ref]](http://google.com)
 
-##2004
+## 2004
 
 1. Highest recorded crime rate ever - last was 2002 [[Ref]](http://google.com)
 2. Bahamians protest the arrival of thousands of gay cruise ship passengers and their families in Nassau on July 16, 2004 [[Ref]](http://google.com)
@@ -61,20 +46,20 @@ puts hello world
 4. Sharelle Ferguson named ABMS to attend Harvard University and study Social Studies [[Ref]](http://google.com)
 5. Murder count: 44 [[Ref]](http://google.com)
 
-##2005
+## 2005
 
 1. Highest recorded crime rate ever - last was 2004 [[Ref]](http://google.com)
 2. Hurricane Katrina and Wilma devastates the Bahamas. [[Ref]](http://google.com)
 3. Andrea Culmer named ABMS to attend McGill University to study Chemistry / Medicine [[Ref]](http://google.com)
 4. Murder count: 50 [[Ref]](http://google.com)
 
-##2006
+## 2006
 
 1. Highest crime rate ever! [[Ref]](http://google.com)
 2. Kyle Chea named ABMS to attend Vassar College to study Medicine and Foreign Languages [[Ref]](http://google.com)
 3. Murder count: 60 [[Ref]](http://google.com)
 
-##2007
+## 2007
 
 1. Plans for Baha Mar announced [[Ref]](http://google.com)
 2. FNM wins election and inherits $8 million in budget surplus - which will turn into a $600 million deficit by 2012 [[Ref]](http://google.com)
@@ -82,7 +67,7 @@ puts hello world
 4. Highest recorded crime rate ever - last was 2006 [[Ref]](http://google.com)
 5. Murder count: 78 - Highest recorded to date [[Ref]](http://google.com)
 
-##2008
+## 2008
 
 1. A global financial crisis begins which will drastically affect nearly every country on Earth [[Ref]](http://google.com)
 2. Hurricane Hanna devastates the Bahamas. [[Ref]](http://google.com)
@@ -90,7 +75,7 @@ puts hello world
 4. Highest recorded crime rate ever - last was 2007 [[Ref]](http://google.com)
 5. Murder count: 72 [[Ref]](http://google.com)
 
-##2009
+## 2009
 
 1. Marital rape bill put forward by FNM but withdrawn due to public criticism [[Ref]](http://google.com)
 2. New Providence Road Improvement Project begins with a budget of $60 million and a timeline of 33.5 months. 
@@ -99,7 +84,7 @@ puts hello world
 4. Highest recorded crime rate ever - last was 2008 [[Ref]](http://google.com)
 5. Murder count: 87 - Highest recorded to date [[Ref]](http://google.com)
 
-##2010
+## 2010
 
 1. Tropical storm Nicole hits the Bahamas [[Ref]](http://google.com)
 2. Clifford Bowe named ABMS to attend Georgia Institute of Technology [[Ref]](http://google.com)
@@ -107,7 +92,7 @@ puts hello world
 4. Murder count: 94 - Highest recorded to date and 5th highest among 15 caribbean countries at that time [[Ref]](http://google.com)
 5. 54 rapes recorded on New Providence [[Ref]](http://google.com)
 
-##2011
+## 2011
 
 1. Government finalizes BTC privatization deal [[Ref]](http://google.com)
 2. Branville McCartney resigns from the FNM and forms the DNA [[Ref]](http://google.com)
@@ -120,7 +105,7 @@ puts hello world
 9. Murder count: 127 - Highest recorded to date and ~50% were unsolved by the end of the year [[Ref]](http://google.com)
 10. 107 rapes recorded across the Bahamas - 84 on New Providence, 28 (additional) attempted, and 179 (additional) statutory rapes  [[Ref]](http://google.com)
 
-##2012
+## 2012
 
 1. PLP wins election in landslide [[Ref]](http://google.com)
 2. Hubert Ingraham resigns as FNM party leader and as MP [[Ref]](http://google.com)
@@ -136,7 +121,7 @@ puts hello world
 12. Murder count: 111 - First decrease since 2008, second consecutive year over 100, 26% unsolved by the end of the year [[Ref]](http://google.com)
 13. 97 rapes recorded across the Bahamas - 12 (additional) attempted, and 167 (additional) statutory [[Ref]](http://google.com)
 
-##2013
+## 2013
 
 1. Referendum to legalize gambling and establish national lottery defeated after at least $1.5 million spent on advertising for a yes vote [[Ref]](http://google.com)
 * Why referendums are a terrible way to do anything* [[Ref]](http://google.com)
@@ -151,7 +136,7 @@ puts hello world
 12. Murder count: 119 - Third highest murder rate among 13 Caribbean countries[[Ref]](http://google.com)
 
 
-##2014
+## 2014
 
 1. Baha Mar announces it will not be ready to open in time [[Ref]](http://google.com)
 2. Moody’s downgrades Bahamas’ credit rating to baa2 and changes outlook to stable [[Ref]](http://google.com)
@@ -165,7 +150,7 @@ puts hello world
 10. Highest recorded crime rate ever - last was 2013 [[Ref]](http://google.com)
 12. Murder count: 122 - Third highest murder rate among 13 Caribbean countries again [[Ref]](http://google.com)
 
-##2015
+## 2015
 
 1. Perry Christie says Baha Mar is not running out of cash (May 2015) [[Ref]](http://google.com)
 2. Baha Mar files for bankruptcy (July 2015) [[Ref]](http://google.com)
@@ -185,7 +170,7 @@ puts hello world
 14. Highest recorded crime rate ever? - last was 2014 [[Ref]](http://google.com)
 15. Murder count: 149 - Highest recorded ever [[Ref]](http://google.com)
 
-##2016
+## 2016
 
 1. March - Potential Ebola case in the Bahamas [[Ref]](http://google.com)
 2. August - Zika cases confirmed in the Bahamas. CDC adds country to interim alert list [[Ref]](http://google.com)
@@ -200,5 +185,3 @@ puts hello world
 11. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]](http://google.com)
 14. Highest recorded crime rate ever - last was 2015 [[Ref]](http://google.com)
 15. Murder count: ??? [[Ref]](http://google.com)
-
-</div><!-- /markdown -->

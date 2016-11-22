@@ -19,7 +19,7 @@ homepage: true
 
 
 
-##Read the <a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf" target="_blank">State of the Nation Report</a> here
+## Read the <a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf" target="_blank">State of the Nation Report</a> here
 
 "This report summarises the state of the nation based on an analysis of the nation’s current
 performance with respect to the four key pillars of development namely: Human Capital,
