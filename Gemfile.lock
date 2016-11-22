@@ -54,10 +54,10 @@ PLATFORMS
 DEPENDENCIES
   asciidoctor (~> 1.5.4)
   coderay (= 1.1.1)
-  jekyll (= 3.0.2)
+  jekyll
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
