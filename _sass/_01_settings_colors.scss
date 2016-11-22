@@ -26,13 +26,14 @@ $body-bg: 			#fdfdfd;
    http://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
+$ci-1: #012241;		// dark blue
+$ci-2: #D24545;		// light red
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-6: #45B29D;     // turquoise (45B29D)
 $ci-7: #00ff09; 	// lime green
+$ci-8: #0645AD;    // link blue
 
 
 /* Foundation Color Variables
@@ -109,7 +110,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg: $grey-8;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $ci-1;
 
 
 $subfooter-bg: $grey-13;

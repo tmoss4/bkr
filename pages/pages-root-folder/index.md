@@ -7,17 +7,22 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-widget1:
-  
-widget2:
-  
-widget3:
-
-callforaction:
-  url: http://tinyletter.com/bkr
-  text: Inform me about new updates and features ›
-  style: alert
 permalink: /index.html
+
+widget1:
+widget2:
+widget3:
+callforaction:
 
 homepage: true
 ---
+
+
+
+##Read the <a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf" target="_blank">State of the Nation Report</a> here
+
+"This report summarises the state of the nation based on an analysis of the nation’s current
+performance with respect to the four key pillars of development namely: Human Capital,
+Governance, the Environment and the Economy. It represents the culmination of over a
+year’s worth of research on the State of the Nation and provides the basis for the National
+Development Plan (NDP).""

@@ -146,12 +146,6 @@
           
           
         
-
-              
-
-          
-          
-        
         
       </ul>
 
@@ -204,22 +198,22 @@
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/constitution/">Constitution</a></li>
+                      <li><a href="http://localhost:4000/bkr/politics/constitution/">Constitution</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/system/">System</a></li>
+                      <li><a href="http://localhost:4000/bkr/politics/system/">System</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/parties/">Parties</a></li>
+                      <li><a href="http://localhost:4000/bkr/politics/parties/">Parties</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/know-your-politician/">Know Your Politician</a></li>
+                      <li><a href="http://localhost:4000/bkr/politics/know-your-politician/">Know Your Politician</a></li>
                     
 
                       
@@ -250,22 +244,124 @@
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/overview/">Overview</a></li>
+                      <li><a href="http://localhost:4000/bkr/education/overview/">Overview</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/list-of-schools/">List of Schools</a></li>
+                      <li><a href="http://localhost:4000/bkr/education/exam-results/">BJC/BGCSE Results</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/higher-education/">Higher Education</a></li>
+                      <li><a href="http://localhost:4000/bkr/education/list-of-schools/">List of Schools</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/all-bahamas-merit-scholars/">All Bahamas Merit Scholars</a></li>
+                      <li><a href="http://localhost:4000/bkr/education/higher-education/">Higher Education</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/education/all-bahamas-merit-scholars/">All Bahamas Merit Scholars</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="http://localhost:4000/bkr/issues/">Issues</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/crime/">Crime</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/unemployment/">Unemployment</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/gdp/">Declining GDP</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/education/overview/">Education</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/climate-change/">Climate Change</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/corruption/">Corruption</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/doing-business/">Difficulty of Doing Business</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/issues/social/">Social Issues</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="http://localhost:4000/bkr/search/">Business</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/business/bec-bpl/">BEC/BPL</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/business/btc/">BTC</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/bkr/business/notable-bahamian-owned/">Notable Bahamian Owned</a></li>
                     
                   </ul>
 
@@ -283,102 +379,6 @@
             
             
               <li><a href="http://localhost:4000/bkr/years-in-review/">Years in Review</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr/blog/">Issues</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/blog/archive/">Crime</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Unemployment</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Declining GDP</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-image-pattern/">Education</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-image-color/">Climate Change</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Corruption</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-full-width-image/">Difficulty of Doing Business</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-image-pattern/">Social Issues</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/design/header-image-color/">All Bahamas Merit Scholars</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/bkr/search/">Business</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/bkr/contact/">State of the Nation / Vision 2040</a></li>
               <li class="divider"></li>
 
             
@@ -536,6 +536,8 @@
             
               
             
+              
+            
 
             <ul class="no-bullet shadow-black">
             
@@ -545,13 +547,18 @@
                 </li>
             
               
-                <li class="network-entypo" >
-                  <a href="http://www.thefirstsay.org/" title="Icons by Daniel Bruce">The First Say</a>
+                <li class="" >
+                  <a href="http://www.thefirstsay.org/" title="The First Say">The First Say</a>
                 </li>
             
               
-                <li class="services-newsletter" >
-                  <a href="http://www.bahamapundit.com/" title="Built on Foundation">Bahama Pundit</a>
+                <li class="" >
+                  <a href="http://www.bahamapundit.com/" title="Bahama Pundit">Bahama Pundit</a>
+                </li>
+            
+              
+                <li class="" >
+                  <a href="http://www.gapminder.org/ignorance/" title="Gapminder">Gapminder</a>
                 </li>
             
             </ul>
@@ -564,7 +571,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Site created using <a href="http://jekyllrb.com/">Jekyll</a> based on the <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a> template.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">

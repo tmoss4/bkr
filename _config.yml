@@ -27,7 +27,7 @@ excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to tmoss4 or Feeling Responsive as a thank you :)
-credits: <p>Created with with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+credits: <p>Site created using <a href="http://jekyllrb.com/">Jekyll</a> based on the <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a> template.</p>
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

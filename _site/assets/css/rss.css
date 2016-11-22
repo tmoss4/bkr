@@ -145,7 +145,7 @@ meta.foundation-data-attribute-namespace {
 /* line 23 */
 channel > title {
   text-align: center;
-  color: #6590aa;
+  color: #0364bf;
   font-family: "Volkhov", Georgia, Times, serif;
   font-size: 3.6615em;
   font-weight: bolder;
@@ -183,14 +183,14 @@ item:last-child {
 }
 /* line 58 */
 item > title {
-  color: #A1D044;
+  color: #45B29D;
   font-family: "Volkhov", Georgia, Times, serif;
   font-size: 2.441em;
   margin-bottom: 0.5em;
 }
 /* line 65 */
 item > link {
-  color: #334D5C;
+  color: #012241;
 }
 /* line 69 */
 item > pubDate {

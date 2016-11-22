@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/bkr/</id>
 	<title>Bahamas Knowledge Revolution</title>
-	<updated>2016-11-07T22:35:51-05:00</updated>
+	<updated>2016-11-22T02:12:10-05:00</updated>
 
 	<subtitle>Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics</subtitle>
 
@@ -12,7 +12,7 @@
 		
 		<author>
 			
-				<name>tmoss4</name>
+				<name>Theo Moss</name>
 			
 			
 			
@@ -24,109 +24,5 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
-	
-		<entry>
-			<id>http://localhost:4000/bkr/design/header-logo-only/</id>
-			<title>Header With Logo Only</title>
-			<link href="http://localhost:4000/bkr/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
-			<updated>2014-10-09T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>tmoss4</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
-			<content type="html" xml:base="http://localhost:4000/bkr/design/header-logo-only/">&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/bkr/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/bkr/design/post-left-sidebar/</id>
-			<title>Page/Post With Left Sidebar</title>
-			<link href="http://localhost:4000/bkr/design/post-left-sidebar/" rel="alternate" type="text/html" title="Page/Post With Left Sidebar" />
-			<updated>2014-07-09T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>tmoss4</name>
-					
-					
-					
-				</author>
-			
-			<summary>This is a example of page/post with a sidebar on the left.</summary>
-			<content type="html" xml:base="http://localhost:4000/bkr/design/post-left-sidebar/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/bkr/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="post format" />
-			
-
-			<published>2014-07-09T00:00:00-04:00</published>
-		</entry>
 	
 </feed>

@@ -2199,14 +2199,14 @@ button, .button {
   padding-bottom: 1.0625rem;
   padding-left: 2rem;
   font-size: 1rem;
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #012241;
+  border-color: #011b34;
   color: #FFFFFF;
   transition: background-color 300ms ease-out;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #293e4a;
+  background-color: #011b34;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button:hover, button:focus, .button:hover, .button:focus {
@@ -2214,13 +2214,13 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 /* line 223, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.secondary, .button.secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
@@ -2228,13 +2228,13 @@ button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button
 }
 /* line 224, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.success, .button.success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
@@ -2270,13 +2270,13 @@ button.warning:hover, button.warning:focus, .button.warning:hover, .button.warni
 }
 /* line 227, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.info, .button.info {
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #012241;
+  border-color: #011b34;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.info:hover, button.info:focus, .button.info:hover, .button.info:focus {
-  background-color: #293e4a;
+  background-color: #011b34;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.info:hover, button.info:focus, .button.info:hover, .button.info:focus {
@@ -2332,8 +2332,8 @@ button.round, .button.round {
 }
 /* line 240, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled, button[disabled], .button.disabled, .button[disabled] {
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #012241;
+  border-color: #011b34;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
@@ -2341,7 +2341,7 @@ button.disabled, button[disabled], .button.disabled, .button[disabled] {
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #293e4a;
+  background-color: #011b34;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
@@ -2349,12 +2349,12 @@ button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[dis
 }
 /* line 178, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #334D5C;
+  background-color: #012241;
 }
 /* line 241, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
@@ -2362,7 +2362,7 @@ button.disabled.secondary, button[disabled].secondary, .button.disabled.secondar
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
@@ -2370,12 +2370,12 @@ button.disabled.secondary:hover, button.disabled.secondary:focus, button[disable
 }
 /* line 178, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.secondary:hover, button.disabled.secondary:focus, button[disabled].secondary:hover, button[disabled].secondary:focus, .button.disabled.secondary:hover, .button.disabled.secondary:focus, .button[disabled].secondary:hover, .button[disabled].secondary:focus {
-  background-color: #A1D044;
+  background-color: #45B29D;
 }
 /* line 242, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.success, button[disabled].success, .button.disabled.success, .button[disabled].success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
@@ -2383,7 +2383,7 @@ button.disabled.success, button[disabled].success, .button.disabled.success, .bu
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
@@ -2391,7 +2391,7 @@ button.disabled.success:hover, button.disabled.success:focus, button[disabled].s
 }
 /* line 178, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.success:hover, button.disabled.success:focus, button[disabled].success:hover, button[disabled].success:focus, .button.disabled.success:hover, .button.disabled.success:focus, .button[disabled].success:hover, .button[disabled].success:focus {
-  background-color: #A1D044;
+  background-color: #45B29D;
 }
 /* line 243, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.alert, button[disabled].alert, .button.disabled.alert, .button[disabled].alert {
@@ -2437,8 +2437,8 @@ button.disabled.warning:hover, button.disabled.warning:focus, button[disabled].w
 }
 /* line 245, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.info, button[disabled].info, .button.disabled.info, .button[disabled].info {
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #012241;
+  border-color: #011b34;
   color: #FFFFFF;
   cursor: default;
   opacity: 0.7;
@@ -2446,7 +2446,7 @@ button.disabled.info, button[disabled].info, .button.disabled.info, .button[disa
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
-  background-color: #293e4a;
+  background-color: #011b34;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
@@ -2454,7 +2454,7 @@ button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:ho
 }
 /* line 178, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 button.disabled.info:hover, button.disabled.info:focus, button[disabled].info:hover, button[disabled].info:focus, .button.disabled.info:hover, .button.disabled.info:focus, .button[disabled].info:hover, .button[disabled].info:focus {
-  background-color: #334D5C;
+  background-color: #012241;
 }
 
 /* line 250, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
@@ -3109,11 +3109,11 @@ meta.foundation-mq-topbar {
 }
 /* line 277, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a {
-  color: #A1D044;
+  color: #45B29D;
 }
 /* line 278, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a span::after {
-  box-shadow: 0 0 0 1px #A1D044, 0 7px 0 1px #A1D044, 0 14px 0 1px #A1D044;
+  box-shadow: 0 0 0 1px #45B29D, 0 7px 0 1px #45B29D, 0 14px 0 1px #45B29D;
 }
 
 /* line 291, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3142,7 +3142,7 @@ meta.foundation-mq-topbar {
 }
 /* line 314, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li {
-  background: #A1D044;
+  background: #45B29D;
 }
 /* line 316, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a {
@@ -3161,13 +3161,13 @@ meta.foundation-mq-topbar {
   font-size: 0.9375rem;
   padding-right: 1.04167rem;
   padding-left: 1.04167rem;
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #012241;
+  border-color: #011b34;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-  background-color: #293e4a;
+  background-color: #011b34;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
@@ -3175,13 +3175,13 @@ meta.foundation-mq-topbar {
 }
 /* line 333, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a.button.secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
@@ -3189,13 +3189,13 @@ meta.foundation-mq-topbar {
 }
 /* line 334, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > a.button.success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
@@ -3234,13 +3234,13 @@ meta.foundation-mq-topbar {
   font-size: 0.9375rem;
   padding-right: 1.04167rem;
   padding-left: 1.04167rem;
-  background-color: #334D5C;
-  border-color: #293e4a;
+  background-color: #012241;
+  border-color: #011b34;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
-  background-color: #293e4a;
+  background-color: #011b34;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button:hover, .top-bar-section ul li > button:focus {
@@ -3248,13 +3248,13 @@ meta.foundation-mq-topbar {
 }
 /* line 345, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > button.secondary {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.secondary:hover, .top-bar-section ul li > button.secondary:focus {
@@ -3262,13 +3262,13 @@ meta.foundation-mq-topbar {
 }
 /* line 346, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li > button.success {
-  background-color: #A1D044;
-  border-color: #84b02c;
+  background-color: #45B29D;
+  border-color: #378e7e;
   color: #FFFFFF;
 }
 /* line 161, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
-  background-color: #84b02c;
+  background-color: #378e7e;
 }
 /* line 167, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_buttons.scss */
 .top-bar-section ul li > button.success:hover, .top-bar-section ul li > button.success:focus {
@@ -3305,17 +3305,17 @@ meta.foundation-mq-topbar {
 /* line 352, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li:hover:not(.has-form) > a {
   background-color: #555555;
-  background: #A1D044;
+  background: #45B29D;
   color: #000;
 }
 /* line 361, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li.active > a {
-  background: #A1D044;
+  background: #45B29D;
   color: #000;
 }
 /* line 364, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li.active > a:hover {
-  background: #45B29D;
+  background: #D24545;
   color: #000;
 }
 /* line 372, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3333,7 +3333,7 @@ meta.foundation-mq-topbar {
   width: 0;
   height: 0;
   border: inset 5px;
-  border-color: transparent transparent transparent rgba(51, 77, 92, 0.4);
+  border-color: transparent transparent transparent rgba(1, 34, 65, 0.4);
   border-left-style: solid;
   margin-right: 1.04167rem;
   margin-top: -4.5px;
@@ -3416,7 +3416,7 @@ meta.foundation-mq-topbar {
   padding: 8px 1.04167rem 2px;
   margin-bottom: 0;
   text-transform: uppercase;
-  color: #45B29D;
+  color: #D24545;
   font-weight: bold;
   font-size: 0.625rem;
 }
@@ -3496,7 +3496,7 @@ meta.foundation-mq-topbar {
   /* line 500, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.hover > a:not(.button) {
     background-color: #555555;
-    background: #A1D044;
+    background: #45B29D;
     color: #000;
   }
   /* line 509, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3508,18 +3508,18 @@ meta.foundation-mq-topbar {
   /* line 513, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li:not(.has-form) a:not(.button):hover {
     background-color: #555555;
-    background: #A1D044;
+    background: #45B29D;
   }
   /* line 522, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button) {
     padding: 0 1.04167rem;
     line-height: 3.125rem;
     color: #000;
-    background: #A1D044;
+    background: #45B29D;
   }
   /* line 527, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button):hover {
-    background: #45B29D;
+    background: #D24545;
     color: #000;
   }
   /* line 537, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3533,7 +3533,7 @@ meta.foundation-mq-topbar {
     width: 0;
     height: 0;
     border: inset 5px;
-    border-color: rgba(51, 77, 92, 0.4) transparent transparent transparent;
+    border-color: rgba(1, 34, 65, 0.4) transparent transparent transparent;
     border-top-style: solid;
     margin-top: -2.5px;
     top: 1.5625rem;
@@ -3593,18 +3593,18 @@ meta.foundation-mq-topbar {
     line-height: 3.125rem;
     white-space: nowrap;
     padding: 12px 1.04167rem;
-    background: #45B29D;
+    background: #D24545;
   }
   /* line 594, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     color: #000;
-    background: #45B29D;
+    background: #D24545;
   }
   /* line 599, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
     color: #000;
     background-color: #555555;
-    background: #A1D044;
+    background: #45B29D;
   }
   /* line 608, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li label {
@@ -3653,12 +3653,12 @@ meta.foundation-mq-topbar {
   /* line 661, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .no-js .top-bar-section ul li:hover > a {
     background-color: #555555;
-    background: #A1D044;
+    background: #45B29D;
     color: #000;
   }
   /* line 670, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .no-js .top-bar-section ul li:active > a {
-    background: #A1D044;
+    background: #45B29D;
     color: #000;
   }
   /* line 678, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3739,8 +3739,8 @@ meta.foundation-mq-topbar {
   padding: 0.875rem 1.5rem 0.875rem 0.875rem;
   font-size: 0.9375rem;
   transition: opacity 300ms ease-out;
-  background-color: #334D5C;
-  border-color: #2c424f;
+  background-color: #012241;
+  border-color: #011d38;
   color: #FFFFFF;
 }
 /* line 115, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
@@ -3770,8 +3770,8 @@ meta.foundation-mq-topbar {
 }
 /* line 120, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
 .alert-box.success {
-  background-color: #A1D044;
-  border-color: #8ebe30;
+  background-color: #45B29D;
+  border-color: #3b9987;
   color: #FFFFFF;
 }
 /* line 121, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
@@ -3782,8 +3782,8 @@ meta.foundation-mq-topbar {
 }
 /* line 122, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
 .alert-box.secondary {
-  background-color: #A1D044;
-  border-color: #8ebe30;
+  background-color: #45B29D;
+  border-color: #3b9987;
   color: #FFFFFF;
 }
 /* line 123, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
@@ -3794,8 +3794,8 @@ meta.foundation-mq-topbar {
 }
 /* line 124, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
 .alert-box.info {
-  background-color: #334D5C;
-  border-color: #2c424f;
+  background-color: #012241;
+  border-color: #011d38;
   color: #FFFFFF;
 }
 /* line 125, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_alert-boxes.scss */
@@ -3823,7 +3823,7 @@ meta.foundation-mq-topbar {
   font-size: 0.6875rem;
   line-height: 0.6875rem;
   text-transform: uppercase;
-  color: #334D5C;
+  color: #012241;
 }
 /* line 68, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_breadcrumbs.scss */
 .breadcrumbs > *:hover a, .breadcrumbs > *:focus a {
@@ -3831,7 +3831,7 @@ meta.foundation-mq-topbar {
 }
 /* line 70, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_breadcrumbs.scss */
 .breadcrumbs > * a {
-  color: #334D5C;
+  color: #012241;
 }
 /* line 75, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_breadcrumbs.scss */
 .breadcrumbs > *.current {
@@ -5709,10 +5709,10 @@ kbd {
 .panel.callout {
   border-style: solid;
   border-width: 1px;
-  border-color: #cedce4;
+  border-color: #b0d8fe;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f1f5f7;
+  background: #e5f2ff;
   color: #333333;
 }
 /* line 55, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_panels.scss */
@@ -5738,11 +5738,11 @@ kbd {
 }
 /* line 84, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_panels.scss */
 .panel.callout a:not(.button) {
-  color: #334D5C;
+  color: #012241;
 }
 /* line 87, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_panels.scss */
 .panel.callout a:not(.button):hover, .panel.callout a:not(.button):focus {
-  color: #2c424f;
+  color: #011d38;
 }
 /* line 94, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_panels.scss */
 .panel.radius {
@@ -5954,18 +5954,18 @@ dialog[open] {
 /* line 75, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button) {
   display: block;
-  color: #334D5C;
+  color: #012241;
   margin: 0;
   padding: 0.4375rem 0.875rem;
 }
 /* line 80, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_side-nav.scss */
 .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus {
   background: rgba(0, 0, 0, 0.025);
-  color: #1f2e37;
+  color: #011427;
 }
 /* line 87, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_side-nav.scss */
 .side-nav li.active > a:first-child:not(.button) {
-  color: #1f2e37;
+  color: #011427;
   font-weight: normal;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -5979,7 +5979,7 @@ dialog[open] {
 }
 /* line 101, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_side-nav.scss */
 .side-nav li.heading {
-  color: #334D5C;
+  color: #012241;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -6030,7 +6030,7 @@ dialog[open] {
 .sub-nav li.active a {
   border-radius: 3px;
   font-weight: normal;
-  background: #334D5C;
+  background: #012241;
   padding: 0.1875rem 1rem;
   cursor: default;
   color: #FFFFFF;
@@ -6039,7 +6039,7 @@ dialog[open] {
 .sub-nav dt.active a:hover,
 .sub-nav dd.active a:hover,
 .sub-nav li.active a:hover {
-  background: #2c424f;
+  background: #011d38;
 }
 
 /* line 131, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_tables.scss */
@@ -6115,7 +6115,7 @@ table tr td {
 }
 /* line 48, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_thumbs.scss */
 .th:hover, .th:focus {
-  box-shadow: 0 0 6px 1px rgba(51, 77, 92, 0.5);
+  box-shadow: 0 0 6px 1px rgba(1, 34, 65, 0.5);
 }
 /* line 63, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_thumbs.scss */
 .th.radius {
@@ -6380,13 +6380,13 @@ td {
 /* Default Link Styles */
 /* line 217, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_type.scss */
 a {
-  color: #334D5C;
+  color: #012241;
   text-decoration: none;
   line-height: inherit;
 }
 /* line 222, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_type.scss */
 a:hover, a:focus {
-  color: #2c424f;
+  color: #011d38;
 }
 /* line 230, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_type.scss */
 a img {
@@ -6508,10 +6508,10 @@ code {
   font-family: "Lucida Console", Monaco, monospace;
   font-weight: normal;
   color: #333333;
-  background-color: #e3f1c7;
+  background-color: #c6e9e2;
   border-width: 1px;
   border-style: solid;
-  border-color: #d1e8a4;
+  border-color: #a7ddd3;
   padding: 0.125rem 0.3125rem 0.0625rem;
 }
 
@@ -7375,17 +7375,17 @@ a:visited {
 
 /* line 36, /Users/SatoshiUchiyuki/bkr/_sass/_06_typography.scss */
 a:hover {
-  color: #21323b;
+  color: #04317c;
 }
 
 /* line 40, /Users/SatoshiUchiyuki/bkr/_sass/_06_typography.scss */
 a:focus {
-  color: #57849e;
+  color: #2272f7;
 }
 
 /* line 44, /Users/SatoshiUchiyuki/bkr/_sass/_06_typography.scss */
 a:active {
-  color: #0f161a;
+  color: #031e4a;
 }
 
 /* Customize Foundation Typography
@@ -7531,8 +7531,8 @@ figcaption a,
 /* line 150, /Users/SatoshiUchiyuki/bkr/_sass/_06_typography.scss */
 figcaption a:hover,
 .masthead-caption a:hover {
-  border-bottom: 2px solid #334D5C;
-  color: #334D5C;
+  border-bottom: 2px solid #012241;
+  color: #012241;
 }
 
 /* line 155, /Users/SatoshiUchiyuki/bkr/_sass/_06_typography.scss */
@@ -7555,7 +7555,7 @@ pre {
   overflow: auto;
   margin-bottom: 1.25rem;
   padding: 5px;
-  background-color: #e3f1c7;
+  background-color: #c6e9e2;
   border-radius: 3px;
 }
 
@@ -8240,12 +8240,12 @@ body.video cite {
 ------------------------------------------------------------------- */
 /* line 67, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
 #masthead {
-  background-color: #334D5C;
+  background-color: #012241;
 }
 
 /* line 70, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
 #masthead-no-image-header {
-  background-color: #334D5C;
+  background-color: #012241;
 }
 
 /* line 73, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
@@ -8444,7 +8444,7 @@ body.video cite {
 
 /* line 226, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
 #page-meta .button:hover {
-  background: #334D5C;
+  background: #012241;
 }
 
 /* line 229, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
@@ -8462,7 +8462,7 @@ body.video cite {
 /* line 237, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
 .meta-info a:hover {
   text-decoration: none;
-  color: #A1D044;
+  color: #45B29D;
 }
 
 /* Jump to top
@@ -8503,7 +8503,7 @@ body.video cite {
 
 /* line 277, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
 #footer a {
-  color: #A1D044;
+  color: #012241;
 }
 
 /* line 280, /Users/SatoshiUchiyuki/bkr/_sass/_07_layout.scss */
@@ -8752,7 +8752,7 @@ body.video cite {
 /* line 79, /Users/SatoshiUchiyuki/bkr/_sass/_09_elements.scss */
 .alert-box.terminal::before {
   content: "$ ";
-  color: #A1D044;
+  color: #45B29D;
   float: left;
   margin: .25em .5em 0 0;
 }
