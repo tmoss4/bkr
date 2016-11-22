@@ -22,9 +22,9 @@ puts hello world
 ```
 
 <div markdown="1">
-###Those who fail to learn from history are doomed to repeat it.###
+### Those who fail to learn from history are doomed to repeat it.
 
-#####This page chronicles the major events that have affected the Bahamas starting from the year 2000.#####
+##### This page chronicles the major events that have affected the Bahamas starting from the year 2000. #####
 
 ##2000
 
