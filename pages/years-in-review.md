@@ -8,6 +8,8 @@ header:
 permalink: "/years-in-review/"
 ---
 
+<div class="row">
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 ###Those who fail to learn from history are doomed to repeat it.###
 
 #####This page chronicles the major events that have affected the Bahamas starting from the year 2000.#####
@@ -187,3 +189,5 @@ permalink: "/years-in-review/"
 14. Highest recorded crime rate ever - last was 2015 [[Ref]](http://google.com)
 15. Murder count: ??? [[Ref]](http://google.com)
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
