@@ -14,7 +14,8 @@ header:
 
 ## Different Page/Posts Formats   {#formats}
 
-#Ello
+###Ello
+Take that
 
 *Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
 
