@@ -13,7 +13,7 @@
 
             <p class="shadow-black">
               {{ site.description }}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
+              <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -66,7 +66,7 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+              <li><a href="{{ social_item.url }}" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}
             </ul>
           </section>

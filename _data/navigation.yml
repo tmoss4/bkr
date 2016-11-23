@@ -10,6 +10,7 @@
 # Indented are subheadings
 - title: "Politics"
   side: left
+  url: "/politics/"
   dropdown:
   - title: "Constitution"
     url: "/politics/constitution/"
@@ -20,12 +21,12 @@
   - title: "Know Your Politician"
     url: "/politics/know-your-politician/"
   - title: "Statistics"
+    url: "/politics/statistics/"
 
 - title: "Education"
   side: left
+  url: "/education/"
   dropdown:
-  - title: "Overview"
-    url: "/education/overview/"
   - title: "BJC/BGCSE Results"
     url: "/education/exam-results/"
   - title: "List of Schools"
@@ -54,10 +55,10 @@
   - title: "Difficulty of Doing Business"
     url: "/issues/doing-business/"
   - title: "Social Issues"
-    url: "/issues/social/"
+    url: "/issues/social-issues/"
 
 - title: "Business"
-  url: "/search/"
+  url: "/business/"
   side: left
   dropdown:
   - title: "BEC/BPL"

@@ -87,6 +87,8 @@
 
 	
 
+	
+
 		]]></xsl:text>
 	</head>
 	<body id="top-of-page">
@@ -191,7 +193,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr">Politics</a>
+                <a href="http://localhost:4000/bkr/politics/">Politics</a>
 
                   <ul class="dropdown">
                     
@@ -218,7 +220,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/bkr">Statistics</a></li>
+                      <li><a href="http://localhost:4000/bkr/politics/statistics/">Statistics</a></li>
                     
                   </ul>
 
@@ -237,14 +239,9 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr">Education</a>
+                <a href="http://localhost:4000/bkr/education/">Education</a>
 
                   <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/bkr/education/overview/">Overview</a></li>
                     
 
                       
@@ -325,7 +322,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/issues/social/">Social Issues</a></li>
+                      <li><a href="http://localhost:4000/bkr/issues/social-issues/">Social Issues</a></li>
                     
                   </ul>
 
@@ -344,7 +341,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/bkr/search/">Business</a>
+                <a href="http://localhost:4000/bkr/business/">Business</a>
 
                   <ul class="dropdown">
                     
@@ -402,10 +399,6 @@
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
-
-
-
-
 
 
 
@@ -475,7 +468,7 @@
 
             <p class="shadow-black">
               Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics
-              <a href="http://localhost:4000/bkr/info/">More ›</a>
+              <a href="http://localhost:4000/bkr/about/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 

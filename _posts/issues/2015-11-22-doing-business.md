@@ -1,22 +1,43 @@
 ---
 layout: page-fullwidth
-show_meta: false
-title: "System"
-subheadline: ""
-teaser:
-header:
+subheadline:
+title:  "Doing Business"
+meta_title: "BKR - Doing Business"
+topic: "BKR"
+teaser: ""
+breadcrumb: true
+
 categories:
-	- politics
+    - issues
+tags:
+    - blog
+    - content
+    - post
+    - post format
+
 ---
 "An educated population is an empowered one."
-Sidebar.
 
-## The government of the Bahamas consists of three majors parts:
-1. The Queen (represented by the Governor-General)
-2. An elected House of Assembly (lower house / chamber)
-3. An appointed Senate (upper house / chamber)
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
 
-### 1. The Queen of the Bahamas
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+## Overview {#overview}
+
+The government of the Bahamas consists of three majors parts:
+* The Queen (represented by the Governor-General)
+* An elected House of Assembly (lower house / chamber)
+* An appointed Senate (upper house / chamber)
+
+### The Queen of the Bahamas
 
 The formal head of the Bahamian government a woman, Queen Elizabeth II. She appoints a viceregal representative called the Governor-General to carry out her constitutional duties in her absence. 
 
@@ -24,7 +45,10 @@ Term Limits: The Governor-General typically ends their term within five years bu
 
 Powers and Responsibilities: In conjunction with the Prime Minister (the leader of the major ruling party), the Governor-General appoints government Ministers ( The role of the Governor-General is not well understood or documented outside of the constitution. 
 
-### 2. The House of Assembly
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+### The House of Assembly
 
 The House of Assembly (HoA) consists of 38 'Members of Parliament' (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.
 
@@ -44,7 +68,10 @@ Powers and Responsibilities: The HoA performs all major legislative functions.
 
 Some MPs are also selected as Ministers of one of 19 areas such as education, finance, and foreign affairs. Jump down to that section by clicking here.
 
-### 3. Senate
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+### Senate
 
 The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
 * the Prime Minister alone to appoint 9 of these Senators;
@@ -61,7 +88,10 @@ Term Limits: 5 years
 
 Powers and Responsibilities:
 
-### Ministries
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+## Ministries {#ministries}
 
 There are 19 distinct areas of government interest that are led by an individual. 
 
@@ -85,7 +115,10 @@ There are 19 distinct areas of government interest that are led by an individual
 18. Works and Urban Development
 19. Youth, Sports and Culture
 
-### Voting
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+## Voting {#voting}
 
 The only elected positions in the Bahamian government are the 38 Members of Parliament.
 
@@ -99,45 +132,35 @@ Who Can Run:
 
 Who Can Vote:
 
-### Constituencies
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
-There are 38 constituencies, X on Nassau and Y on the family islands.
+## Constituencies {#constituencies}
 
-1. Bain Town & Grants Town
-2. Bamboo Town
-3. Carmichael
-4. Cat Island, Rum Cay & San Salvador
-5. Central & South Abaco
-6. Central & South Eleuthera
-7. Central Grand Bahamas
-8. Centerville
-9. East Grand Bahamas
-10. Elizabeth
-11. Englerson
-12. Exumas and Ragged Island
-13. Fort Charlotte
-14. Fox Hill
-15. Garden Hills
-16. Golden Gates
-17. Golden Isles
-18. Killarney
-19. Long Island
-20. Mangrove Cay & South Andros
-21. Marathon
-22. Marco City
-23. MICAL
-24. Montagu
-25. Mount Moriah
-26. Nassau Village
-27. North Abaco
-28. North Andros & Berry Islands
-29. North Eleuthera
-30. Pineridge
-31. Pinewood
-32. Seabreeze
-33. South Beach
-34. Southern Shores
-35. St. Anne's
-36. Tall Pines
-37. West Grand Bahama & Bimini
-38. Yamacraw
+There are 38 constituencies, 24 on Nassau and 14 on the family islands.
+
+|Nassau                           | Nassau                          | Family Island                         |
+| :-----------------------------: | :-----------------------------: |:-------------------------------------:|
+| 1. Bain Town & Grants Town      | 13. Marathon                    | 1. Cat Island, Rum Cay & San Salvador |
+| 2. Bamboo Town                  | 14. Montagu                     | 2. Central & South Abaco              |
+| 3. Carmichael                   | 15. Mount Moriah                | 3. Central & South Eleuthera          |
+| 4. Centerville                  | 16. Nassau Village              | 4. Central Grand Bahama               |
+| 5. Elizabeth                    | 17. Pineridge                   | 5. East Grand Bahama                  |
+| 6. Englerston                   | 18. Pinewood                    | 6. Exumas and Ragged Island           |
+| 7. Fort Charlotte               | 29. Seabreeze                   | 7. Long Island 						|
+| 8. Fox Hill                     | 20. South Beach                 | 8. Mangrove Cay & South Andros        |
+| 9. Garden Hills                 | 21. Southern Shores             | 9. Marco City 		                |
+| 10. Golden Gates                | 22. St. Anne's                  | 10. M.I.C.A.L.* 					    |
+| 11. Golden Isles                | 23. Tall Pines                  | 11. North Abaco                		|
+| 12. Killarney                   | 24. Yamacraw                    | 12. North Andros & Berry Islands	    |
+|                                 |              					| 13. North Eleuthera           		|
+|                                 |              					| 14. West Grand Bahama & Bimini		|
+
+
+* Mayaguana, Inagua (Great & Little), Crooked Island, Acklins, and Long Cay
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
