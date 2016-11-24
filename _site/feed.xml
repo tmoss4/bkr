@@ -240,454 +240,75 @@
 				<title>Political System</title>
 				<link>http://localhost:4000/bkr/politics/statistics/</link>
 				<pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;“An educated population is an empowered one.”&lt;/p&gt;
+				<description>&lt;p&gt;You can find some great graphs at &lt;a href=&quot;http://www.thefirstsay.org/&quot;&gt;The First Say&lt;/a&gt;! and in the &lt;a href=&quot;http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf&quot;&gt;State of the Nation Report&lt;/a&gt;! I’ve recreated some here and added a few more of interest along with some of the most interesting facts about the Bahamas.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-queen-of-the-bahamas&quot; id=&quot;markdown-toc-the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-house-of-assembly&quot; id=&quot;markdown-toc-the-house-of-assembly&quot;&gt;The House of Assembly&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#senate&quot; id=&quot;markdown-toc-senate&quot;&gt;Senate&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ministries&quot; id=&quot;markdown-toc-ministries&quot;&gt;Ministries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#voting&quot; id=&quot;markdown-toc-voting&quot;&gt;Voting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#constituencies&quot; id=&quot;markdown-toc-constituencies&quot;&gt;Constituencies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;womens-issues&quot;&gt;Women’s Issues&lt;/h3&gt;
 
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+&lt;p&gt;The first woman elected to Parliament was Janet Bostwick in 1982 for the Free National Movement (FNM).
+* Women were only given substantive posts in Cabinet after the FNM won the 1992 general election.&lt;/p&gt;
 
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+&lt;p&gt;We as a people voted to deny women equal rights in the passage of citizenship to their children in two constitutional referenda - 2002 and 2016. It is not a crime in The Bahamas for a husband who is still with his wife to rape her.&lt;/p&gt;
 
-    &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-
-    &lt;p&gt;The government of the Bahamas consists of three majors parts:
-* The Queen (represented by the Governor-General)
-* An elected House of Assembly (lower house / chamber)
-* An appointed Senate (upper house / chamber)&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/h3&gt;
-
-    &lt;p&gt;The formal head of the Bahamian government a woman, Queen Elizabeth II. She appoints a viceregal representative called the Governor-General to carry out her constitutional duties in her absence.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: The Governor-General typically ends their term within five years but have no term limits.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: In conjunction with the Prime Minister (the leader of the major ruling party), the Governor-General appoints government Ministers ( The role of the Governor-General is not well understood or documented outside of the constitution.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-house-of-assembly&quot;&gt;The House of Assembly&lt;/h3&gt;
-
-    &lt;p&gt;The House of Assembly (HoA) consists of 38 ‘Members of Parliament’ (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.&lt;/p&gt;
-
-    &lt;p&gt;These results implicity decide two other positions:
-1. The Prime Minister - the controlling head of the Bahamian government
-2. The Leader of the Opposition&lt;/p&gt;
-
-    &lt;p&gt;While affliation with a political party is not necessary to run for a MP position, the two named positions require it.&lt;/p&gt;
-
-    &lt;p&gt;The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats).&lt;/p&gt;
-
-    &lt;p&gt;Similarly, the Leader of the Opposition is the leader of the party which wins the second highest seat count.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The HoA performs all major legislative functions.&lt;/p&gt;
-
-    &lt;p&gt;Some MPs are also selected as Ministers of one of 19 areas such as education, finance, and foreign affairs. Jump down to that section by clicking here.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;senate&quot;&gt;Senate&lt;/h3&gt;
-
-    &lt;p&gt;The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
-* the Prime Minister alone to appoint 9 of these Senators;
-* the Leader of the Opposition alone to appoint 4;
-* both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3.&lt;/p&gt;
-
-    &lt;p&gt;The Senate has a leadership position called the President of the Senate.&lt;/p&gt;
-
-    &lt;p&gt;The Senate is meant to operate as a checks-and-balance much like the US system.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The Senate can pass bills and make bill amendments which must be approved by the House of Assembly. The Senate may reject a bill that has passed the HoA. However, if the House passes the bill in two successive sessions, after Senate refusal, the HoA may send the bill directly to the Governor-General without the Senate’s consent.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;ministries&quot;&gt;Ministries&lt;/h2&gt;
-
-    &lt;p&gt;There are 19 distinct areas of government interest that are led by an individual.&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Agriculture, Marine Resources and Local Government&lt;/li&gt;
-      &lt;li&gt;Education, Science and Technology&lt;/li&gt;
-      &lt;li&gt;Environment and Housing&lt;/li&gt;
-      &lt;li&gt;Finance&lt;/li&gt;
-      &lt;li&gt;Financial Services&lt;/li&gt;
-      &lt;li&gt;Foreign Affairs and Immigration&lt;/li&gt;
-      &lt;li&gt;Grand Bahama&lt;/li&gt;
-      &lt;li&gt;Health&lt;/li&gt;
-      &lt;li&gt;Housing&lt;/li&gt;
-      &lt;li&gt;Labour and National Insurance&lt;/li&gt;
-      &lt;li&gt;Local Government&lt;/li&gt;
-      &lt;li&gt;National Security&lt;/li&gt;
-      &lt;li&gt;Office of the Attorney General &amp;amp; Ministry of Legal Affairs&lt;/li&gt;
-      &lt;li&gt;Public Service&lt;/li&gt;
-      &lt;li&gt;Social Services and Community Development&lt;/li&gt;
-      &lt;li&gt;Tourism&lt;/li&gt;
-      &lt;li&gt;Transport and Aviation&lt;/li&gt;
-      &lt;li&gt;Works and Urban Development&lt;/li&gt;
-      &lt;li&gt;Youth, Sports and Culture&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;voting&quot;&gt;Voting&lt;/h2&gt;
-
-    &lt;p&gt;The only elected positions in the Bahamian government are the 38 Members of Parliament.&lt;/p&gt;
-
-    &lt;p&gt;The 38 MPs correspond to 38 individual constituencies (neighborhoods) in which an MP must have resided for a certain period of time in order to be eligible to run in that area. Similarly, citizens may only vote on the set of individuals running in the constituency in which they have resided for a certain period of time. This leads to MPs restricting their campaigning efforts to the constituency in which they are running.&lt;/p&gt;
-
-    &lt;p&gt;An individual does not need to be affliated with a political party in order to run. However, because the Prime Minister is not elected and rather is the party leader of the winner of most MP seats, many citizens see voting for an independent candidate as an inability to directly affect who becomes Prime Minister.&lt;/p&gt;
-
-    &lt;p&gt;The citzens’ inability to directly vote for the Prime Minister is one of the primary reasons for the extreme degree of ‘party politics’ seen in the Bahamas. Unlike in the US where political parties are split on social and economical issues, political parties in the Bahamas are primarily differentiated by individuals and the party leader. Subsequently, many citizens vote for individuals running with a particular party because they approve of the party leader rather than the individual themselves.&lt;/p&gt;
-
-    &lt;p&gt;Who Can Run:&lt;/p&gt;
-
-    &lt;p&gt;Who Can Vote:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;constituencies&quot;&gt;Constituencies&lt;/h2&gt;
-
-    &lt;p&gt;There are 38 constituencies, 24 on Nassau and 14 on the family islands.&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Family Island&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Bain Town &amp;amp; Grants Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. Marathon&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Cat Island, Rum Cay &amp;amp; San Salvador&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Bamboo Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. Montagu&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Central &amp;amp; South Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Carmichael&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;15. Mount Moriah&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Central &amp;amp; South Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Centerville&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;16. Nassau Village&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Central Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. Elizabeth&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;17. Pineridge&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. East Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Englerston&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;18. Pinewood&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Exumas and Ragged Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Fort Charlotte&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;29. Seabreeze&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Long Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Fox Hill&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;20. South Beach&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Mangrove Cay &amp;amp; South Andros&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Garden Hills&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;21. Southern Shores&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Marco City&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. Golden Gates&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;22. St. Anne’s&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. M.I.C.A.L.*&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. Golden Isles&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;23. Tall Pines&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. North Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. Killarney&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;24. Yamacraw&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. North Andros &amp;amp; Berry Islands&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. North Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. West Grand Bahama &amp;amp; Bimini&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, and Long Cay&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/bkr/politics/statistics/</guid>
 			</item>
 		
 			<item>
-				<title>Political System</title>
+				<title>Political Parties</title>
 				<link>http://localhost:4000/bkr/politics/parties/</link>
 				<pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;“An educated population is an empowered one.”&lt;/p&gt;
+				<description>&lt;p&gt;There are three major political parties in the Bahamas. This page includes basic information about their views on various issues. Idealogical differences between the parties has previously been removed from the political discourse, however, this page categorizes their notable actions and quotes from party leaders in order to build a party profile.&lt;/p&gt;
+
+&lt;p&gt;Click on the party’s logo to visit their website and find contact information.&lt;/p&gt;
+
+&lt;h2 id=&quot;political-parties&quot;&gt;Political Parties&lt;/h2&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-queen-of-the-bahamas&quot; id=&quot;markdown-toc-the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-house-of-assembly&quot; id=&quot;markdown-toc-the-house-of-assembly&quot;&gt;The House of Assembly&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#senate&quot; id=&quot;markdown-toc-senate&quot;&gt;Senate&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ministries&quot; id=&quot;markdown-toc-ministries&quot;&gt;Ministries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#voting&quot; id=&quot;markdown-toc-voting&quot;&gt;Voting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#constituencies&quot; id=&quot;markdown-toc-constituencies&quot;&gt;Constituencies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+	&lt;!-- DNA --&gt;
+	&lt;div class=&quot;medium-4 columns t30&quot;&gt;
+		&lt;a href=&quot;http://www.mydnaparty.org/&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/dna-logo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;p&gt;&lt;center&gt;Leader: Branville McCartney&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Founded: 2011&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Headquarters: #144 Mackey Street&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;*Political Position: Center-right&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;http://www.bahamaslocal.com/newsitem/45905/McCartney_clarifies_position_on_marital_rape_issue.html&quot;&gt;Notable: &lt;/a&gt;Branville says that rape within a marriage should remain legal&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;http://www.tribune242.com/news/2014/aug/07/christie-says-no-gay-marriage/&quot;&gt;Notable: &lt;/a&gt;In 2014, Branville added to fearmongering that the 2016 constitutional amendments would pave the way for the legalization gay marriage - an issue his party would not support. In 2015, after same-sex marriage was legalized in the US nationwide, Branville adjusted his position to being personally against supporting individuals&#39; equal rights, but added that his party did not yet have a formal position. &lt;a href=&quot;http://www.tribune242.com/news/2015/jun/26/bran-bahamas-must-address-gay-marriage-issue/&quot;&gt;[Ref]&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=JmiZdyF_t-A&amp;amp;t=1s&quot;&gt;Notable: &lt;/a&gt;The party supports instituting a national lottery for additional revenue.&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Notes: Many young people align with the DNA, however, they are not seen as a serious threat to the more established parties.&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Democratic_National_Alliance_(Bahamas)&quot;&gt;DNA Wikipedia&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+	&lt;!-- FNM --&gt;
+	&lt;div class=&quot;medium-4 columns t30&quot;&gt;
+		&lt;a href=&quot;http://ourfnm.org/&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/fnm-logo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;p&gt;&lt;center&gt;Leader: Hubert Minnis&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Founded: 1971&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Headquarters: East Street South&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;*Political Position: ?&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;http://www.thenassauguardian.com/index.php?option%3Dcom_content%26view%3Darticle%26id%3D13051%26Itemid%3D86&quot;&gt;Notable: &lt;/a&gt;In 2007, the FNM inherited a budget surplus of ~$8 million which turned into a $600 million deficit when they left office in 2012. (The global financial crisis undoubtedly played a role)&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Notes: &lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Free_National_Movement&quot;&gt;FNM Wikipedia&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
-    &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+	&lt;!-- PLP --&gt;
+	&lt;div class=&quot;medium-4 columns t30&quot;&gt;
+		&lt;a href=&quot;http://myplp.org/&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/plp-logo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;p&gt;&lt;center&gt;Leader: Perry Christie&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Founded: 1953&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Headquarters: Sir Lynden Pindling Center&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;*Political Position: Center-left&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Notable: The PLP is largely responsible for the various issues relating to the overspending and underemployment related to &lt;a href=&quot;htttp://www.hotelnewsnow.com/Articles/27571/Tracking-Baha-Mars-development-trek&quot;&gt;Baha Mar&lt;/a&gt; and the overspending related to &lt;a href=&quot;http://www.bahamaslocal.com/newsitem/131596/Junkanoo_carnival_and_how_we_define_success.html&quot;&gt;Carnival&lt;/a&gt;.&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;Notable: The PLP supported the passing of the constitutional ammendements that would prevent discrimination based on sex and held a &lt;a href=&quot;https://en.wikipedia.org/wiki/Bahamian_constitutional_referendum,_2016&quot;&gt;referndum in 2016&lt;/a&gt;, however, all amendments were rejected.** This was a new position for the PLP as they openly campaigned against &lt;a href=&quot;https://en.wikipedia.org/wiki/Bahamian_referendum,_2002&quot;&gt;a similar referendum&lt;/a&gt; held in 2002 before the election which also included amendments seeking to end gender discrimination. Read more &lt;a href=&quot;http://www.thenassauguardian.com/national-review/63042-when-history-haunts&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;http://www.bahamasspectator.com/dpm%E2%80%88plp%E2%80%88did-nothing-wrong-in-2002-referendum/&quot;&gt;here&lt;/a&gt;.&lt;/center&gt;&lt;/p&gt;	
+		&lt;p&gt;&lt;center&gt;Notes: The PLP leader is seen as dishonest by many.&lt;/center&gt;&lt;/p&gt;
+		&lt;p&gt;&lt;center&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Progressive_Liberal_Party&quot;&gt;PLP Wikipedia&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
-    &lt;p&gt;The government of the Bahamas consists of three majors parts:
-* The Queen (represented by the Governor-General)
-* An elected House of Assembly (lower house / chamber)
-* An appointed Senate (upper house / chamber)&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/h3&gt;
-
-    &lt;p&gt;The formal head of the Bahamian government a woman, Queen Elizabeth II. She appoints a viceregal representative called the Governor-General to carry out her constitutional duties in her absence.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: The Governor-General typically ends their term within five years but have no term limits.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: In conjunction with the Prime Minister (the leader of the major ruling party), the Governor-General appoints government Ministers ( The role of the Governor-General is not well understood or documented outside of the constitution.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-house-of-assembly&quot;&gt;The House of Assembly&lt;/h3&gt;
-
-    &lt;p&gt;The House of Assembly (HoA) consists of 38 ‘Members of Parliament’ (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.&lt;/p&gt;
-
-    &lt;p&gt;These results implicity decide two other positions:
-1. The Prime Minister - the controlling head of the Bahamian government
-2. The Leader of the Opposition&lt;/p&gt;
-
-    &lt;p&gt;While affliation with a political party is not necessary to run for a MP position, the two named positions require it.&lt;/p&gt;
-
-    &lt;p&gt;The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats).&lt;/p&gt;
-
-    &lt;p&gt;Similarly, the Leader of the Opposition is the leader of the party which wins the second highest seat count.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The HoA performs all major legislative functions.&lt;/p&gt;
-
-    &lt;p&gt;Some MPs are also selected as Ministers of one of 19 areas such as education, finance, and foreign affairs. Jump down to that section by clicking here.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;senate&quot;&gt;Senate&lt;/h3&gt;
-
-    &lt;p&gt;The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
-* the Prime Minister alone to appoint 9 of these Senators;
-* the Leader of the Opposition alone to appoint 4;
-* both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3.&lt;/p&gt;
-
-    &lt;p&gt;The Senate has a leadership position called the President of the Senate.&lt;/p&gt;
-
-    &lt;p&gt;The Senate is meant to operate as a checks-and-balance much like the US system.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The Senate can pass bills and make bill amendments which must be approved by the House of Assembly. The Senate may reject a bill that has passed the HoA. However, if the House passes the bill in two successive sessions, after Senate refusal, the HoA may send the bill directly to the Governor-General without the Senate’s consent.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;ministries&quot;&gt;Ministries&lt;/h2&gt;
-
-    &lt;p&gt;There are 19 distinct areas of government interest that are led by an individual.&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Agriculture, Marine Resources and Local Government&lt;/li&gt;
-      &lt;li&gt;Education, Science and Technology&lt;/li&gt;
-      &lt;li&gt;Environment and Housing&lt;/li&gt;
-      &lt;li&gt;Finance&lt;/li&gt;
-      &lt;li&gt;Financial Services&lt;/li&gt;
-      &lt;li&gt;Foreign Affairs and Immigration&lt;/li&gt;
-      &lt;li&gt;Grand Bahama&lt;/li&gt;
-      &lt;li&gt;Health&lt;/li&gt;
-      &lt;li&gt;Housing&lt;/li&gt;
-      &lt;li&gt;Labour and National Insurance&lt;/li&gt;
-      &lt;li&gt;Local Government&lt;/li&gt;
-      &lt;li&gt;National Security&lt;/li&gt;
-      &lt;li&gt;Office of the Attorney General &amp;amp; Ministry of Legal Affairs&lt;/li&gt;
-      &lt;li&gt;Public Service&lt;/li&gt;
-      &lt;li&gt;Social Services and Community Development&lt;/li&gt;
-      &lt;li&gt;Tourism&lt;/li&gt;
-      &lt;li&gt;Transport and Aviation&lt;/li&gt;
-      &lt;li&gt;Works and Urban Development&lt;/li&gt;
-      &lt;li&gt;Youth, Sports and Culture&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;voting&quot;&gt;Voting&lt;/h2&gt;
-
-    &lt;p&gt;The only elected positions in the Bahamian government are the 38 Members of Parliament.&lt;/p&gt;
-
-    &lt;p&gt;The 38 MPs correspond to 38 individual constituencies (neighborhoods) in which an MP must have resided for a certain period of time in order to be eligible to run in that area. Similarly, citizens may only vote on the set of individuals running in the constituency in which they have resided for a certain period of time. This leads to MPs restricting their campaigning efforts to the constituency in which they are running.&lt;/p&gt;
-
-    &lt;p&gt;An individual does not need to be affliated with a political party in order to run. However, because the Prime Minister is not elected and rather is the party leader of the winner of most MP seats, many citizens see voting for an independent candidate as an inability to directly affect who becomes Prime Minister.&lt;/p&gt;
-
-    &lt;p&gt;The citzens’ inability to directly vote for the Prime Minister is one of the primary reasons for the extreme degree of ‘party politics’ seen in the Bahamas. Unlike in the US where political parties are split on social and economical issues, political parties in the Bahamas are primarily differentiated by individuals and the party leader. Subsequently, many citizens vote for individuals running with a particular party because they approve of the party leader rather than the individual themselves.&lt;/p&gt;
-
-    &lt;p&gt;Who Can Run:&lt;/p&gt;
-
-    &lt;p&gt;Who Can Vote:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;constituencies&quot;&gt;Constituencies&lt;/h2&gt;
-
-    &lt;p&gt;There are 38 constituencies, 24 on Nassau and 14 on the family islands.&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Family Island&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Bain Town &amp;amp; Grants Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. Marathon&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Cat Island, Rum Cay &amp;amp; San Salvador&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Bamboo Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. Montagu&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Central &amp;amp; South Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Carmichael&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;15. Mount Moriah&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Central &amp;amp; South Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Centerville&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;16. Nassau Village&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Central Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. Elizabeth&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;17. Pineridge&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. East Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Englerston&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;18. Pinewood&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Exumas and Ragged Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Fort Charlotte&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;29. Seabreeze&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Long Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Fox Hill&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;20. South Beach&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Mangrove Cay &amp;amp; South Andros&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Garden Hills&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;21. Southern Shores&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Marco City&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. Golden Gates&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;22. St. Anne’s&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. M.I.C.A.L.*&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. Golden Isles&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;23. Tall Pines&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. North Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. Killarney&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;24. Yamacraw&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. North Andros &amp;amp; Berry Islands&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. North Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. West Grand Bahama &amp;amp; Bimini&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, and Long Cay&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
+
+&lt;h5&gt;*Political positions are from the parties&#39; wikipedia pages.&lt;/h5&gt;
+&lt;h5&gt;**No constitutional amendments have ever been passed in the Bahamas by referendum. Furthermore, they are generally a &lt;a href=&quot;http://www.politico.com/magazine/story/2016/07/brexit-trump-referendums-political-exclusion-214014&quot;&gt;poor way of making decisions&lt;/a&gt;. It is difficult for many citizens to separate their feelings for the current administration from the vote itself and so referendum results tend to be a better indicator of how the public feels about a particular party rather than the issues themselves.&lt;/h5&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/bkr/politics/parties/</guid>
 			</item>
@@ -4004,226 +3625,57 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
 				<title>Unemployment</title>
 				<link>http://localhost:4000/bkr/issues/unemployment/</link>
 				<pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;“An educated population is an empowered one.”&lt;/p&gt;
+				<description>&lt;p&gt;Youth unemployment is particularly high in the Bahamas with rates sometimes double the national rate.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-queen-of-the-bahamas&quot; id=&quot;markdown-toc-the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-house-of-assembly&quot; id=&quot;markdown-toc-the-house-of-assembly&quot;&gt;The House of Assembly&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#senate&quot; id=&quot;markdown-toc-senate&quot;&gt;Senate&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ministries&quot; id=&quot;markdown-toc-ministries&quot;&gt;Ministries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#voting&quot; id=&quot;markdown-toc-voting&quot;&gt;Voting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#constituencies&quot; id=&quot;markdown-toc-constituencies&quot;&gt;Constituencies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- Unemployment Graph --&gt;
+&lt;!--Chart Placement[2]--&gt;
+&lt;div id=&quot;chartDiv&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	var chartData = {
+      type: &quot;bar&quot;,  // Specify your chart type here.
+      title: {
+        text: &quot;Unemployment in the Bahamas by Year&quot; // Adds a title to your chart
+    },
+    &quot;scale-x&quot;: {
+    	&quot;items-overlap&quot;: false,
+    	label: {
+    		text: &quot;Year&quot;
+    	},
+    	values: [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015] 
+    },
+    &quot;scale-y&quot;:{
+    	label: {
+    		text: &quot;Unemployment-rate&quot;
+    	},
+    	format: &quot;%v%&quot;
+    },
+    &quot;crosshair-x&quot;:{
+    	plotLabel:{
 
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+    	}
+    },
+    plot:{
+    	tooltip:{
+    		visible : false
+    	}
+    },
+      series: [  // Insert your series data here.
+      { 
+      	values: [7.6, 7.9, 8.7, 14.2,,13.7, 14.0, 15.4, 15.7, 14.8],
+      	backgroundColor:&quot;#0011AB&quot;,
+      	text: &quot;Unemployment-rate&quot;
+      }
+      ]
+  };
+    zingchart.render({ // Render Method[3]
+    	id: &quot;chartDiv&quot;,
+    	data: chartData,
+    	height: 400,
+    });
+&lt;/script&gt;
 
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+&lt;p class=&quot;text-right&quot;&gt;Source: &lt;a href=&quot;http://www.tradingeconomics.com/bahamas/unemployment-rate&quot;&gt;Trading Economics&lt;/a&gt;&lt;/p&gt;
 
-    &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-
-    &lt;p&gt;The government of the Bahamas consists of three majors parts:
-* The Queen (represented by the Governor-General)
-* An elected House of Assembly (lower house / chamber)
-* An appointed Senate (upper house / chamber)&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/h3&gt;
-
-    &lt;p&gt;The formal head of the Bahamian government a woman, Queen Elizabeth II. She appoints a viceregal representative called the Governor-General to carry out her constitutional duties in her absence.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: The Governor-General typically ends their term within five years but have no term limits.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: In conjunction with the Prime Minister (the leader of the major ruling party), the Governor-General appoints government Ministers ( The role of the Governor-General is not well understood or documented outside of the constitution.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-house-of-assembly&quot;&gt;The House of Assembly&lt;/h3&gt;
-
-    &lt;p&gt;The House of Assembly (HoA) consists of 38 ‘Members of Parliament’ (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.&lt;/p&gt;
-
-    &lt;p&gt;These results implicity decide two other positions:
-1. The Prime Minister - the controlling head of the Bahamian government
-2. The Leader of the Opposition&lt;/p&gt;
-
-    &lt;p&gt;While affliation with a political party is not necessary to run for a MP position, the two named positions require it.&lt;/p&gt;
-
-    &lt;p&gt;The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats).&lt;/p&gt;
-
-    &lt;p&gt;Similarly, the Leader of the Opposition is the leader of the party which wins the second highest seat count.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The HoA performs all major legislative functions.&lt;/p&gt;
-
-    &lt;p&gt;Some MPs are also selected as Ministers of one of 19 areas such as education, finance, and foreign affairs. Jump down to that section by clicking here.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;senate&quot;&gt;Senate&lt;/h3&gt;
-
-    &lt;p&gt;The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
-* the Prime Minister alone to appoint 9 of these Senators;
-* the Leader of the Opposition alone to appoint 4;
-* both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3.&lt;/p&gt;
-
-    &lt;p&gt;The Senate has a leadership position called the President of the Senate.&lt;/p&gt;
-
-    &lt;p&gt;The Senate is meant to operate as a checks-and-balance much like the US system.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The Senate can pass bills and make bill amendments which must be approved by the House of Assembly. The Senate may reject a bill that has passed the HoA. However, if the House passes the bill in two successive sessions, after Senate refusal, the HoA may send the bill directly to the Governor-General without the Senate’s consent.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;ministries&quot;&gt;Ministries&lt;/h2&gt;
-
-    &lt;p&gt;There are 19 distinct areas of government interest that are led by an individual.&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Agriculture, Marine Resources and Local Government&lt;/li&gt;
-      &lt;li&gt;Education, Science and Technology&lt;/li&gt;
-      &lt;li&gt;Environment and Housing&lt;/li&gt;
-      &lt;li&gt;Finance&lt;/li&gt;
-      &lt;li&gt;Financial Services&lt;/li&gt;
-      &lt;li&gt;Foreign Affairs and Immigration&lt;/li&gt;
-      &lt;li&gt;Grand Bahama&lt;/li&gt;
-      &lt;li&gt;Health&lt;/li&gt;
-      &lt;li&gt;Housing&lt;/li&gt;
-      &lt;li&gt;Labour and National Insurance&lt;/li&gt;
-      &lt;li&gt;Local Government&lt;/li&gt;
-      &lt;li&gt;National Security&lt;/li&gt;
-      &lt;li&gt;Office of the Attorney General &amp;amp; Ministry of Legal Affairs&lt;/li&gt;
-      &lt;li&gt;Public Service&lt;/li&gt;
-      &lt;li&gt;Social Services and Community Development&lt;/li&gt;
-      &lt;li&gt;Tourism&lt;/li&gt;
-      &lt;li&gt;Transport and Aviation&lt;/li&gt;
-      &lt;li&gt;Works and Urban Development&lt;/li&gt;
-      &lt;li&gt;Youth, Sports and Culture&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;voting&quot;&gt;Voting&lt;/h2&gt;
-
-    &lt;p&gt;The only elected positions in the Bahamian government are the 38 Members of Parliament.&lt;/p&gt;
-
-    &lt;p&gt;The 38 MPs correspond to 38 individual constituencies (neighborhoods) in which an MP must have resided for a certain period of time in order to be eligible to run in that area. Similarly, citizens may only vote on the set of individuals running in the constituency in which they have resided for a certain period of time. This leads to MPs restricting their campaigning efforts to the constituency in which they are running.&lt;/p&gt;
-
-    &lt;p&gt;An individual does not need to be affliated with a political party in order to run. However, because the Prime Minister is not elected and rather is the party leader of the winner of most MP seats, many citizens see voting for an independent candidate as an inability to directly affect who becomes Prime Minister.&lt;/p&gt;
-
-    &lt;p&gt;The citzens’ inability to directly vote for the Prime Minister is one of the primary reasons for the extreme degree of ‘party politics’ seen in the Bahamas. Unlike in the US where political parties are split on social and economical issues, political parties in the Bahamas are primarily differentiated by individuals and the party leader. Subsequently, many citizens vote for individuals running with a particular party because they approve of the party leader rather than the individual themselves.&lt;/p&gt;
-
-    &lt;p&gt;Who Can Run:&lt;/p&gt;
-
-    &lt;p&gt;Who Can Vote:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;constituencies&quot;&gt;Constituencies&lt;/h2&gt;
-
-    &lt;p&gt;There are 38 constituencies, 24 on Nassau and 14 on the family islands.&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Family Island&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Bain Town &amp;amp; Grants Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. Marathon&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Cat Island, Rum Cay &amp;amp; San Salvador&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Bamboo Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. Montagu&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Central &amp;amp; South Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Carmichael&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;15. Mount Moriah&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Central &amp;amp; South Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Centerville&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;16. Nassau Village&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Central Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. Elizabeth&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;17. Pineridge&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. East Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Englerston&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;18. Pinewood&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Exumas and Ragged Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Fort Charlotte&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;29. Seabreeze&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Long Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Fox Hill&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;20. South Beach&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Mangrove Cay &amp;amp; South Andros&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Garden Hills&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;21. Southern Shores&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Marco City&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. Golden Gates&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;22. St. Anne’s&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. M.I.C.A.L.*&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. Golden Isles&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;23. Tall Pines&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. North Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. Killarney&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;24. Yamacraw&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. North Andros &amp;amp; Berry Islands&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. North Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. West Grand Bahama &amp;amp; Bimini&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, and Long Cay&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/bkr/issues/unemployment/</guid>
 			</item>
@@ -4232,226 +3684,13 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
 				<title>Social Issues</title>
 				<link>http://localhost:4000/bkr/issues/social-issues/</link>
 				<pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;“An educated population is an empowered one.”&lt;/p&gt;
+				<description>&lt;h3 id=&quot;lgbtq-rights&quot;&gt;LGBTQ+ Rights&lt;/h3&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-queen-of-the-bahamas&quot; id=&quot;markdown-toc-the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-house-of-assembly&quot; id=&quot;markdown-toc-the-house-of-assembly&quot;&gt;The House of Assembly&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#senate&quot; id=&quot;markdown-toc-senate&quot;&gt;Senate&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ministries&quot; id=&quot;markdown-toc-ministries&quot;&gt;Ministries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#voting&quot; id=&quot;markdown-toc-voting&quot;&gt;Voting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#constituencies&quot; id=&quot;markdown-toc-constituencies&quot;&gt;Constituencies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The Bahamas is a dangerous places for LGBTQ+ individuals and popular opinion is mixed at best. A combination of religious fearmongering, ignorance, and xenaphobia have often led to violent levels of homophobia. Especially on Nassau, ‘gay’ is often used as a slur and adults who display anything but stereotypical normative behaviors are imagined to be homosexual or mentally ill. This is, of course, complete nonsense.&lt;/p&gt;
 
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+&lt;p&gt;Fred Mitchell, Minister of Foreign Affairs (2012-2017), has been outspoken on the need for comprehensive LGBTQ rights and we salute him for it. We stand with him and all intelligent individuals who recognize that “a violation of human rights anywhere is the business of free people everywhere.” (Ronald Reagan)&lt;/p&gt;
 
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
-
-    &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-
-    &lt;p&gt;The government of the Bahamas consists of three majors parts:
-* The Queen (represented by the Governor-General)
-* An elected House of Assembly (lower house / chamber)
-* An appointed Senate (upper house / chamber)&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/h3&gt;
-
-    &lt;p&gt;The formal head of the Bahamian government a woman, Queen Elizabeth II. She appoints a viceregal representative called the Governor-General to carry out her constitutional duties in her absence.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: The Governor-General typically ends their term within five years but have no term limits.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: In conjunction with the Prime Minister (the leader of the major ruling party), the Governor-General appoints government Ministers ( The role of the Governor-General is not well understood or documented outside of the constitution.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-house-of-assembly&quot;&gt;The House of Assembly&lt;/h3&gt;
-
-    &lt;p&gt;The House of Assembly (HoA) consists of 38 ‘Members of Parliament’ (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.&lt;/p&gt;
-
-    &lt;p&gt;These results implicity decide two other positions:
-1. The Prime Minister - the controlling head of the Bahamian government
-2. The Leader of the Opposition&lt;/p&gt;
-
-    &lt;p&gt;While affliation with a political party is not necessary to run for a MP position, the two named positions require it.&lt;/p&gt;
-
-    &lt;p&gt;The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats).&lt;/p&gt;
-
-    &lt;p&gt;Similarly, the Leader of the Opposition is the leader of the party which wins the second highest seat count.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The HoA performs all major legislative functions.&lt;/p&gt;
-
-    &lt;p&gt;Some MPs are also selected as Ministers of one of 19 areas such as education, finance, and foreign affairs. Jump down to that section by clicking here.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;senate&quot;&gt;Senate&lt;/h3&gt;
-
-    &lt;p&gt;The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
-* the Prime Minister alone to appoint 9 of these Senators;
-* the Leader of the Opposition alone to appoint 4;
-* both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3.&lt;/p&gt;
-
-    &lt;p&gt;The Senate has a leadership position called the President of the Senate.&lt;/p&gt;
-
-    &lt;p&gt;The Senate is meant to operate as a checks-and-balance much like the US system.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The Senate can pass bills and make bill amendments which must be approved by the House of Assembly. The Senate may reject a bill that has passed the HoA. However, if the House passes the bill in two successive sessions, after Senate refusal, the HoA may send the bill directly to the Governor-General without the Senate’s consent.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;ministries&quot;&gt;Ministries&lt;/h2&gt;
-
-    &lt;p&gt;There are 19 distinct areas of government interest that are led by an individual.&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Agriculture, Marine Resources and Local Government&lt;/li&gt;
-      &lt;li&gt;Education, Science and Technology&lt;/li&gt;
-      &lt;li&gt;Environment and Housing&lt;/li&gt;
-      &lt;li&gt;Finance&lt;/li&gt;
-      &lt;li&gt;Financial Services&lt;/li&gt;
-      &lt;li&gt;Foreign Affairs and Immigration&lt;/li&gt;
-      &lt;li&gt;Grand Bahama&lt;/li&gt;
-      &lt;li&gt;Health&lt;/li&gt;
-      &lt;li&gt;Housing&lt;/li&gt;
-      &lt;li&gt;Labour and National Insurance&lt;/li&gt;
-      &lt;li&gt;Local Government&lt;/li&gt;
-      &lt;li&gt;National Security&lt;/li&gt;
-      &lt;li&gt;Office of the Attorney General &amp;amp; Ministry of Legal Affairs&lt;/li&gt;
-      &lt;li&gt;Public Service&lt;/li&gt;
-      &lt;li&gt;Social Services and Community Development&lt;/li&gt;
-      &lt;li&gt;Tourism&lt;/li&gt;
-      &lt;li&gt;Transport and Aviation&lt;/li&gt;
-      &lt;li&gt;Works and Urban Development&lt;/li&gt;
-      &lt;li&gt;Youth, Sports and Culture&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;voting&quot;&gt;Voting&lt;/h2&gt;
-
-    &lt;p&gt;The only elected positions in the Bahamian government are the 38 Members of Parliament.&lt;/p&gt;
-
-    &lt;p&gt;The 38 MPs correspond to 38 individual constituencies (neighborhoods) in which an MP must have resided for a certain period of time in order to be eligible to run in that area. Similarly, citizens may only vote on the set of individuals running in the constituency in which they have resided for a certain period of time. This leads to MPs restricting their campaigning efforts to the constituency in which they are running.&lt;/p&gt;
-
-    &lt;p&gt;An individual does not need to be affliated with a political party in order to run. However, because the Prime Minister is not elected and rather is the party leader of the winner of most MP seats, many citizens see voting for an independent candidate as an inability to directly affect who becomes Prime Minister.&lt;/p&gt;
-
-    &lt;p&gt;The citzens’ inability to directly vote for the Prime Minister is one of the primary reasons for the extreme degree of ‘party politics’ seen in the Bahamas. Unlike in the US where political parties are split on social and economical issues, political parties in the Bahamas are primarily differentiated by individuals and the party leader. Subsequently, many citizens vote for individuals running with a particular party because they approve of the party leader rather than the individual themselves.&lt;/p&gt;
-
-    &lt;p&gt;Who Can Run:&lt;/p&gt;
-
-    &lt;p&gt;Who Can Vote:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;constituencies&quot;&gt;Constituencies&lt;/h2&gt;
-
-    &lt;p&gt;There are 38 constituencies, 24 on Nassau and 14 on the family islands.&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Family Island&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Bain Town &amp;amp; Grants Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. Marathon&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Cat Island, Rum Cay &amp;amp; San Salvador&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Bamboo Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. Montagu&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Central &amp;amp; South Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Carmichael&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;15. Mount Moriah&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Central &amp;amp; South Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Centerville&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;16. Nassau Village&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Central Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. Elizabeth&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;17. Pineridge&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. East Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Englerston&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;18. Pinewood&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Exumas and Ragged Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Fort Charlotte&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;29. Seabreeze&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Long Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Fox Hill&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;20. South Beach&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Mangrove Cay &amp;amp; South Andros&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Garden Hills&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;21. Southern Shores&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Marco City&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. Golden Gates&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;22. St. Anne’s&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. M.I.C.A.L.*&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. Golden Isles&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;23. Tall Pines&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. North Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. Killarney&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;24. Yamacraw&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. North Andros &amp;amp; Berry Islands&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. North Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. West Grand Bahama &amp;amp; Bimini&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, and Long Cay&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
+&lt;p&gt;[4]:&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/bkr/issues/social-issues/</guid>
 			</item>
@@ -4916,226 +4155,55 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
 				<title>Crime</title>
 				<link>http://localhost:4000/bkr/issues/crime/</link>
 				<pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;“An educated population is an empowered one.”&lt;/p&gt;
+				<description>&lt;p&gt;The United States Department of State heads the Overseas Security Advisory Council (OSAC) which releases annual reports on crime in the Bahamas. You can find the latest report &lt;a href=&quot;http://www.osac.gov/pages/ContentReportDetails.aspx?cid=19192&quot;&gt;here&lt;/a&gt;. Reports go back until 2012.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-queen-of-the-bahamas&quot; id=&quot;markdown-toc-the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-house-of-assembly&quot; id=&quot;markdown-toc-the-house-of-assembly&quot;&gt;The House of Assembly&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#senate&quot; id=&quot;markdown-toc-senate&quot;&gt;Senate&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ministries&quot; id=&quot;markdown-toc-ministries&quot;&gt;Ministries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#voting&quot; id=&quot;markdown-toc-voting&quot;&gt;Voting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#constituencies&quot; id=&quot;markdown-toc-constituencies&quot;&gt;Constituencies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- Murder Graph --&gt;
+&lt;!--Chart Placement[2]--&gt;
+&lt;div id=&quot;chartDiv&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	var chartData = {
+      type: &quot;bar&quot;,  // Specify your chart type here.
+      title: {
+        text: &quot;Murders in the Bahamas by Year&quot; // Adds a title to your chart
+    },
+    &quot;scale-x&quot;: {
+    	&quot;items-overlap&quot;: false,
+    	label: {
+    		text: &quot;Year&quot;
+    	},
+    	values: [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015] 
+    },
+    &quot;scale-y&quot;:{
+    	label: {
+    		text: &quot;Murder Count&quot;
+    	},
+    	step: 20
+    },
+    &quot;crosshair-x&quot;:{
+    	plotLabel:{
 
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+    	}
+    },
+    plot:{
+    	tooltip:{
+    		visible : false
+    	}
+    },
+      series: [  // Insert your series data here.
+      { 
+      	values: [73, 43, 52, 50, 44, 50, 60, 78, 72, 87, 94, 127, 111, 119, 122, 149],
+      	backgroundColor:&quot;#BF0000&quot;,
+      	text: &quot;Murders&quot;
+      }
+      ]
+  };
+    zingchart.render({ // Render Method[3]
+    	id: &quot;chartDiv&quot;,
+    	data: chartData,
+    	height: 400,
+    });
+&lt;/script&gt;
 
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
-
-    &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-
-    &lt;p&gt;The government of the Bahamas consists of three majors parts:
-* The Queen (represented by the Governor-General)
-* An elected House of Assembly (lower house / chamber)
-* An appointed Senate (upper house / chamber)&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-queen-of-the-bahamas&quot;&gt;The Queen of the Bahamas&lt;/h3&gt;
-
-    &lt;p&gt;The formal head of the Bahamian government a woman, Queen Elizabeth II. She appoints a viceregal representative called the Governor-General to carry out her constitutional duties in her absence.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: The Governor-General typically ends their term within five years but have no term limits.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: In conjunction with the Prime Minister (the leader of the major ruling party), the Governor-General appoints government Ministers ( The role of the Governor-General is not well understood or documented outside of the constitution.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;the-house-of-assembly&quot;&gt;The House of Assembly&lt;/h3&gt;
-
-    &lt;p&gt;The House of Assembly (HoA) consists of 38 ‘Members of Parliament’ (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.&lt;/p&gt;
-
-    &lt;p&gt;These results implicity decide two other positions:
-1. The Prime Minister - the controlling head of the Bahamian government
-2. The Leader of the Opposition&lt;/p&gt;
-
-    &lt;p&gt;While affliation with a political party is not necessary to run for a MP position, the two named positions require it.&lt;/p&gt;
-
-    &lt;p&gt;The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats).&lt;/p&gt;
-
-    &lt;p&gt;Similarly, the Leader of the Opposition is the leader of the party which wins the second highest seat count.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The HoA performs all major legislative functions.&lt;/p&gt;
-
-    &lt;p&gt;Some MPs are also selected as Ministers of one of 19 areas such as education, finance, and foreign affairs. Jump down to that section by clicking here.&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;senate&quot;&gt;Senate&lt;/h3&gt;
-
-    &lt;p&gt;The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
-* the Prime Minister alone to appoint 9 of these Senators;
-* the Leader of the Opposition alone to appoint 4;
-* both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3.&lt;/p&gt;
-
-    &lt;p&gt;The Senate has a leadership position called the President of the Senate.&lt;/p&gt;
-
-    &lt;p&gt;The Senate is meant to operate as a checks-and-balance much like the US system.&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities: The Senate can pass bills and make bill amendments which must be approved by the House of Assembly. The Senate may reject a bill that has passed the HoA. However, if the House passes the bill in two successive sessions, after Senate refusal, the HoA may send the bill directly to the Governor-General without the Senate’s consent.&lt;/p&gt;
-
-    &lt;p&gt;Term Limits: 5 years&lt;/p&gt;
-
-    &lt;p&gt;Powers and Responsibilities:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;ministries&quot;&gt;Ministries&lt;/h2&gt;
-
-    &lt;p&gt;There are 19 distinct areas of government interest that are led by an individual.&lt;/p&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Agriculture, Marine Resources and Local Government&lt;/li&gt;
-      &lt;li&gt;Education, Science and Technology&lt;/li&gt;
-      &lt;li&gt;Environment and Housing&lt;/li&gt;
-      &lt;li&gt;Finance&lt;/li&gt;
-      &lt;li&gt;Financial Services&lt;/li&gt;
-      &lt;li&gt;Foreign Affairs and Immigration&lt;/li&gt;
-      &lt;li&gt;Grand Bahama&lt;/li&gt;
-      &lt;li&gt;Health&lt;/li&gt;
-      &lt;li&gt;Housing&lt;/li&gt;
-      &lt;li&gt;Labour and National Insurance&lt;/li&gt;
-      &lt;li&gt;Local Government&lt;/li&gt;
-      &lt;li&gt;National Security&lt;/li&gt;
-      &lt;li&gt;Office of the Attorney General &amp;amp; Ministry of Legal Affairs&lt;/li&gt;
-      &lt;li&gt;Public Service&lt;/li&gt;
-      &lt;li&gt;Social Services and Community Development&lt;/li&gt;
-      &lt;li&gt;Tourism&lt;/li&gt;
-      &lt;li&gt;Transport and Aviation&lt;/li&gt;
-      &lt;li&gt;Works and Urban Development&lt;/li&gt;
-      &lt;li&gt;Youth, Sports and Culture&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;voting&quot;&gt;Voting&lt;/h2&gt;
-
-    &lt;p&gt;The only elected positions in the Bahamian government are the 38 Members of Parliament.&lt;/p&gt;
-
-    &lt;p&gt;The 38 MPs correspond to 38 individual constituencies (neighborhoods) in which an MP must have resided for a certain period of time in order to be eligible to run in that area. Similarly, citizens may only vote on the set of individuals running in the constituency in which they have resided for a certain period of time. This leads to MPs restricting their campaigning efforts to the constituency in which they are running.&lt;/p&gt;
-
-    &lt;p&gt;An individual does not need to be affliated with a political party in order to run. However, because the Prime Minister is not elected and rather is the party leader of the winner of most MP seats, many citizens see voting for an independent candidate as an inability to directly affect who becomes Prime Minister.&lt;/p&gt;
-
-    &lt;p&gt;The citzens’ inability to directly vote for the Prime Minister is one of the primary reasons for the extreme degree of ‘party politics’ seen in the Bahamas. Unlike in the US where political parties are split on social and economical issues, political parties in the Bahamas are primarily differentiated by individuals and the party leader. Subsequently, many citizens vote for individuals running with a particular party because they approve of the party leader rather than the individual themselves.&lt;/p&gt;
-
-    &lt;p&gt;Who Can Run:&lt;/p&gt;
-
-    &lt;p&gt;Who Can Vote:&lt;/p&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;constituencies&quot;&gt;Constituencies&lt;/h2&gt;
-
-    &lt;p&gt;There are 38 constituencies, 24 on Nassau and 14 on the family islands.&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Nassau&lt;/th&gt;
-          &lt;th style=&quot;text-align: center&quot;&gt;Family Island&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Bain Town &amp;amp; Grants Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. Marathon&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;1. Cat Island, Rum Cay &amp;amp; San Salvador&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Bamboo Town&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. Montagu&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;2. Central &amp;amp; South Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Carmichael&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;15. Mount Moriah&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;3. Central &amp;amp; South Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Centerville&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;16. Nassau Village&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;4. Central Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. Elizabeth&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;17. Pineridge&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;5. East Grand Bahama&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Englerston&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;18. Pinewood&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;6. Exumas and Ragged Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Fort Charlotte&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;29. Seabreeze&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;7. Long Island&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Fox Hill&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;20. South Beach&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;8. Mangrove Cay &amp;amp; South Andros&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Garden Hills&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;21. Southern Shores&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;9. Marco City&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. Golden Gates&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;22. St. Anne’s&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;10. M.I.C.A.L.*&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. Golden Isles&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;23. Tall Pines&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;11. North Abaco&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. Killarney&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;24. Yamacraw&lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;12. North Andros &amp;amp; Berry Islands&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;13. North Eleuthera&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-          &lt;td style=&quot;text-align: center&quot;&gt;14. West Grand Bahama &amp;amp; Bimini&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, and Long Cay&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p class=&quot;text-right&quot;&gt;&lt;small&gt;&lt;a href=&quot;#toc&quot;&gt;Up to table of contents&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-
-  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
-&lt;/div&gt;
-&lt;!-- /.row --&gt;
 </description>
 				<guid isPermaLink="true">http://localhost:4000/bkr/issues/crime/</guid>
 			</item>

@@ -302,7 +302,7 @@
 
                       
 
-                      <li><a href="http://localhost:4000/bkr/education/overview/">Education</a></li>
+                      <li><a href="http://localhost:4000/bkr/education/">Education</a></li>
                     
 
                       
@@ -541,17 +541,17 @@
             
               
                 <li class="" >
-                  <a href="http://www.thefirstsay.org/" title="The First Say">The First Say</a>
-                </li>
-            
-              
-                <li class="" >
                   <a href="http://www.bahamapundit.com/" title="Bahama Pundit">Bahama Pundit</a>
                 </li>
             
               
                 <li class="" >
                   <a href="http://www.gapminder.org/ignorance/" title="Gapminder">Gapminder</a>
+                </li>
+            
+              
+                <li class="" >
+                  <a href="http://www.thefirstsay.org/" title="The First Say">The First Say</a>
                 </li>
             
             </ul>
@@ -564,11 +564,16 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Site created using <a href="http://jekyllrb.com/">Jekyll</a> based on the <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a> template.</p>
+            <a href="https://tmoss4.github.io/pbr/"><img src="http://localhost:4000/bkr/images/logo.png" alt=""></a>
+            <p>Bahamas Knowledge Revolution is part of the <a href="https://tmoss4.github.io/pbr/">Paper Beats Rock Collection</a> <br/>Site created using <a href="http://jekyllrb.com/">Jekyll</a> based on the <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a> template.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
+            
+              <li><a href="http://www.facebook.com/" class="icon-facebook" title=""></a></li>
+            
+              <li><a href="http://github.com/tmoss4" class="icon-github" title="Global Island"></a></li>
             
             </ul>
           </section>

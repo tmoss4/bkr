@@ -1,9 +1,14 @@
 # Controls the Icons in the footer
 
-#- name: GitHub
- # url: http://github.com/tmoss4
-  #class: icon-github
-  #title: Global Island
+- name: Facebook
+  url: http://www.facebook.com/
+  class: icon-facebook
+  title: ""
+
+- name: GitHub
+  url: http://github.com/tmoss4
+  class: icon-github
+  title: Global Island
 
 #- name: YouTube
 #  url: https://www.youtube.com/PhlowMedia
@@ -24,11 +29,6 @@
  # url: http://plus.google.com/u/0/+Phlow
   #class: icon-googleplus
   #title: "YouTube Google+"
-
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

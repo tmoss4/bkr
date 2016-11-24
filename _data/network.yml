@@ -2,11 +2,6 @@
 
 - menu_name: "Other Great Websites"
 
-- name: "The First Say"
-  url: "http://www.thefirstsay.org/"
-  class: ""
-  title: "The First Say"
-
 - name: "Bahama Pundit"
   url: "http://www.bahamapundit.com/"
   class: ""
@@ -17,4 +12,7 @@
   class: ""
   title: "Gapminder"
 
-
+- name: "The First Say"
+  url: "http://www.thefirstsay.org/"
+  class: ""
+  title: "The First Say"
