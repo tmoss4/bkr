@@ -21,6 +21,8 @@ You can find some great graphs at [The First Say][1]! and in the [State of the N
 For crime statistics: check out the Overseas Security Advisory Council (OSAC) annual reports for the Bahamas like [this one][3] and the <a href="{{ site.url }}{{ site.baseurl }}issues/crime">crime page</a>.
 
 For education statistics: check out the [State of the Nation Report][2] and the <a href="{{ site.url }}{{ site.baseurl }}education/exam-results">exam-results page</a>.
+
+
 ### Women's Issues
 
 The first woman elected to Parliament was Janet Bostwick in 1982 for the Free National Movement (FNM).
