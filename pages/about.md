@@ -10,7 +10,7 @@ teaser:
 header:
 ---
 
-#####Our vision is a politically well-educated Bahamas.
+##### Our vision is a politically well-educated Bahamas.
 <br/>
 Bahamas Knowledge Revolution is part of the [Paper Beats Rock Collection](#) and was conceived and created by its founder, Theo Moss. <br/>
 BKR was one of the first projects that I wanted to come out of Paper Beats Rock and it was designed to do three things:

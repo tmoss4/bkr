@@ -237,12 +237,15 @@
 			</item>
 		
 			<item>
-				<title>Political System</title>
+				<title>Statistics</title>
 				<link>http://localhost:4000/bkr/politics/statistics/</link>
 				<pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;You can find some great graphs at &lt;a href=&quot;http://www.thefirstsay.org/&quot;&gt;The First Say&lt;/a&gt;! and in the &lt;a href=&quot;http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf&quot;&gt;State of the Nation Report&lt;/a&gt;! I’ve recreated some here and added a few more of interest along with some of the most interesting facts about the Bahamas.&lt;/p&gt;
 
-&lt;h3 id=&quot;womens-issues&quot;&gt;Women’s Issues&lt;/h3&gt;
+&lt;p&gt;For crime statistics: check out the Overseas Security Advisory Council (OSAC) annual reports for the Bahamas like &lt;a href=&quot;http://www.osac.gov/pages/ContentReportDetails.aspx?cid=19192&quot;&gt;this one&lt;/a&gt; and the &lt;a href=&quot;http://localhost:4000/bkrissues/crime&quot;&gt;crime page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For education statistics: check out the &lt;a href=&quot;http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf&quot;&gt;State of the Nation Report&lt;/a&gt; and the &lt;a href=&quot;http://localhost:4000/bkreducation/exam-results&quot;&gt;exam-results page&lt;/a&gt;.
+### Women’s Issues&lt;/p&gt;
 
 &lt;p&gt;The first woman elected to Parliament was Janet Bostwick in 1982 for the Free National Movement (FNM).
 * Women were only given substantive posts in Cabinet after the FNM won the 1992 general election.&lt;/p&gt;

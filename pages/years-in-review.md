@@ -12,10 +12,9 @@ header:
 
 ---
 >
-> 
-##### Those who fail to refuse to learn from history are condemned to repeat it.
+Those who fail to refuse to learn from history are condemned to repeat it.
 
-<h5> This page chronicles major events and statistics about the Bahamas back to the year 2000. </h5>
+<h5>This page chronicles major events and statistics about the Bahamas back to the year 2000.</h5>
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

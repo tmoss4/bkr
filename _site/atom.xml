@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/bkr/</id>
 	<title>Bahamas Knowledge Revolution</title>
-	<updated>2016-11-23T21:47:47-05:00</updated>
+	<updated>2016-11-23T22:25:31-05:00</updated>
 
 	<subtitle>Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics</subtitle>
 
@@ -282,8 +282,8 @@
 	
 		<entry>
 			<id>http://localhost:4000/bkr/politics/statistics/</id>
-			<title>Political System</title>
-			<link href="http://localhost:4000/bkr/politics/statistics/" rel="alternate" type="text/html" title="Political System" />
+			<title>Statistics</title>
+			<link href="http://localhost:4000/bkr/politics/statistics/" rel="alternate" type="text/html" title="Statistics" />
 			<updated>2015-11-22T00:00:00-05:00</updated>
 
 			
@@ -299,7 +299,10 @@
 			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/bkr/politics/statistics/">&lt;p&gt;You can find some great graphs at &lt;a href=&quot;http://www.thefirstsay.org/&quot;&gt;The First Say&lt;/a&gt;! and in the &lt;a href=&quot;http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf&quot;&gt;State of the Nation Report&lt;/a&gt;! I’ve recreated some here and added a few more of interest along with some of the most interesting facts about the Bahamas.&lt;/p&gt;
 
-&lt;h3 id=&quot;womens-issues&quot;&gt;Women’s Issues&lt;/h3&gt;
+&lt;p&gt;For crime statistics: check out the Overseas Security Advisory Council (OSAC) annual reports for the Bahamas like &lt;a href=&quot;http://www.osac.gov/pages/ContentReportDetails.aspx?cid=19192&quot;&gt;this one&lt;/a&gt; and the &lt;a href=&quot;http://localhost:4000/bkrissues/crime&quot;&gt;crime page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For education statistics: check out the &lt;a href=&quot;http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf&quot;&gt;State of the Nation Report&lt;/a&gt; and the &lt;a href=&quot;http://localhost:4000/bkreducation/exam-results&quot;&gt;exam-results page&lt;/a&gt;.
+### Women’s Issues&lt;/p&gt;
 
 &lt;p&gt;The first woman elected to Parliament was Janet Bostwick in 1982 for the Free National Movement (FNM).
 * Women were only given substantive posts in Cabinet after the FNM won the 1992 general election.&lt;/p&gt;
