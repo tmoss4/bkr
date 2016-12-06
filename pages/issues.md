@@ -12,18 +12,14 @@ header:
 ---
 >
 >
-###### I'm worried that students will take their obedient place in society and look to become successful cogs in the wheel - let the wheel spin them around as it wants without taking a look at what they're doing. I'm concerned that students not become passive acceptors of the official doctrine that's handed down to them from the White House, the media, textbooks, teachers and preachers.
-<br/>- Howard Zinn
+###### Right now, there is an increasing skills gap between what the economy needs and what the labour force can offer. This leads to the underemployment of Bahamians with many of the best jobs going to people from outside the country. This creates a climate in which it is easier for crime to get a foothold.
+<br/>- State of the Nation Report, page 78
 {: .text-right }
 
-Our first Prime Minister, Sir Lynden Pindling, held the office for 19 years as part of the Progressive Liberal Party (PLP). He was succeeded by Hubert Ingraham of the Free National Movement (FNM). Since 1992, Hubert Ingraham and Perry Christie of the PLP have alternated holding the office of Prime Minister for the last 25 years. 
+For every complex problem, there is an answer that is simple, easy, and wrong.
 
-The PLP and the FNM have been the two major political parties for most of the country's history although there is little that separates the two. Both political parties are center-right of the world stage and do little to assert how their stances differ. Growing tired of one after 5 years, Bahamians vote for the opposing party to win, and the cycle continues.
+The issues our country faces are multifaceted and interconnected. Crime, unemployment, poverty, doing businee, education, social issues - these problems do not exist in vacuums and must be examined together in order to perceive the entire picture of where we stand as a country.
 
-Political debates are largely missing from the national discourse and parties rely on rallies and pointing out the opposing parties latest mistakes.
+Better education will matter much less if there are no good jobs available and Bahamians are restricted from creating their own. Parents, teachers, and the students themselves can find little motivation to value academic achievement when there is no work to aspire to besides low-skill service work. More good jobs will matter much less if Bahamians don't have the skills necessary to do them. Unemployment would remain high which would lead to poverty and the links between poverty and crime are well researched and documented. Better policing then matters much less when the root causes of crime remain unaddressed. Societal norms praise (often under the guise and aid of religious belief) intolerance, ignorance, and anti-intellectualism common in many poor and poorly educated populations. 
 
-The construction of the system itself prevents citizens from voting for an individual without implicitly supporting their party leader. Primarily, the decision for Prime Minister takes prescendent and citzens vote for individuals because of their political party affliation rather than anything else. It is common to hear individuals say they are voting for a party rather than an individual. Like in many other countries, many individuals and families are staunch supporters of a particular party and vote for the individual from that party regardless of anything else.
-
-More so than many other countries, however, there is a systemic ignorance about how the government operates including what their powers and responsibilities are. Many deals are conducted behind closed doors and parties rely on the public mood rather than their actual accomplishments to remain in power. 
-
-There are few ways to get involved in politics and only disparate sources for Bahamian political information, until now.
+Unfortunately, there is no fundamental issue that is the base of them all which we could magically fix and have all our problems solved. Managing a country is difficult and the leader who does so must be able to view things holistically. 

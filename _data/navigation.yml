@@ -65,6 +65,8 @@
     url: "/business/bec-bpl/"
   - title: "BTC"
     url: "/business/btc/"
+  - title: "Baha Mar"
+    url: "/business/bahamar/"
   - title: "Notable Bahamian Owned"
     url: "/business/notable-bahamian-owned/"
 
