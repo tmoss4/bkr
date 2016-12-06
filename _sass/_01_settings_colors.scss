@@ -27,11 +27,11 @@ $body-bg: 			#fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1: #012241;		// dark blue
-$ci-2: #D24545;		// light red
+$ci-2: #DA182B;		// light red 
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #45B29D;     // turquoise (45B29D)
+$ci-6: #91dff5;     // light blue
 $ci-7: #00ff09; 	// lime green
 $ci-8: #0645AD;    // link blue
 
@@ -108,7 +108,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $ci-6;
 $footer-color: #fff;
 $footer-link-color: $ci-1;
 
