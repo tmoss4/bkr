@@ -329,28 +329,29 @@
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://en.wikipedia.org/wiki/Elizabeth_II&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://en.wikipedia.org/wiki/Elizabeth_II&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Queen Elizabeth II&lt;/center&gt;
 		&lt;center&gt;Queen of the Bahamas&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://en.wikipedia.org/wiki/Marguerite_Pindling&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://en.wikipedia.org/wiki/Marguerite_Pindling&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/pindling.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Marguerite Pindling&lt;/center&gt;
 		&lt;center&gt;Governor-General&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/1LV6Mlm&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/christie.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Perry Christie&lt;/center&gt;
 		&lt;center&gt;Prime Minister&lt;/center&gt;
-		&lt;center&gt;&lt;/center&gt;
+		&lt;center&gt;Minister of Finance&lt;/center&gt;
+		&lt;center&gt;MP: Centerville&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h886nm&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/minnis.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Hubert Minnis&lt;/center&gt;
 		&lt;center&gt;Leader of the Opposition&lt;/center&gt;
 		&lt;center&gt;MP: Killarney&lt;/center&gt;
@@ -364,266 +365,285 @@
 &lt;!-- Smaller # for medium- means smaller images --&gt;
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2g3crqM&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2g3crqM&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Bernard Nottage&lt;/center&gt;
 		&lt;center&gt;Bain Town &amp;amp; Grants Town&lt;/center&gt;
 		&lt;center&gt;Minister of National Security&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Person ABC&lt;/center&gt;
 		&lt;center&gt;Bamboo Town&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gcY7PT&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gcY7PT&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Daniel Johnson&lt;/center&gt;
 		&lt;center&gt;Carmichael&lt;/center&gt;
 		&lt;center&gt;Minister of Youth Sports &amp;amp; Culture&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/1LV6Mlm&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/1LV6Mlm&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/christie.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Perry Christie&lt;/center&gt;
 		&lt;center&gt;Centerville&lt;/center&gt;
 		&lt;center&gt;Prime Minister&lt;/center&gt;
+		&lt;center&gt;Minister of Finance&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2g1RKjN&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2g1RKjN&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Ryan Pinder&lt;/center&gt;
 		&lt;center&gt;Elizabeth&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2hbbX7a&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2hbbX7a&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Glenys Hanna Martin&lt;/center&gt;
 		&lt;center&gt;Englerston&lt;/center&gt;
-		&lt;center&gt;Minister of Transport &amp;amp; Aviation&lt;/center&gt;
+		&lt;center&gt;Minister of Transport&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h7TdRG&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h7TdRG&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Andre Rollins&lt;/center&gt;
 		&lt;center&gt;Fort Charlotte&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h05viO&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h05viO&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Frederick Mitchell&lt;/center&gt;
 		&lt;center&gt;Fox Hill&lt;/center&gt;
 		&lt;center&gt;Minister of Foreign Affairs&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gd65si&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gd65si&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Kendal Major&lt;/center&gt;
 		&lt;center&gt;Garden Hills&lt;/center&gt;
-		&lt;center&gt;Speaker of the House of Assembly / Conference Chairman&lt;/center&gt;
+		&lt;center&gt;Speaker of the House of Assembly&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gJ4Di4&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gJ4Di4&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Shane Gibson&lt;/center&gt;
 		&lt;center&gt;Golden Gates&lt;/center&gt;
 		&lt;center&gt;Minister of Labor &amp;amp; National Insurance&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h0dIDD&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h0dIDD&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Michael Halkitis&lt;/center&gt;
 		&lt;center&gt;Golden Isles&lt;/center&gt;
-		&lt;center&gt;Minister of Finance&lt;/center&gt;
+		&lt;center&gt;Minister of State of Finance&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h886nm&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h886nm&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/minnis.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Hubert Minnis&lt;/center&gt;
 		&lt;center&gt;Killarney&lt;/center&gt;
 		&lt;center&gt;Leader of the Opposition&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gVIsTe&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gVIsTe&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Jerome Fitzgerald&lt;/center&gt;
 		&lt;center&gt;Marathon&lt;/center&gt;
-		&lt;center&gt;Minister of Education, Science, and Technology&lt;/center&gt;
+		&lt;center&gt;Minister of Education&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gd7b7j&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gd7b7j&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Richard Lightbourn&lt;/center&gt;
 		&lt;center&gt;Montagu&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gJjb16&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gJjb16&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Arnold Forbes&lt;/center&gt;
 		&lt;center&gt;Mount Moriah&lt;/center&gt;
 		&lt;center&gt;Chairman of BAIC &amp;amp; Ambassador for Trade to Caricom&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gZoeZv&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gZoeZv&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Dion Smith&lt;/center&gt;
 		&lt;center&gt;Nassau Village&lt;/center&gt;
 		&lt;center&gt;Deputy Speaker of the House of Assembly&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h85Tbt&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h85Tbt&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Michael Darville&lt;/center&gt;
 		&lt;center&gt;Pineridge&lt;/center&gt;
 		&lt;center&gt;Minister of Grand Bahama&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h7ZXzf&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h7ZXzf&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Khaalis Rolle&lt;/center&gt;
 		&lt;center&gt;Pinewood&lt;/center&gt;
-		&lt;center&gt;Minister of State for Investments*&lt;/center&gt;
+		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2g3fuPK&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2g3fuPK&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Hope Strachan&lt;/center&gt;
 		&lt;center&gt;Seabreeze&lt;/center&gt;
 		&lt;center&gt;Minister of Financial Services&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
-	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gvK2Le&quot;&gt;&lt;img scr=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;div class=&quot;medium-3 columns t30&quot;&gt;
+		&lt;a href=&quot;http://bit.ly/2gvK2Le&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Cleola Hamilton&lt;/center&gt;
 		&lt;center&gt;South Beach&lt;/center&gt;
-		&lt;center&gt;&lt;/center&gt;
+		&lt;center&gt;President of the Nurses Union&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gvzXhp&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gvzXhp&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Kenred Dorsett&lt;/center&gt;
 		&lt;center&gt;Southern Shores&lt;/center&gt;
-		&lt;center&gt;Minister of the Environment and Housing&lt;/center&gt;
+		&lt;center&gt;Minister of the Environment &amp;amp; Housing&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gZiVcj&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gZiVcj&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Hubert Chipman&lt;/center&gt;
 		&lt;center&gt;St. Anne&#39;s&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h88WjT&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h88WjT&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Leslie Miller&lt;/center&gt;
 		&lt;center&gt;Tall Pines&lt;/center&gt;
-		&lt;center&gt;Executive Chariman*&lt;/center&gt;
+		&lt;center&gt;Executive Chariman&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2g1L2uo&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2g1L2uo&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Melanie Griffin&lt;/center&gt;
 		&lt;center&gt;Yamacraw&lt;/center&gt;
 		&lt;center&gt;Minister of Social Services &amp;amp; Community Development&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2hbbRwq&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2hbbRwq&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Philip Brave Davis&lt;/center&gt;
 		&lt;center&gt;Cat Island, Rum Cay &amp;amp; San Salvador&lt;/center&gt;
 		&lt;center&gt;Deputy Prime Minister / Minister of Works &amp;amp; Urban Development&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gVKkvf&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gVKkvf&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Edison Key&lt;/center&gt;
 		&lt;center&gt;Central &amp;amp; South Abaco&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gZsM1U&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gZsM1U&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Damian Gomez&lt;/center&gt;
 		&lt;center&gt;Central &amp;amp; South Eleuthera&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gZjfI8&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gZjfI8&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Neko Grant&lt;/center&gt;
 		&lt;center&gt;Central Grand Bahama&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h0baVT&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h0baVT&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Peter Turnquest&lt;/center&gt;
 		&lt;center&gt;East Grand Bahama&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2hbb9iF&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2hbb9iF&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Anthony Moss&lt;/center&gt;
-		&lt;center&gt;Exumas and Ragged Island&lt;/center&gt;
+		&lt;center&gt;Exumas &amp;amp; Ragged Island&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h8079y&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h8079y&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Loretta Turner-Butler&lt;/center&gt;
 		&lt;center&gt;Long Island&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gVLkQa&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gVLkQa&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Picewell Forbes&lt;/center&gt;
 		&lt;center&gt;Mangrove Cay &amp;amp; South Andros&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gJqA0o&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gJqA0o&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Greg Moss&lt;/center&gt;
 		&lt;center&gt;Marco City&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h0cYOM&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h0cYOM&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Alfred Gray&lt;/center&gt;
 		&lt;center&gt;M.I.C.A.L.*&lt;/center&gt;
-		&lt;center&gt;Minister of Agriculture, Marine Resources, and Local Government&lt;/center&gt;
+		&lt;center&gt;Minister of Agriculture, Marine Resources, &amp;amp; Local Government&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h0hcWE&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h0hcWE&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Renardo Curry&lt;/center&gt;
 		&lt;center&gt;North Abaco&lt;/center&gt;
 		&lt;center&gt;Parliamentary Secretary&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2gZjy5K&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2gZjy5K&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Perry Gomez&lt;/center&gt;
 		&lt;center&gt;North Andros &amp;amp; Berry Islands&lt;/center&gt;
 		&lt;center&gt;Minister of Health&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h8fRJK&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://bit.ly/2h8fRJK&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Person ABC&lt;/center&gt;
 		&lt;center&gt;North Eleuthera&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
-	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;http://bit.ly/2h82bOW&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;div class=&quot;medium-3 columns t30 end&quot;&gt;
+		&lt;a href=&quot;http://bit.ly/2h82bOW&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Obediah Wilchcombe&lt;/center&gt;
 		&lt;center&gt;West Grand Bahama &amp;amp; Bimini&lt;/center&gt;
 		&lt;center&gt;Minister of Tourism&lt;/center&gt;
@@ -631,118 +651,124 @@
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
 
-&lt;p&gt;&lt;br /&gt;* Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, and Long Cay&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;* Mayaguana, Inagua (Great &amp;amp; Little), Crooked Island, Acklins, &amp;amp; Long Cay&lt;/p&gt;
 
 &lt;h2 id=&quot;senators&quot;&gt;Senators&lt;/h2&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Queen&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Wolverine&lt;/center&gt;
 		&lt;center&gt;Governor-General&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Prime Minister&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Cyclops&lt;/center&gt;
 		&lt;center&gt;Leader of the Opposition&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Queen&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Wolverine&lt;/center&gt;
 		&lt;center&gt;Governor-General&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Prime Minister&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Cyclops&lt;/center&gt;
 		&lt;center&gt;Leader of the Opposition&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Queen&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Wolverine&lt;/center&gt;
 		&lt;center&gt;Governor-General&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Prime Minister&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Cyclops&lt;/center&gt;
 		&lt;center&gt;Leader of the Opposition&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
+&lt;/div&gt;
 
+&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Queen&lt;/center&gt;
 		&lt;center&gt;&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Wolverine&lt;/center&gt;
 		&lt;center&gt;Governor-General&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Professor X&lt;/center&gt;
 		&lt;center&gt;Prime Minister&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
 	&lt;/div&gt;&lt;!-- /.medium-3.columns --&gt;
 
 	&lt;div class=&quot;medium-3 columns t30&quot;&gt;
-		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+		&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/bkr/images/queen.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 		&lt;center&gt;Cyclops&lt;/center&gt;
 		&lt;center&gt;Leader of the Opposition&lt;/center&gt;
 		&lt;center&gt;MP: Bain&#39;s Town&lt;/center&gt;
