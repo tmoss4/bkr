@@ -3632,13 +3632,13 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
 				<description>&lt;p&gt;Youth unemployment is particularly high in the Bahamas with rates sometimes double the national rate.&lt;/p&gt;
 
 &lt;!-- Unemployment Graph --&gt;
-&lt;!--Chart Placement[2]--&gt;
+&lt;!--Note: Comments using javascript convention (//) will result in build errors--&gt;
 &lt;div id=&quot;chartDiv&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 	var chartData = {
-      type: &quot;bar&quot;,  // Specify your chart type here.
+      type: &quot;bar&quot;,
       title: {
-        text: &quot;Unemployment in the Bahamas by Year&quot; // Adds a title to your chart
+        text: &quot;Unemployment in the Bahamas by Year&quot;
     },
     &quot;scale-x&quot;: {
     	&quot;items-overlap&quot;: false,
@@ -3663,7 +3663,7 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
     		visible : false
     	}
     },
-      series: [  // Insert your series data here.
+      series: [
       { 
       	values: [7.6, 7.9, 8.7, 14.2,,13.7, 14.0, 15.4, 15.7, 14.8],
       	backgroundColor:&quot;#0011AB&quot;,
@@ -3671,7 +3671,7 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
       }
       ]
   };
-    zingchart.render({ // Render Method[3]
+    zingchart.render({
     	id: &quot;chartDiv&quot;,
     	data: chartData,
     	height: 400,
@@ -4162,14 +4162,13 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
 				<description>&lt;p&gt;The United States Department of State heads the Overseas Security Advisory Council (OSAC) which releases annual reports on crime in the Bahamas. You can find the latest report &lt;a href=&quot;http://www.osac.gov/pages/ContentReportDetails.aspx?cid=19192&quot;&gt;here&lt;/a&gt;. Reports go back until 2012.&lt;/p&gt;
 
 &lt;!-- Murder Graph --&gt;
-&lt;!--Chart Placement[2]--&gt;
+&lt;!--Note: Comments using javascript convention (//) will result in build errors--&gt;
 &lt;div id=&quot;chartDiv&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
-
 	var chartData = {
-      type: &quot;bar&quot;,  // Specify your chart type here.
+      type: &quot;bar&quot;,
       title: {
-        text: &quot;Murders in the Bahamas by Year&quot; // Adds a title to your chart
+        text: &quot;Murders in the Bahamas by Year&quot;
       },
       &quot;scale-x&quot;: {
        &quot;items-overlap&quot;: false,
@@ -4194,7 +4193,7 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
     		visible : false
     	}
     },
-      series: [  // Insert your series data here.
+      series: [
       { 
       	values: [73, 43, 52, 50, 44, 50, 60, 78, 72, 87, 94, 127, 111, 119, 122, 149],
       	backgroundColor:&quot;#BF0000&quot;,

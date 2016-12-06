@@ -20,13 +20,13 @@ tags:
 Youth unemployment is particularly high in the Bahamas with rates sometimes double the national rate.
 
 <!-- Unemployment Graph -->
-<!--Chart Placement[2]-->
+<!--Note: Comments using javascript convention (//) will result in build errors-->
 <div id="chartDiv"></div>
 <script>
 	var chartData = {
-      type: "bar",  // Specify your chart type here.
+      type: "bar",
       title: {
-        text: "Unemployment in the Bahamas by Year" // Adds a title to your chart
+        text: "Unemployment in the Bahamas by Year"
     },
     "scale-x": {
     	"items-overlap": false,
@@ -51,7 +51,7 @@ Youth unemployment is particularly high in the Bahamas with rates sometimes doub
     		visible : false
     	}
     },
-      series: [  // Insert your series data here.
+      series: [
       { 
       	values: [7.6, 7.9, 8.7, 14.2,,13.7, 14.0, 15.4, 15.7, 14.8],
       	backgroundColor:"#0011AB",
@@ -59,7 +59,7 @@ Youth unemployment is particularly high in the Bahamas with rates sometimes doub
       }
       ]
   };
-    zingchart.render({ // Render Method[3]
+    zingchart.render({
     	id: "chartDiv",
     	data: chartData,
     	height: 400,

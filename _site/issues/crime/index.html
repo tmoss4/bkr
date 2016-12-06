@@ -439,14 +439,13 @@
 			<p>The United States Department of State heads the Overseas Security Advisory Council (OSAC) which releases annual reports on crime in the Bahamas. You can find the latest report <a href="http://www.osac.gov/pages/ContentReportDetails.aspx?cid=19192">here</a>. Reports go back until 2012.</p>
 
 <!-- Murder Graph -->
-<!--Chart Placement[2]-->
+<!--Note: Comments using javascript convention (//) will result in build errors-->
 <div id="chartDiv"></div>
 <script>
-
 	var chartData = {
-      type: "bar",  // Specify your chart type here.
+      type: "bar",
       title: {
-        text: "Murders in the Bahamas by Year" // Adds a title to your chart
+        text: "Murders in the Bahamas by Year"
       },
       "scale-x": {
        "items-overlap": false,
@@ -471,7 +470,7 @@
     		visible : false
     	}
     },
-      series: [  // Insert your series data here.
+      series: [
       { 
       	values: [73, 43, 52, 50, 44, 50, 60, 78, 72, 87, 94, 127, 111, 119, 122, 149],
       	backgroundColor:"#BF0000",
