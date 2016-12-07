@@ -11,10 +11,8 @@ teaser:
 header:
 ---
 >
->
-###### I'm worried that students will take their obedient place in society and look to become successful cogs in the wheel - let the wheel spin them around as it wants without taking a look at what they're doing. I'm concerned that students not become passive acceptors of the official doctrine that's handed down to them from the White House, the media, textbooks, teachers and preachers.
+I'm worried that students will take their obedient place in society and look to become successful cogs in the wheel - let the wheel spin them around as it wants without taking a look at what they're doing. I'm concerned that students not become passive acceptors of the official doctrine that's handed down to them from the White House, the media, textbooks, teachers and preachers.
 <br/>- Howard Zinn
-{: .text-right }
 
 Our first Prime Minister, Sir Lynden Pindling, held the office for 19 years as part of the Progressive Liberal Party (PLP). He was succeeded by Hubert Ingraham of the Free National Movement (FNM). Since 1992, Hubert Ingraham and Perry Christie of the PLP have alternated holding the office of Prime Minister for the last 25 years. 
 

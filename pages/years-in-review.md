@@ -12,9 +12,10 @@ header:
 
 ---
 >
-Those who fail to refuse to learn from history are condemned to repeat it.
+If men could learn from history, what lessons it might teach us! But passion and party blind our eyes, and the light which experience gives us is a lantern on the stern which shines only on the waves behind.
+<br/>- Samuel Taylor Coleridge
 
-<h5>This page chronicles major events and statistics about the Bahamas back to the year 2000.</h5>
+<h5>This page chronicles noteworthy events and statistics about the Bahamas back to the year 2000. Click on any reference link to find a more detailed article!</h5>
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

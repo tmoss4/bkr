@@ -28,6 +28,12 @@ The Bahamas is a dangerous places for LGBTQ+ individuals and popular opinion is 
 
 Fred Mitchell, Minister of Foreign Affairs (2012-2017), has been outspoken on the need for comprehensive LGBTQ rights and we salute him for it. We stand with him and all intelligent individuals who recognize that "a violation of human rights anywhere is the business of free people everywhere." (Ronald Reagan)
 
+### Women's Rights
+
+The first woman elected to Parliament was Janet Bostwick in 1982 for the Free National Movement (FNM). * Women were only given substantive posts in Cabinet after the FNM won the 1992 general election.
+
+We as a people voted to deny women equal rights in the passage of citizenship to their children in two constitutional referenda - 2002 and 2016. It is not a crime in The Bahamas for a husband who is still with his wife to rape her.
+
 [1]: http://www.tribune242.com/news/2013/dec/23/fred-mitchell-reaffirms-gay-rights-support/ 
 [2]: http://www.bahamaslocal.com/newsitem/93793/Tolerance_and_gay_rights.html
 [3]: http://www.bahamaslocal.com/newsitem/105736/Mitchell_Resistance_exposes_nations_homophobia.html

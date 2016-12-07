@@ -11,10 +11,8 @@ teaser:
 header:
 ---
 >
->
-###### Right now, there is an increasing skills gap between what the economy needs and what the labour force can offer. This leads to the underemployment of Bahamians with many of the best jobs going to people from outside the country. This creates a climate in which it is easier for crime to get a foothold.
+Right now, there is an increasing skills gap between what the economy needs and what the labour force can offer. This leads to the underemployment of Bahamians with many of the best jobs going to people from outside the country. This creates a climate in which it is easier for crime to get a foothold.
 <br/>- State of the Nation Report, page 78
-{: .text-right }
 
 For every complex problem, there is an answer that is simple, easy, and wrong.
 

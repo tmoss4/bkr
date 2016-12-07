@@ -18,10 +18,13 @@ tags:
 
 ---
 >
->
-I would hazard a guess that Bahamians know more about the US Constitution than their own.
+I think it would be a very safe bet to assume Bahamians know more about the US Constitution than their own. How can we hold political officers accountable when we don't know how much power we've given them.
 
-For a downloadable PDF version, click <a href="https://www.oas.org/juridico/mla/en/bhs/en_bhs-int-text-const.pdf">here</a>.
+The text can be quite imposing, however, you have several tools at your disposal to find things quickly or browse the sections. Check out the table of contents to get an overview of the different sections. As you're reading, if you ever want to get back to the top of the page then just click one of the "Up to table of contents" buttons at the end of each section.
+
+Don't forget that you can always use ctrl+f to find particular words and phrases too!
+
+For a downloadable PDF version, click <a href="https://www.oas.org/juridico/mla/en/bhs/en_bhs-int-text-const.pdf">here</a>. 
 <br/>
 _____________________________________________________
 <div class="row">
@@ -1313,6 +1316,7 @@ Article shall not be instituted except with the leave of a Justice of the Suprem
 {: .text-right }
 
 Part 4
+
 ### Powers and Procedure of Parliament
 
 52.- 
@@ -2276,6 +2280,7 @@ c.   exceeding from the provisions of paragraph (1) of this Article decisions in
 {: .text-right }
 
 Part 4
+
 ### The Judicial and Legal Service Commission
 
 Establishment and composition of the Judicial and Legal Service Commission.

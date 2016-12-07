@@ -20,14 +20,12 @@
     url: "/politics/parties/"
   - title: "Know Your Politician"
     url: "/politics/know-your-politician/"
-  - title: "Statistics"
-    url: "/politics/statistics/"
 
 - title: "Education"
   side: left
   url: "/education/"
   dropdown:
-  - title: "BJC/BGCSE Results"
+  - title: "Exam Results"
     url: "/education/exam-results/"
   - title: "List of Schools"
     url: "/education/list-of-schools/"
