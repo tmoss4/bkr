@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 subheadline:
-title:  "Social Issues"
-meta_title: "BKR - Social Issues"
+title:  "Human Rights"
+meta_title: "BKR - Human Rights"
 topic: "BKR"
 teaser: ""
 breadcrumb: true

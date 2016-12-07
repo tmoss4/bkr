@@ -32,18 +32,17 @@ If men could learn from history, what lessons it might teach us! But passion and
 
 ## 2016
 
-1. Potential Ebola case ultimately ruled out [[Ref]][1]
+1. Hubert Minnis faces removal as leader of the FNM [78]
+2. Potential Ebola case ultimately ruled out [[Ref]][1]
 2. Zika cases confirmed in the Bahamas. CDC adds country to interim alert list [[Ref]][2]
-3. FNM Chairman Michael Pintard resigns as chairman and senator amid ongoing Peter Nygard &/Louis Bacon scandal [[Ref]][3]
-4. Second Bahamian Carnival held with budget of $7 million [[Ref]][4]
-5. Bahamians vote to deny women equal rights - again [[Ref]][5]
-6. Moody’s downgrades Bahamas’ credit rating to baa3, two ranks away from junk status, with stable outlook [[Ref]][6]
-7. Hurricane Matthew devastates Bahamas [[Ref]][62]
-8. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
-9. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
-10. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
-11. Highest recorded crime rate ever - last was 2015 [[Ref]][#]
-12. Murder count: ??? [[Ref]][#]
+4. FNM Chairman Michael Pintard resigns as chairman and senator amid ongoing Peter Nygard &/Louis Bacon scandal [[Ref]][3]
+5. Second Bahamian Carnival held with budget of $7 million [[Ref]][4]
+6. Bahamians vote to deny women equal rights - again [[Ref]][5]
+7. Moody’s downgrades Bahamas’ credit rating to baa3, two ranks away from junk status, with stable outlook [[Ref]][6]
+8. Hurricane Matthew devastates Bahamas [[Ref]][62]
+9. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
+10. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
+11. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -110,7 +109,7 @@ Deeper 2013 Year in Review by Bahama Pundit [here][60]
 
 ## 2012 - Election Year
 
-1. PLP wins election in landslide [[Ref]][21]
+1. PLP wins election in landslide with 29/38 seats, the same number of seats they won in the 2002 election [[Ref]][21]
 2. Hubert Ingraham resigns as FNM party leader and as MP [[Ref]][22]
 3. Dr. Hubert Minnis wins unopposed to be new FNM party leader [[Ref]][23]
 4. Limited overseas voting becomes available [[Ref]][24]
@@ -229,7 +228,7 @@ Deeper 2012 Year in Review by Bahamas B2B [here][59]
 
 ## 2002 - Election Year
 
-1. The PLP defeat the governing FNM in the election [[Ref]][47]
+1. The PLP wins the election in a landslide, defeating the governing FNM [[Ref]][47]
 2. Bahamians vote to deny women equal rights [[Ref]][46]
 3. Moody’s changes Bahamas’ A3 rating outlook from stable to positive [[Ref]][2]
 4. Dr. Peter Blair from St. Andrew’s named ABMS to attend Duke University and study Physics and Mathematics [[Ref]][35]
@@ -284,6 +283,7 @@ FNM: Free National Movement
 [62]: http://www.cbsnews.com/news/hurricane-matthew-tears-through-the-bahamas/
 [63]: http://www.tribune242.com/news/2016/oct/31/insight-bpl-and-bec-siamese-twins-electric-power/
 [64]: http://www.bahamaslocal.com/newsitem/144040/Former_FNM_Minister_joins_the_PLP.html
+[78]: http://www.tribune242.com/news/2016/dec/07/breaking-news-hubert-minnis-removed-leader-opposit/
 
 <!-- 2015 -->
 [6]: https://www.moodys.com/credit-ratings/Bahamas-Government-of-credit-rating-600010326 <!-- Moody's -->
@@ -354,7 +354,7 @@ FNM: Free National Movement
 [75]: http://www.nbcnews.com/id/26496933/ns/weather/t/hanna-knocks-out-power-bahamas/#.WDX72KIrJbU
 
 <!-- 2007 -->
-[42]: http://www.thenassauguardian.com/index.php?option%3Dcom_content%26view%3Darticle%26id%3D13051%26Itemid%3D86 
+[42]: http://en.wikipedia.org/wiki/Bahamian_general_election,_2007
 
 <!-- 2006 -->
 [43]: #
@@ -391,3 +391,5 @@ FNM: Free National Movement
 [59]: http://www.bahamaslocal.com/newsitem/63130/2012_Year_In_Review.html
 [60]: http://www.bahamapundit.com/2014/01/lasting-legacies-for-the-bahamas-from-the-year-2013.html#more
 [61]: http://bahamasb2b.com/news/wmview.php?ArtID=707
+
+<!-- Next number: 79  -->

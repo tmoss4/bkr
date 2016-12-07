@@ -16,7 +16,7 @@ tags:
     - post format
 
 ---
-The environment is one of the four primary challenges listed in our state of the nation report which notes our "highly vulnerable, undiversified, and underperforming economy" along with the "high costs of doing business." [State of the Nation Report, page 11][1]
+The economy is one of the four primary challenges listed in our state of the nation report which notes our "highly vulnerable, undiversified, and underperforming economy" along with the "high costs of doing business." [State of the Nation Report, page 11][1]
 
 "According to the Word Bank’s “Doing Business” indicator 2016, The Bahamas ranked 106th as far as ease of doing business. Singapore was number one while Jamaica, at 58, was the highest-ranked CARICOM state. It is harder to do business in The Bahamas than in many other places. Company formation, for example, takes longer in The Bahamas and is not yet fully automated as it is in competitor jurisdictions.
 
