@@ -54,7 +54,7 @@ If men could learn from history, what lessons it might teach us! But passion and
 3. Government budgets $9 million, spends $12.9 million on carnival [[Ref]][9]
 4. Fred Smith demands the immediate passage of a Freedom of Information Act [[Ref]][55]
 5. Rubis fuel spill in Marathon potentially exposes residents to cancer-causing agents [[Ref]][65] [[Ref 2]][66]
-6. MPs vote overwhelmingly against appointing a committee to investigate the Rubis gasoline spill of 2012 (*info on this spill) [[Ref]][67]
+6. MPs vote overwhelmingly against appointing a committee to investigate the Rubis gasoline spill of 2012 [[Ref]][67]
 7. Minimum wage increase from $150 to $210 per week planned to go into effect on August 15th [[Ref]][68]
 8. Hurricane Joaquin devastates the Bahamas [[Ref]][69]
 9. Marco City MP Gregory Moss resigns from the PLP to form the United Democratic Party [[Ref]][52]

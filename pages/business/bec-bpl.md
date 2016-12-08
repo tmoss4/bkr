@@ -17,10 +17,10 @@ tags:
     - post format
 
 ---
-The Bahamas Electrical Corporation (BEC) is a government corporation that provides electricity to most islands except Grand Bahama. They operate power plants at 25 locations throughout the Bahamas.
+The [Bahamas Electrical Corporation][2] (BEC) is a government corporation that provides electricity to most islands except Grand Bahama. They operate power plants at 25 locations throughout the Bahamas. Visit their website [here][3]
 
-http://www.bahamaselectricity.com/
-https://en.wikipedia.org/wiki/Bahamas_Electricity_Corporation
+BPL's CEO is [Pamela Hill][4] who has held positions at a variety of other energy companies. (Add picture)
+[Leslie Miller][5], serves as Executive Chairman. (add picture)
 
 BEC operates 29 generating plants in 25 island locations as of 2016. [Ref][1]
 
@@ -42,3 +42,7 @@ BEC New Providence has the lowest customer to staff ratio and the highest system
 Enter BPL.
 
 [1]: http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf
+[2]: http://en.wikipedia.org/wiki/Bahamas_Electricity_Corporation
+[3]: http://www.bahamaselectricity.com/
+[4]: http://www.thenassauguardian.com/bahamas-business/40-bahamas-business/64439-pam-hill-named-new-bpl-ceo
+[5]: http://bit.ly/2h88WjT
