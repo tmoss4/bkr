@@ -30,10 +30,10 @@ Click on the party's logo to visit their website and find contact information.
 		<p><center>Founded: 2011</center></p>
 		<p><center>Headquarters: #144 Mackey Street</center></p>
 		<p><center>*Political Position: Center-right</center></p>
-		<p><center><a href="http://www.mydnaparty.org/issues/crime">Solution for: Crime</center></a></p>
-		<p><center><a href="http://www.mydnaparty.org/issues/economy">Solution for: The Economy</center></a></p>
-		<p><center><a href="http://www.mydnaparty.org/issues/education">Solution for: Education</center></a></p>
-		<p><center><a href="http://www.mydnaparty.org/issues/immigration">Solution for: Immigration</center></a></p>
+		<p><center><a href="http://www.mydnaparty.org/issues/crime">Solution for: Crime</a></center></p>
+		<p><center><a href="http://www.mydnaparty.org/issues/economy">Solution for: The Economy</a></center></p>
+		<p><center><a href="http://www.mydnaparty.org/issues/education">Solution for: Education</a></center></p>
+		<p><center><a href="http://www.mydnaparty.org/issues/immigration">Solution for: Immigration</a></center></p>
 		<p><center><a href="http://www.bahamaslocal.com/newsitem/161298/DNA_reveals_governance_plans.html">Cross-issue Governance Plans</a> Notable are plans to: abolish the senate; reduce Parliament to 21 members; limit the prime minister to two terms; set a fixed date for local and national elections; create a system to recall non-performing Members of Parliament; prohibit the government from borrowing more than 15 percent of its income in the previous year; and introduce a national lottery.</center></p>
 		<p><center><a href="http://www.bahamaslocal.com/newsitem/45905/McCartney_clarifies_position_on_marital_rape_issue.html">Notable: </a>Branville says that rape within a marriage should remain legal</center></p>
 		<p><center><a href="http://www.tribune242.com/news/2014/aug/07/christie-says-no-gay-marriage/">Notable: </a>In 2014, Branville added to fearmongering that the 2016 constitutional amendments would pave the way for the legalization gay marriage - an issue his party would not support. In 2015, after same-sex marriage was legalized in the US nationwide, Branville adjusted his position to being personally against supporting individuals' equal rights, but added that his party did not yet have a formal position. <a href="http://www.tribune242.com/news/2015/jun/26/bran-bahamas-must-address-gay-marriage-issue/">[Ref]</a></center></p>
