@@ -51,4 +51,6 @@ The Bahamas faces a number of other specific environmental issues in the areas o
 biodiversity, waste management, land development, air quality and challenges in the
 institutional and legal framework for environmental management. Management of solid waste is an ongoing concern with respect to the condition of landfills, the burning of waste at landfills and dumpsites, and the need to improve recycling practices. Experts have pointed to the negative effects on respiratory health from the frequent fires at landfills in New Providence." [State of the Nation Report, page 55-57][1]
 
+A National Disaster Preparedness and Response Act was developed in 2006 and the National Emergency Management Agency (NEMA) was established to improve the nation’s capacity to manage disasters. Page 56
+
 [1]: http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf

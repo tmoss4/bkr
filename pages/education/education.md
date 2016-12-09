@@ -12,7 +12,7 @@ subheadline:
 teaser:
 ---
 >
-There is a cult of ignorance in the United States, and there always has been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge."
+There is a cult of ignorance in the United States, and there always has been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge.
 <br/>- Isaac Asimov
 
 Anti-intellectualism is hostility towards and mistrust of intellect and intellectual pursuits, usually expressed as the derision of education, philosophy, literature, art, and science, as impractical and contemptible.

@@ -17,9 +17,11 @@ The Bahamas has an open, two-sector, service-based economy with a traditionally 
 "Small Island Developing States (SIDS) are low-lying coastal countries that tend to share similar sustainable development challenges, including small but growing populations, limited resources, remoteness, susceptibility to natural disasters, vulnerability to external shocks, excessive dependence on international trade, and fragile environments. Their growth and development is also held back by high communication, energy and transportation costs, irregular international transport volumes, disproportionately expensive public administration and infrastructure due to their small size, and little to no opportunity to create economies of scale."
 [Wikipedia][4]
 
-As many Bahamians know, ownership in both sectors is concentrated among a few foreign investors. Although the Bahamas is one of the richest Caribbean nations, most of the wealth does not go to Bahamian citizens.
+Despite our limited resources, we capitalize on the 'sun, sand, and sea' afforded by our geographical location. The country's beauty is a natural tourist draw and after the government, Atlantis is the largest single employer in the Bahamas (employing over 8000 people).
 
-After the government, Atlantis is the largest employer in the Bahamas and employs over 8000 people.
+Our second major sector is financial services, mostly due to our unique status as an [offshore banking][5] location and tax haven.
+
+As many Bahamians know, ownership in both sectors is concentrated among a few foreign investors. Although the Bahamas is one of the richest Caribbean nations, most of the wealth does not go to Bahamian citizens.
 
 Core services / utilities are provided by the following companies:
 * Bahamas Electricity Corporation / Bahamas Poweer and Light
@@ -39,3 +41,4 @@ Doing business in the Bahamas can be quite difficult for reasons discussed more 
 [2]: http://competecaribbean.org/wp-content/uploads/2015/02/2014-The-Bahamas-Private-Sector-Assessment-Report.pdf
 [3]: {{ site.url }}{{ site.baseurl }}/issues/doing-business
 [4]: http://en.wikipedia.org/wiki/Small_Island_Developing_States
+[5]: http://en.wikipedia.org/wiki/Offshore_bank
