@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "All Bahamas Merit Scholars"
 meta_title: "BKR - ABMS"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/education/all-bahamas-merit-scholars/"
 breadcrumb: true
 
@@ -17,7 +19,6 @@ tags:
     - post format
 
 ---
->
 >
 The All Bahamas Merit Scholarship is awarded to the applicant who has demonstrated exceptional academic ability, excellence in co-curricular activities, has been accepted to an academically prestigious College or University, has a strong ethos of public service, possesses an unwavering dedication to improving the lives of all Bahamians, and has demonstrated a strong moral character and the potential to lead.
 

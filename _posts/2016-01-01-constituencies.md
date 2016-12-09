@@ -1,5 +1,7 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline: 
 title:  "Do We Even Need Constituencies"
 meta_title: "BKR - Do We Even Need Constituencies"

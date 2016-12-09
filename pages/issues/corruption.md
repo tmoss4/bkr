@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Corruption"
 meta_title: "BKR - Corruption"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/issues/corruption/"
 breadcrumb: true
 

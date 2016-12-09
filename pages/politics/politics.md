@@ -1,14 +1,16 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Politics"
 meta_title: "BKR - Politics"
 permalink: "/politics/"
 breadcrumb: true
 
-subheadline: ""
+subheadline: 
 teaser:
-header:
+
 ---
 >
 I'm worried that students will take their obedient place in society and look to become successful cogs in the wheel - let the wheel spin them around as it wants without taking a look at what they're doing. I'm concerned that students not become passive acceptors of the official doctrine that's handed down to them from the White House, the media, textbooks, teachers and preachers.

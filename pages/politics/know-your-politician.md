@@ -1,10 +1,11 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 title: "Know Your Politician"
 meta_title: "BKR - Know Your Politician"
 subheadline: 
-teaser: ""
-header:
+teaser: 
 permalink: "/politics/know-your-politician/"
 breadcrumb: true
 zingchart: true
@@ -227,7 +228,7 @@ These are the politicians Bahamians voted into office.
 		<a href="http://bit.ly/2h88WjT"><img src="{{ site.urlimg }}leslie.jpg" alt=""></a>
 		<center>Leslie Miller</center>
 		<center>Tall Pines</center>
-		<center>Executive Chariman</center>
+		<center>Former BEC Executive Chariman</center>
 	</div><!-- /.medium-3.columns -->
 
 	<div class="medium-3 columns t30">
@@ -400,7 +401,7 @@ The Senate consists of 16 members called Senators. These Senators are not electe
 
 <div class="row">
 	<div class="medium-3 columns t30">
-		<a href="http://bit.ly/2gQKV45"><img src="{{ site.urlimg }}maynard.jpg" alt=""></a>
+		<a href="http://bit.ly/2gQKV45"><img src="{{ site.urlimg }}maynard.JPG" alt=""></a>
 		<center>Allyson Maynard Gibson</center>
 		<center>Senator</center>
 		<center>Attorney General</center>

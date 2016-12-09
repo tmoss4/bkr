@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Political System"
 meta_title: "BKR - Political System"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/politics/system/"
 breadcrumb: true
 
@@ -33,7 +35,6 @@ Knowledge will forever govern ignorance; and a people who mean to be their own g
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
 ## Overview {#overview}
 
 The government of the Bahamas consists of three majors parts:
@@ -59,8 +60,8 @@ Term Limits: The Governor-General typically ends their term within five years bu
 The House of Assembly (HoA) consists of 38 'Members of Parliament' (MPs) who are elected from individual constituencies (neighborhoods). Jump down to the voting section by clicking here to learn more about that process. These 38 MPs are the only elected government positions.
 
 These results implicity decide two other positions:
-1. The Prime Minister - the controlling head of the Bahamian government
-2. The Leader of the Opposition
+<p>1. The Prime Minister - the controlling head of the Bahamian government
+<br/>2. The Leader of the Opposition</p>
 
 While affliation with a political party is not necessary to run for a MP position, the two named positions require it. 
 
@@ -71,8 +72,8 @@ Similarly, the Leader of the Opposition is the leader of the party which wins th
 <h5>Eligibility</h5>
 
 The constitution stipulates two requirements for holding a membership position in the House of Assembly:
-<br/>1. being a citizen of the Bahamas who is 21 years or older
-<br/>2. residing in the Bahamas for at least one year immediately before the date of nomination for election
+<p>1. being a citizen of the Bahamas who is 21 years or older
+<br/>2. residing in the Bahamas for at least one year immediately before the date of nomination for election</p>
 
 <h5>Powers and Responsibilities</h5>
 
@@ -89,12 +90,12 @@ Head to the <a href="{{ site.url }}{{ site.baseurl }}politics/know-your-politici
 
 ### Senate
 
-The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions the Governor-General consults:
-* the Prime Minister alone to appoint 9 of these Senators;
-* the Leader of the Opposition alone to appoint 4;
-* both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3. 
+The Senate consists of 16 members called Senators. These Senators are not elected, rather, they are appointed by the Governor-General after consultation with the Prime Minister and the Leader of the Opposition. To decide on the Senator positions, the Governor-General consults:
+<li> the Prime Minister alone to appoint 9 of these Senators;</li>
+<li>the Leader of the Opposition alone to appoint 4;</li>
+<li>both the Prime Minister and the Leader of the Oppositions to appoint the remaining 3.</li>
 
-The Senate has a leadership position called the President of the Senate.
+<br/>The Senate has a leadership position called the President of the Senate.
 
 The Senate is meant to operate as a checks-and-balance much like the US system.
 
@@ -157,8 +158,8 @@ The citzens' inability to directly vote for the Prime Minister is one of the pri
 <h5>Eligibility</h5>
 
 To vote you must:
-<br/>1. be a citizen of the Bahamas who is 18 years or older
-<br/>2. residing in the Bahamas for at least one year immediately before the date of appointment
+<p>1. be a citizen of the Bahamas who is 18 years or older
+<br/>2. residing in the Bahamas for at least one year immediately before the date of appointment</p>
 
 For more information on registering to vote for the 2017 election - <a href="http://www.votebahamas2017.com/">click here</a>.
 
@@ -188,19 +189,27 @@ There are 38 constituencies, 24 on Nassau and 14 on the family islands.
 
 * Mayaguana, Inagua (Great & Little), Crooked Island, Acklins, and Long Cay
 
-For a more detailed view of the constituencies - <a href="http://www.tribune242.com/photos/galleries/2012/apr/24/new-providence-constituencies/">click here</a>.
-
 <center>
+Nassau Constituencies and 2012 Voting Results
 <a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}nassau-constituency-map.jpg" alt=""></a>
 </center>
 
+<br/>
+
 <center>
+Grand Bahama Constituencies and 2012 Voting Results
 <a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}grandbahama-constituency-map.jpg" alt=""></a>
 </center>
 
+<br/>
+
 <center>
+Family Island Constituencies and 2012 Voting Results
 <a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}familyisland-constituency-map.jpg" alt=""></a>
 </center>
+
+<br/>
+For a more detailed view of the constituencies - <a href="http://www.tribune242.com/photos/galleries/2012/apr/24/new-providence-constituencies/">click here</a>.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }

@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Higher Education"
 meta_title: "BKR - Higher Education"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/education/higher-education/"
 breadcrumb: true
 

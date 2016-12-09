@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "The Bahamian Constitution"
 meta_title: "BKR - Constitution"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/politics/constitution/"
 breadcrumb: true
 
@@ -16,12 +18,11 @@ tags:
     - post
     - post format
 
-
 ---
 >
 I think it would be a very safe bet to assume Bahamians know more about the US Constitution than their own. How can we hold political officers accountable when we don't know how much power we've given them.
 
-The text can be quite imposing, however, you have several tools at your disposal to find things quickly or browse the sections. Check out the table of contents to get an overview of the different sections. As you're reading, if you ever want to get back to the top of the page then just click one of the "Up to table of contents" buttons at the end of each section.
+The text can be quite imposing, however, you have several tools at your disposal to find things quickly or browse the sections. Check out the table of contents to get an overview of and jump to different sections. As you're reading, if you ever want to get back to the top of the page then just click one of the "Up to table of contents" buttons at the end of each section.
 
 Don't forget that you can always use ctrl+f to find particular words and phrases too!
 

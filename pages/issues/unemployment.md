@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Unemployment"
 meta_title: "BKR - Unemployment"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/issues/unemployment/"
 breadcrumb: true
 zingchart: true
@@ -49,7 +51,7 @@ Beyond the tag line of youth unemployment is a greater story of lost productivit
     },
     "crosshair-x":{
     	plotLabel:{
-
+          "text": "%t - %v%"
     	}
     },
     plot:{

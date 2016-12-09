@@ -1,5 +1,7 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Years in Review"
 meta_title: "BKR - Years in Review"
@@ -8,7 +10,6 @@ breadcrumb: true
 
 subheadline: 
 teaser:
-header:
 
 ---
 >

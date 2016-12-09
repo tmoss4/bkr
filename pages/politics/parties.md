@@ -1,15 +1,18 @@
 ---
 layout: page-fullwidth
+header:
+    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Political Parties"
 meta_title: "BKR - Political Parties"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/politics/parties/"
 breadcrumb: true
 
 categories:
 - politics
+
 tags:
 - blog
 - content
@@ -63,14 +66,14 @@ Click on the party's logo to visit their website and find contact information.
 		<p><center>Founded: 1953</center></p>
 		<p><center>Headquarters: Sir Lynden Pindling Center</center></p>
 		<p><center>*Political Position: Center-left</center></p>
-		<p><center><a href="http://myplp.org/issues/crime/">Solution for: Crime</center></a></p>
-		<p><center><a href="http://myplp.org/issues/jobs/">Solution for: Jobs</center></a></p>
-		<p><center><a href="http://myplp.org/issues/grand-bahama-3/">Solution for: Grand Bahama</center></a></p>
-		<p><center><a href="http://myplp.org/issues/immigration/">Solution for: Immigration</center></a></p>
-		<p><center><a href="http://myplp.org/site/wp-content/uploads/2012/02/Jobs.pdf">Job Creation and Empowerment Agenda</center></a></p>
-		<p><center><a href="http://myplp.org/issues/charter/">PLP Vision 2030</center></a></p>
-		<p><center><a href="http://myplp.org/issues/ten-point-mortgageforeclosures-plan/">Ten Point Mortage / Foreclosures Plan</center></a></p>
-		<p><center><a href="http://myplp.org/issues/our-accomplishments/">PLP Reported Accomplishments for 2002-2007</center></a></p>
+		<p><center><a href="http://myplp.org/issues/crime/">Solution for: Crime</a></center></p>
+		<p><center><a href="http://myplp.org/issues/jobs/">Solution for: Jobs</a></center></p>
+		<p><center><a href="http://myplp.org/issues/grand-bahama-3/">Solution for: Grand Bahama</a></center></p>
+		<p><center><a href="http://myplp.org/issues/immigration/">Solution for: Immigration</a></center></p>
+		<p><center><a href="http://myplp.org/site/wp-content/uploads/2012/02/Jobs.pdf">Job Creation and Empowerment Agenda</a></center></p>
+		<p><center><a href="http://myplp.org/issues/charter/">PLP Vision 2030</a></center></p>
+		<p><center><a href="http://myplp.org/issues/ten-point-mortgageforeclosures-plan/">Ten Point Mortage / Foreclosures Plan</a></center></p>
+		<p><center><a href="http://myplp.org/issues/our-accomplishments/">PLP Reported Accomplishments for 2002-2007</a></center></p>
 		<p><center>Notable: The PLP is largely responsible for the various issues relating to the overspending and underemployment related to <a href="htttp://www.hotelnewsnow.com/Articles/27571/Tracking-Baha-Mars-development-trek">Baha Mar</a> and the overspending related to <a href="http://www.bahamaslocal.com/newsitem/131596/Junkanoo_carnival_and_how_we_define_success.html">Carnival</a>.</center></p>
 		<p><center>Notable: The PLP supported the passing of the constitutional ammendements that would prevent discrimination based on sex and held a <a href="https://en.wikipedia.org/wiki/Bahamian_constitutional_referendum,_2016">referndum in 2016</a>, however, all amendments were rejected.** This was a new position for the PLP as they openly campaigned against <a href="https://en.wikipedia.org/wiki/Bahamian_referendum,_2002">a similar referendum</a> held in 2002 before the election which also included amendments seeking to end gender discrimination. Read more <a href="http://www.thenassauguardian.com/national-review/63042-when-history-haunts">here</a> or <a href="http://www.bahamasspectator.com/dpm%E2%80%88plp%E2%80%88did-nothing-wrong-in-2002-referendum/">here</a>.</center></p>	
 		<p><center>Notes: The PLP leader is seen as dishonest by many.</center></p>

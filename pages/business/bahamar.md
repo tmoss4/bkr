@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bahamar1.jpg"
 subheadline:
 title:  "BahaMar"
 meta_title: "BKR - BahaMar"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/business/bahamar/"
 breadcrumb: true
 

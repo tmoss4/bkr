@@ -1,5 +1,7 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "About"
 permalink: "/about/"
@@ -7,7 +9,7 @@ breadcrumb: true
 
 subheadline:
 teaser:
-header:
+
 ---
 
 ##### Our vision is a politically well-educated Bahamas.

@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Crime"
 meta_title: "BKR - Crime"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/issues/crime/"
 breadcrumb: true
 zingchart: true

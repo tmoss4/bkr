@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Doing Business"
 meta_title: "BKR - Doing Business"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/issues/doing-business/"
 breadcrumb: true
 
@@ -39,10 +41,14 @@ Mervin Sweeting, owner of Switcha, made some important points on how the Bahamas
 <center>
 <a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf"><img src="{{ site.urlimg }}work-permits.png" alt=""></a>
 </center>
+<center>Low skill work continues to makeup the majority of work permits issued in the Bahamas.</center>
+
+<br/>
 
 <center>
 <a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf"><img src="{{ site.urlimg }}workforce-issues.png" alt=""></a>
 </center>
+<center>By far, business say that training is a barrier to hiring more Bahamians</center>
 
 
 [1]: http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf

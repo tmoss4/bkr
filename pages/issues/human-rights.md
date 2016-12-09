@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
+header:
+   image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Human Rights"
 meta_title: "BKR - Human Rights"
 topic: "BKR"
-teaser: ""
+teaser: 
 permalink: "/issues/human-rights/"
 breadcrumb: true
 

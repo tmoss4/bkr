@@ -25,8 +25,8 @@
   side: left
   url: "/education/"
   dropdown:
-  - title: "Exam Results"
-    url: "/education/schools-exam-results/"
+  - title: "System & Exam Results"
+    url: "/education/system-exam-results/"
   - title: "Higher Education"
     url: "/education/higher-education/"
   - title: "All Bahamas Merit Scholars"
@@ -40,7 +40,7 @@
     url: "/issues/crime/"
   - title: "Unemployment"
     url: "/issues/unemployment/"
-  - title: "Declining GDP"
+  - title: "Gross Domestic Product (GDP)"
     url: "/issues/gdp/"
   - title: "Education"
     url: "/education/"
@@ -51,7 +51,7 @@
   - title: "Difficulty of Doing Business"
     url: "/issues/doing-business/"
   - title: "Human Rights"
-    url: "/issues/human-right/"
+    url: "/issues/human-rights/"
   - title: "Public Health"
     url: "/issues/public-health/"
 
@@ -61,8 +61,8 @@
   dropdown:
   - title: "BEC/BPL"
     url: "/business/bec-bpl/"
-  - title: "BTC"
-    url: "/business/btc/"
+  - title: "BTC/CWC"
+    url: "/business/btc-cwc/"
   - title: "Water and Sewage"
     url: "/business/water-sewage/"
   - title: "Baha Mar"
