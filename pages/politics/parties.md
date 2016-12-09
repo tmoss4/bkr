@@ -51,7 +51,7 @@ Click on the party's logo to visit their website and find contact information.
 		<p><center>Leader: Hubert Minnis</center></p>
 		<p><center>Founded: 1971</center></p>
 		<p><center>Headquarters: East Street South</center></p>
-		<p><center>*Political Position: ?</center></p>
+		<p><center>*Political Position: Center-left</center></p>
 		<p><center>No solutions for any issue listed on FNM website</center></p>
 		<p><center><a href="http://www.thenassauguardian.com/index.php?option%3Dcom_content%26view%3Darticle%26id%3D13051%26Itemid%3D86">Notable: </a>In 2007, the FNM inherited a budget surplus of ~$8 million which turned into a $600 million deficit by the time they left office in 2012. (The global financial crisis undoubtedly played a role)</center></p>
 		<p><center><a href="http://www.bahamaslocal.com/newsitem/56582/Ingraham_Explains_Decision_To_Purchase_Mercedes_Benz.html">Notable: </a>In Ingraham Explain Decision to Purchase Mercedes Benz</center></p>
