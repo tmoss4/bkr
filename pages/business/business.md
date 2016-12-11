@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Business"
-meta_title: "BKR - Business"
 permalink: "/business/"
 breadcrumb: true
 

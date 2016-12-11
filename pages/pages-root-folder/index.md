@@ -20,3 +20,6 @@ homepage: true
 
 >
 #### This report summarises the state of the nation based on an analysis of the nation’s current performance with respect to the four key pillars of development namely: Human Capital, Governance, the Environment and the Economy. It represents the culmination of over a year’s worth of research on the State of the Nation and provides the basis for the National Development Plan (NDP).
+
+<div class="quizz-container" data-width="100%" data-height="auto" data-quiz="309183"></div>
+<script src="//dcc4iyjchzom0.cloudfront.net/widget/loader.js" async></script>

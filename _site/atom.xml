@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/bkr/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/bkr/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/bkr/</id>
+	<title>Bahamas Knowledge Revolution</title>
+	<updated>2016-12-10T23:04:16-05:00</updated>
+
+	<subtitle>Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Theo Moss</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/bkr/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/bkr/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/bkr/blog/youth-politics-involvement/</id>
+			<title>Youth Involvement in Politics</title>
+			<link href="http://localhost:4000/bkr/blog/youth-politics-involvement/" rel="alternate" type="text/html" title="Youth Involvement in Politics" />
+			<updated>2016-12-01T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>tmoss4</name>
+					
+					
+					
+				</author>
+			
+			<summary>There are few opportunities to get involved with politics for individuals of any age but young people are especially removed as civics is not taught broadly or even available as a subject of study in many schools. Polarized &#39;party politics&#39; is high in the Bahamas and it is easy for many to become indoctrinated into the party of their immediate family members under the impression that is all they need to know. The Bahamas shares many of these problems with our neighbor the United States, and many other countries.</summary>
+			<content type="html" xml:base="http://localhost:4000/bkr/blog/youth-politics-involvement/">&lt;p&gt;“My daddy is a PLP, so I is a PLP!”&lt;/p&gt;
+
+&lt;p&gt;This is something I heard often when I was in high school and thought little of it. The two parties were indistinguishable to me beyond their colors and I only had a glancing understanding of how the government worked anyway. My response to things like ‘Senate’ or ‘House of Assembly’ was…‘I’ve heard those words before!’ I knew there was a Prime Minister who was normally surrounded by controversy and scandal and that things were rarely going well anywhere. ‘Minister of’ something or other would also come up in the news from time to time followed by names of people I could half-recognize. I would look back at those times and laugh but I think my political ignorance is indicative of a larger problem.&lt;/p&gt;
+
+&lt;p&gt;Information online was scarce (part of the motivation behind this site) and whenever political issues came up my friends and I would often shrug, say ‘CVA’, and let the topic die. The concept of Can’t Vote Anyway is certainly not unique to the Bahamas, nor is political apathy beyond sensationalist headlines and scandals.&lt;/p&gt;
+
+&lt;p&gt;As things worsen, people naturally look to their leaders for solutions. For many, their dissatisfaction with the status quo led to the rising numbers in the DNA (founded in 2011) and their ‘Young Democrats’ group.&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="blog" />
+			
+				<category term="post" />
+			
+				<category term="bahamas" />
+			
+				<category term="politics" />
+			
+
+			<published>2016-12-01T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/bkr/blog/polling-predictions/</id>
+			<title>Polling and Predictions for 2017</title>
+			<link href="http://localhost:4000/bkr/blog/polling-predictions/" rel="alternate" type="text/html" title="Polling and Predictions for 2017" />
+			<updated>2016-12-01T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>tmoss4</name>
+					
+					
+					
+				</author>
+			
+			<summary>Substantial polling data is generally unavailable in the Bahamas, however, the sources we do have point towards a potentially historic election year. 2016 saw the surprising and unprecedented election of Donald Trump and I think the Bahamas is also in for some surprises in the next months.</summary>
+			<content type="html" xml:base="http://localhost:4000/bkr/blog/polling-predictions/">&lt;p&gt;Since the Free National Movement (FNM) won its first election in 1992 with 32/49 seats, neither the FNM nor the Progressive Liberal Party (PLP) has ever won re-election as the controlling party. We have flipped back and forth between the two for over two decades but in 2017, that may change.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;current&lt;/em&gt; FNM party leader, Hubert Minnis, has faced heavy criticism from his own party members who are attempting to have him removed as their leader. Loretta Butler Turner, Member of Parliament for Long Island, is the forerunner for the leadership position - this comes after a [failed attempt][2] from her to gain leadership of the FNM back in May.&lt;/p&gt;
+
+&lt;p&gt;Many view the move as damaging to the FNM’s chances to win election but if we have learned anything from the chaos Donald Trump invoked within the republican party - which now controls the US House and Senate with republican Donald Trump at the head - it’s that people can overlook a whole mess of things. What’s important one week is not important the next and with 5 months remaining until voting takes place, anything could happen.&lt;/p&gt;
+
+&lt;p&gt;A woman as the leader of a major political party would be historic (A lack of term limits made anyone besides Hubert Ingraham or Perry Christie historic really). A woman as Prime Minister would be historic. Despite the Bahamas’ [checkered past][3] with woman’s rights issues, this could be the new reality in 2017.&lt;/p&gt;
+
+&lt;p&gt;Still standing between the PLP-FNM feud is the Democratic National Alliance (DNA). The party entered the arena in 2011 and, while Branville McCartney and his party did not win any seats in the 2012 election, they have been growing their ranks and remaining outspoken against both competiting parties.&lt;/p&gt;
+
+&lt;p&gt;Like the United States, the Bahamas employs a &lt;a href=&quot;http://en.wikipedia.org/wiki/First-past-the-post_voting#Criticisms&quot;&gt;first-past-the-post&lt;/a&gt; voting system - a winner-takes-all scenario. This system encourages tactical voting as a vote for anyone other than the runner up are effectively votes for the winner. This is true because by voting for any other candidate, the voter has taken potential votes away from the second place candidate who could have won if they had received those votes. In this way, voters are incentivized to vote only for candiates they believe are likely to win - lest they waste their vote. &lt;a href=&quot;http://en.wikipedia.org/wiki/First-past-the-post_voting#Effect_on_political_parties&quot;&gt;Duverger’s Law&lt;/a&gt; suggests that first-past-the-post systems generally tend towards two-party systems. The DNA will have a difficult time gaining a meaningful foothold in government.&lt;/p&gt;
+
+&lt;p&gt;I would love to see a live and recorded debate between the three major party leaders where they discuss the issues. I think it’s an important first step to making politicians stand for something and explain their plans beyond generic talking points like ‘reduce crime’ and ‘fix immigration’. It would also be a better platform for argument and discussion than constant attack pieces in the news.&lt;/p&gt;
+
+&lt;p&gt;I suspect crime to remain high and national exam scores to remain low. The elections are likely to overshadow these issues entirely, although there have been no successful remedies in the past regardless.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2016-12-01T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/bkr/blog/constituencies/</id>
+			<title>Do We Even Need Constituencies</title>
+			<link href="http://localhost:4000/bkr/blog/constituencies/" rel="alternate" type="text/html" title="Do We Even Need Constituencies" />
+			<updated>2016-01-02T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>tmoss4</name>
+					
+					
+					
+				</author>
+			
+			<summary>New Providence is a small island of 21x7 miles, much smaller than most US states - many of which have fewer government representatives. Is there really a need to split the island into 24 individual districts?</summary>
+			<content type="html" xml:base="http://localhost:4000/bkr/blog/constituencies/">&lt;p&gt;New Providence is a small island of 21x7 miles, much smaller than most US states. Each US state has two senators and one congress-person in government for approximately every 710,000 individuals.&lt;/p&gt;
+
+&lt;p&gt;Are there really substantial unique challenges faced by certain constituencies that separate them from others? Collectively, problems seem to affect the island as a whole rather than simply parts of it. Individual representatives for states makes sense intiuitively as Maine faces much different problems than a state like California. For family islands as well, I think it’s incredibly important that there are representatives from other islands. For little Nassau however? I don’t see the reason.&lt;/p&gt;
+
+&lt;p&gt;On this point, I agree with the DNA’s plan to [limit the number of Members of Parliament to 21][1] or even lower. Branville has also discussed abolishing the senate but my opinion is nearly meaningless here as I’m not exactly sure what the Senate is supposed to do.&lt;/p&gt;
+
+&lt;p&gt;I would much prefer to see a system where we voted directly for the Prime Minister and the Ministers of the individual area (education, heatlh, etc.).&lt;/p&gt;
+
+&lt;p&gt;I’d like to conduct a survery where I asked students of various grade levels if they were aware of what constituency they live in and what constituency their school is in. I certainly didn’t know mine until at least 10th grade. Perhaps I didn’t pay enough attention to those sort of things but I went to a school in another constituency and the normal New Providence issues of preparing for hurricanes, crime, lack of electricity, and bad traffic were felt by all.&lt;/p&gt;
+
+&lt;p&gt;I simply do not see strong reasoning behind the current system. It serves as yet another barrier to allowing Bahamian people to put who they want into power. We all live on the same island, the same confined space that is growing denser each year, and yet we have no direct say as to who our Prime Minister is, who our Minister of Works is, who our Minister of Tourism is - the very leadership positions capable of affecting our lives and directing the course of the country the most. I encourage everyone to vote regardless…but what limited power we have.&lt;/p&gt;
+
+&lt;p&gt;“The art of the compromise
+Hold your nose and close your eyes
+We want our leaders to save the day
+But we don’t get a say in what they trade away
+We dream of a brand new start
+But we dream in the dark for the most part
+Dark as a tomb where it happens”
+- The Room Where It Happens, Hamilton&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="blog" />
+			
+				<category term="post" />
+			
+				<category term="bahamas" />
+			
+				<category term="politics" />
+			
+
+			<published>2016-01-02T00:00:00-05:00</published>
+		</entry>
+	
+</feed>

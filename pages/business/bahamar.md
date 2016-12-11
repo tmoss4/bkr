@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bahamar1.jpg"
 subheadline:
 title:  "BahaMar"
-meta_title: "BKR - BahaMar"
 topic: "BKR"
 teaser: 
 permalink: "/business/bahamar/"

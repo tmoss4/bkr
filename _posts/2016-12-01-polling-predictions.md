@@ -4,11 +4,13 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline: 
 title:  "Polling and Predictions for 2017"
-meta_title: "BKR - Polling and Predictions for 2017"
-teaser: Substantial polling data is generally unavailable in the Bahamas, however, the sources we do have point towards a potentially historic election year. 2016 saw the surprising and unprecedented election of Donald Trump and I think the Bahamas is also in for some surprises in the next months.
+breadcrumb: true
+comments: true
+
+teaser: "Substantial polling data is generally unavailable in the Bahamas, however, the sources we do have point towards a potentially historic election year. 2016 saw the surprising and unprecedented election of Donald Trump and I think the Bahamas is also in for some surprises in the next months."
 
 categories:
-    - design
+    - blog
 tags:
     - design
     - background color

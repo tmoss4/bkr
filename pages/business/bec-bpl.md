@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "BEC/BPL"
-meta_title: "BKR - BEC/BPL"
 topic: "BKR"
 teaser: 
 permalink: "/business/bec-bpl/"

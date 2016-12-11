@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Public Health"
-meta_title: "BKR - Public Health"
-topic: "BKR"
 teaser: 
 permalink: "/issues/public-health/"
 breadcrumb: true

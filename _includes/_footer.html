@@ -59,12 +59,15 @@
 
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <a href="https://tmoss4.github.io/pbr/collection"><img src="{{ site.urlimg }}logo.png" alt=""></a>
+           <section id="subfooter-left" class="small-6 medium-3 columns credits">
+            <a href="https://tmoss4.github.io/pbr/collection"><img src="{{ site.urlimg }}pbrlogo.png" alt=""></a>
+          </section>
+
+          <section id="subfooter-left" class="small-12 medium-7 columns credits">
             {{ site.credits }}
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns">
+          <section id="subfooter-right" class="small-12 medium-2 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>

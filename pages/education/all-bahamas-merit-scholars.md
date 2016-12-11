@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "All Bahamas Merit Scholars"
-meta_title: "BKR - ABMS"
 topic: "BKR"
 teaser: 
 permalink: "/education/all-bahamas-merit-scholars/"

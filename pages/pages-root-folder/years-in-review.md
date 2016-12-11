@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Years in Review"
-meta_title: "BKR - Years in Review"
 permalink: "/years-in-review/"
 breadcrumb: true
 
@@ -17,7 +16,7 @@ If men could learn from history, what lessons it might teach us! But passion and
 <br/>- Samuel Taylor Coleridge
 
 <h5>This page chronicles noteworthy events and statistics about the Bahamas back to the year 2000. Click on any reference link to find a more detailed article!</h5>
-
+<br/>
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
@@ -29,7 +28,6 @@ If men could learn from history, what lessons it might teach us! But passion and
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
 
 ## 2016
 

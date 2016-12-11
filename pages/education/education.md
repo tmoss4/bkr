@@ -4,7 +4,6 @@ header:
     image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Education"
-meta_title: "BKR - Education"
 permalink: "/education/"
 breadcrumb: true
 

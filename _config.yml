@@ -190,7 +190,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: 
+disqus_shortname: bahamas-knowledge-revolution
 
 
 #      _____
@@ -214,7 +214,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: false
+google_analytics_tracking_id: UA-88742570-1
 
 
 

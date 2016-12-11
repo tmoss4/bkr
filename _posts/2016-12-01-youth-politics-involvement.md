@@ -1,13 +1,14 @@
 ---
-layout: page-fullwidth
+layout: page
 header:
    image_fullwidth: "bpano.jpeg"
 subheadline: 
 title:  "Youth Involvement in Politics"
-meta_title: "BKR - Youth Involvement in Politics"
 topic: "BKR"
-teaser: "There are few opportunities to get involved with politics for individuals of any age but young people are especially removed as civics is not taught broadly or even available as a subject of study in many schools. Polarized 'party politics' is high in the Bahamas and it is easy for many to become indoctrinated into the party of their immediate family members under the impression that is all they need to know. The Bahamas shares many of these problems with our neighbor the United States, and many other countries."
 breadcrumb: true
+comments: true
+
+teaser: "There are few opportunities to get involved with politics for individuals of any age but young people are especially removed as civics is not taught broadly or even available as a subject of study in many schools. Polarized 'party politics' is high in the Bahamas and it is easy for many to become indoctrinated into the party of their immediate family members under the impression that is all they need to know. The Bahamas shares many of these problems with our neighbor the United States, and many other countries."
 
 categories:
     - blog

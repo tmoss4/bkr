@@ -1,11 +1,9 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "bpano.jpeg"
+   image_fullwidth: "bahamas-hurricane.jpg"
 subheadline:
 title:  "Climate Change"
-meta_title: "BKR - Climate Change"
-topic: "BKR"
 teaser: 
 permalink: "/issues/climate-change/"
 breadcrumb: true

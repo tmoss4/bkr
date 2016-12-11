@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Notable Bahamian Owned Businesses"
-meta_title: "BKR - Notable Bahamian Owned Businesses"
 topic: "BKR"
 teaser: 
 permalink: "/business/notable-bahamian-owned/"

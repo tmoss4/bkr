@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "BTC/CWC"
-meta_title: "BKR - BTC/CWC"
-topic: "BKR"
 teaser: 
 permalink: "/business/btc-cwc/"
 breadcrumb: true

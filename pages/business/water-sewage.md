@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Water and Sewage"
-meta_title: "BKR - Water and Sewage"
-topic: "BKR"
 teaser: 
 permalink: "/business/water-sewage/"
 breadcrumb: true

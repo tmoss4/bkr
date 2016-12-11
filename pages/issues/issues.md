@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Issues"
-meta_title: "BKR - Issues"
 permalink: "/issues/"
 breadcrumb: true
 

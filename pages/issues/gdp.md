@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Gross Domestic Product (GDP)"
-meta_title: "BKR - GDP"
-topic: "BKR"
 teaser: 
 permalink: "/issues/gdp/"
 breadcrumb: true

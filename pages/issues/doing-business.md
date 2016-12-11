@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Doing Business"
-meta_title: "BKR - Doing Business"
-topic: "BKR"
 teaser: 
 permalink: "/issues/doing-business/"
 breadcrumb: true

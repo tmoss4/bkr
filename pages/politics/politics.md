@@ -4,7 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 show_meta: false
 title: "Politics"
-meta_title: "BKR - Politics"
 permalink: "/politics/"
 breadcrumb: true
 

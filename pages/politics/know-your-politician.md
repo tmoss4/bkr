@@ -3,7 +3,6 @@ layout: page-fullwidth
 header:
    image_fullwidth: "bpano.jpeg"
 title: "Know Your Politician"
-meta_title: "BKR - Know Your Politician"
 subheadline: 
 teaser: 
 permalink: "/politics/know-your-politician/"

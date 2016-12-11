@@ -4,8 +4,6 @@ header:
     image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Political System"
-meta_title: "BKR - Political System"
-topic: "BKR"
 teaser: 
 permalink: "/politics/system/"
 breadcrumb: true

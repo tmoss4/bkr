@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Human Rights"
-meta_title: "BKR - Human Rights"
-topic: "BKR"
 teaser: 
 permalink: "/issues/human-rights/"
 breadcrumb: true

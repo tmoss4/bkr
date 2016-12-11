@@ -4,8 +4,6 @@ header:
     image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "The Bahamian Constitution"
-meta_title: "BKR - Constitution"
-topic: "BKR"
 teaser: 
 permalink: "/politics/constitution/"
 breadcrumb: true

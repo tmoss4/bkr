@@ -1,13 +1,14 @@
 ---
-layout: page-fullwidth
+layout: page
 header:
    image_fullwidth: "bpano.jpeg"
 subheadline: 
 title:  "Do We Even Need Constituencies"
-meta_title: "BKR - Do We Even Need Constituencies"
 topic: "BKR"
-teaser: "New Providence is a small island of 21x7 miles, much smaller than most US states - many of which have fewer government representatives. Is there really a need to split the island into 24 individual districts?"
 breadcrumb: true
+comments: true
+
+teaser: "New Providence is a small island of 21x7 miles, much smaller than most US states - many of which have fewer government representatives. Is there really a need to split the island into 24 individual districts?"
 
 categories:
     - blog

@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "System & Exam Results"
-meta_title: "BKR - Schools & Exam Results"
-topic: "BKR"
 teaser: 
 permalink: "/education/system-exam-results/"
 breadcrumb: true
@@ -60,7 +58,7 @@ Averages have, unfortunately, hidden the depth of the problem. As many Bahamians
 	</div><!-- /.medium-3.columns -->
 </div><!-- /.row -->
 
-<center>These results are from 2006 but, as we saw in the first graph, little has changed since then.</center>
+<center>These results are for New Providence public schools in 2006 but, as we saw in the first graph, little has changed since then.</center>
 <br/>
 
 The State of the Nation Report notes that "The same report quantifies the low results across 2012 GLAT, BJC, and BGCSE exams with ~50% of students scoring below a C in all three sets of tests. The graphs in this section are particularly noteworthy. Here we can see the same trend continues with private schools performing better. More private school students receive grades A-C but the line drops significantly after a grade of C while public schools results for those scores remain high.
@@ -75,7 +73,7 @@ Things at the Bahamas Technical and Vocational Institute (BTVI) are not signific
 var chartData = {
       type: "bar",
       title: {
-        text: "St. Augustines vs CR Walker 2006 BGCSE Results (All Subjects)",
+        text: "2006 BGCSE Results (All Subjects)",
         "font-size":16
       },
       "scale-x": {
@@ -99,7 +97,8 @@ var chartData = {
       }
     },
       legend: {
-
+        x: "20%",
+        y: "20%"
     },
       series: [
       { 
@@ -126,7 +125,7 @@ var chartData = {
   var chartData2 = {
       type: "pie",
       title: {
-        text: "2006 NP Public Schools BGCSE Results English",
+        text: "BGCSE Results English",
         "font-size": 16,
       },
     "plot":{
@@ -167,7 +166,7 @@ var chartData = {
   var chartData3 = {
       type: "pie",
       title: {
-        text: "2006 NP Public Schools BGCSE Results Math",
+        text: "BGCSE Results Math",
         "font-size": 16,
       },
     "plot":{

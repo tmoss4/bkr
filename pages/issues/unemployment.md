@@ -4,8 +4,6 @@ header:
    image_fullwidth: "bpano.jpeg"
 subheadline:
 title:  "Unemployment"
-meta_title: "BKR - Unemployment"
-topic: "BKR"
 teaser: 
 permalink: "/issues/unemployment/"
 breadcrumb: true
