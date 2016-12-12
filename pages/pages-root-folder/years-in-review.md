@@ -285,7 +285,7 @@ FNM: Free National Movement
 [78]: http://www.tribune242.com/news/2016/dec/07/breaking-news-hubert-minnis-removed-leader-opposit/
 
 <!-- 2015 -->
-[6]: https://www.moodys.com/credit-ratings/Bahamas-Government-of-credit-rating-600010326 <!-- Moody's -->
+[6]: https://www.moodys.com/credit-ratings/Bahamas-Government-of-credit-rating-600010326
 [7]: http://www.bahamaslocal.com/newsitem/126092/PM_Baha_Mar_not_running_out_of_cash.html
 [8]: http://www.hotelnewsnow.com/Articles/27571/Tracking-Baha-Mars-development-trek
 [9]: http://www.bahamaslocal.com/newsitem/131596/Junkanoo_carnival_and_how_we_define_success.html
