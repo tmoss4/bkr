@@ -26,7 +26,7 @@ A further critical issue is that years of inadequate maintenance have left the s
 
 WSC has limited sewer services, with about 15 to 20% coverage on New Providence and almost none on the Family Islands. The facilities are old and usually provide very minimal treatment. Most households depend on septic tanks for the handling of their wastewater. 
 <center>
-<a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf"><img src="{{ site.urlimg }}water-source.PNG" alt=""></a>
+<a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf"><img src="{{ site.urlimg }}water-source.png" alt=""></a>
 </center>
 
 [1]: http://www.wsc.com.bs/

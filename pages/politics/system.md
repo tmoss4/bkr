@@ -81,7 +81,7 @@ Term Limits: 5 years
 
 Some MPs are also selected as Ministers of one of 17 areas such as education, finance, and foreign affairs. See "Ministries" section below.
 
-Head to the <a href="{{ site.url }}{{ site.baseurl }}politics/know-your-politician">Know Your Politician</a> page to see the current Members of Parliament.
+Head to the <a href="{{ site.url }}{{ site.baseurl }}/politics/know-your-politician">Know Your Politician</a> page to see the current Members of Parliament.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -109,7 +109,7 @@ The Senate can pass bills and make bill amendments which must be approved by the
 
 Term Limits: 5 years
 
-Head to the <a href="{{ site.url }}{{ site.baseurl }}politics/know-your-politician">Know Your Politician</a> page to see the current Senators.
+Head to the <a href="{{ site.url }}{{ site.baseurl }}/politics/know-your-politician">Know Your Politician</a> page to see the current Senators.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
