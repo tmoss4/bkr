@@ -20,6 +20,7 @@ tags:
     - politics
 
 ---
+[Unfinished]
 New Providence is a small island of 21x7 miles, much smaller than most US states. Each US state has two senators and one congress-person in government for approximately every 710,000 individuals. 
 
 Are there really substantial unique challenges faced by certain constituencies that separate them from others? Collectively, problems seem to affect the island as a whole rather than simply parts of it. Individual representatives for states makes sense intiuitively as Maine faces much different problems than a state like California. For family islands as well, I think it's incredibly important that there are representatives from other islands. For little Nassau however? I don't see the reason. 

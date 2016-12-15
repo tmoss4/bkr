@@ -20,6 +20,7 @@ tags:
     - politics
 
 ---
+[Unfinished]
 "My daddy is a PLP, so I is a PLP!"
 
 This is something I heard often when I was in high school and thought little of it. The two parties were indistinguishable to me beyond their colors and I only had a glancing understanding of how the government worked anyway. My response to things like 'Senate' or 'House of Assembly' was...'I've heard those words before!' I knew there was a Prime Minister who was normally surrounded by controversy and scandal and that things were rarely going well anywhere. 'Minister of' something or other would also come up in the news from time to time followed by names of people I could half-recognize. I would look back at those times and laugh but I think my political ignorance is indicative of a larger problem.

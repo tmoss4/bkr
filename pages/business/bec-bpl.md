@@ -74,8 +74,6 @@ BEC operates 29 generating plants in 25 island locations as of 2016. [Ref][1]
 
 "Maintenance of generators has been problematic and service is unreliable, such that many more businesses in The Bahamas have emergency generators than their counterparts in the Caribbean. Although the government has embarked on a programme to reform the power sector, there are few energy conservation measures in place. Nonetheless, the recent appointment of a private sector firm to help overhaul BEC provides some basis for optimism." [State of the Nation Report, page 48][1]
 
-Enter BPL.
-
 [1]: http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf
 [2]: http://en.wikipedia.org/wiki/Bahamas_Electricity_Corporation
 [3]: http://www.bahamaselectricity.com/

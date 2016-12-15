@@ -33,3 +33,7 @@ Lastly, as a big fan of ZenPencils, I want to share this [comic][2]. Real knowle
 
 ##### Contact
 Found a problem with the site? Want to learn more, suggest a new section, donate, or just tell us we're doing a great job? Email <a href="mailto:moss.theophilus@gmail.com">moss.theophilus@gmail.com</a> and let us know!
+
+New sections being considered are:
+<li>an interactive graphic of the bus system on Nassau</li>
+<li>a heat crime map of Nassau that show historically crime-ridden areas - perhaps by year</li>
