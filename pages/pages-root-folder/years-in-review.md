@@ -31,17 +31,21 @@ If men could learn from history, what lessons it might teach us! But passion and
 
 ## 2016
 
-1. Hubert Minnis faces removal as leader of the FNM [78]
-2. Potential Ebola case ultimately ruled out [[Ref]][1]
-2. Zika cases confirmed in the Bahamas. CDC adds country to interim alert list [[Ref]][2]
-4. FNM Chairman Michael Pintard resigns as chairman and senator amid ongoing Peter Nygard &/Louis Bacon scandal [[Ref]][3]
-5. Second Bahamian Carnival held with budget of $7 million [[Ref]][4]
-6. Bahamians vote to deny women equal rights - again [[Ref]][5]
-7. Moody’s downgrades Bahamas’ credit rating to baa3, two ranks away from junk status, with stable outlook [[Ref]][6]
-8. Hurricane Matthew devastates Bahamas [[Ref]][62]
-9. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
-10. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
-11. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
+1. Loretta Butler-Turner becomes first woman to serve as Leader of the Opposition in Parliament [[Ref]][79]
+2. The FNM’s four Senators — appointed by Hubert Minnis — resigned following a vote of no confidence in Hubert Minnis as leader of the FNM party, allowing Loretta Butler-Turner to appoint Senators to serve at her pleasure [[Ref]][79]
+3. Loretta Butler-Turner appoints Leader of the Democratic National Alliance (DNA) Branville McCartney to the Senate and as Leader of Opposition Business [[Ref]][79]
+4. Loretta Butler-Turner appoints Rodney Moncur, Jude Knowles, and Monique Gomez as senators [[Ref]][79]
+5. Hubert Minnis faces removal as leader of the FNM by "rebel 7" but ultimately keeps position [[Ref]][78]
+6. Potential Ebola case ultimately ruled out [[Ref]][1]
+7. Zika cases confirmed in the Bahamas. CDC adds country to interim alert list [[Ref]][2]
+8. FNM Chairman Michael Pintard resigns as chairman and senator amid ongoing Peter Nygard &/Louis Bacon scandal [[Ref]][3]
+9. Second Bahamian Carnival held with budget of $7 million [[Ref]][4]
+10. Bahamians vote to deny women equal rights - again [[Ref]][5]
+11. Moody’s downgrades Bahamas’ credit rating to baa3, two ranks away from junk status, with stable outlook [[Ref]][6]
+12. Hurricane Matthew devastates Bahamas [[Ref]][62]
+13. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
+14. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
+15. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -283,6 +287,7 @@ FNM: Free National Movement
 [63]: http://www.tribune242.com/news/2016/oct/31/insight-bpl-and-bec-siamese-twins-electric-power/
 [64]: http://www.bahamaslocal.com/newsitem/144040/Former_FNM_Minister_joins_the_PLP.html
 [78]: http://www.tribune242.com/news/2016/dec/07/breaking-news-hubert-minnis-removed-leader-opposit/
+[79]: http://www.thebahamasweekly.com/publish/bahamas_social_political_gender_activist_human%20rights/Disappointment_in_Butler-Turner_s_Senate_Appointments51819.shtml
 
 <!-- 2015 -->
 [6]: https://www.moodys.com/credit-ratings/Bahamas-Government-of-credit-rating-600010326
@@ -391,4 +396,4 @@ FNM: Free National Movement
 [60]: http://www.bahamapundit.com/2014/01/lasting-legacies-for-the-bahamas-from-the-year-2013.html#more
 [61]: http://bahamasb2b.com/news/wmview.php?ArtID=707
 
-<!-- Next number: 79  -->
+<!-- Next number: 80  -->

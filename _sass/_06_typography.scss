@@ -34,7 +34,7 @@ a:visited {
 }
 
 a:hover {
-    color: darken( $ci-8, 10% );
+    color: $ci-8;
 }
 
 a:focus {

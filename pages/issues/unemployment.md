@@ -30,6 +30,9 @@ Young people have been disproportionally affected as youth unemployment is a sta
 
 <div id="chartDiv"></div>
 <br/>
+Source: [Trading Economics][2] and [International Monetary Fund][4]
+{: .text-right }
+
 "Beyond the tag line of youth unemployment is a greater story of lost productivity and deterioration in the health of the Bahamian economy due to lower output, reduced consumption, reduced investment and increased social spending. The low growth rates seen in The Bahamas suggest that it is unlikely that the current industries could grow sufficiently fast to absorb those currently unemployed and the new members entering the workforce yearly. New industries and innovative solutions to increase opportunities will have to be developed. The Bahamas will be facing an increasingly aging population in 2040. With such a high level of its productive workforce out of employment, the country is ill prepared to achieve the level of development to support the changing demographic." [State of the Nation Report, page 26][1]
 
 <!-- Unemployment Graph -->
@@ -65,7 +68,7 @@ Young people have been disproportionally affected as youth unemployment is a sta
     },
       series: [
       { 
-      	values: [7.6, 7.9, 8.7, 14.2,,13.7, 14.0, 15.4, 15.7, 14.8],
+      	values: [7.6, 7.9, 8.7, 14.2, 15.1, 13.7, 14.0, 15.4, 15.7, 14.8],
       	backgroundColor:"#0011AB",
       	text: "Unemployment-rate"
       }
@@ -78,11 +81,9 @@ Young people have been disproportionally affected as youth unemployment is a sta
     });
 </script>
 
-Source: [Trading Economics][2]
-{: .text-right }
-
 Ralph Massey authored an interesting paper on [Academic Failure & The Skills Gap][3] in 2006.
 
 [1]: http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf
 [2]: http://www.tradingeconomics.com/bahamas/unemployment-rate
 [3]: http://www.nassauinstitute.org/files/AcademicFailure&SkilsGap3.pdf
+[4]: http://www.indexmundi.com/the_bahamas/unemployment_rate.html

@@ -23,5 +23,6 @@ homepage: true
 
 <div class="quizz-container" data-width="100%" data-height="auto" data-quiz="309183"></div>
 <script src="//dcc4iyjchzom0.cloudfront.net/widget/loader.js" async></script>
+<br/>
 
-Unsure of your political leanings? The Pew Research Center conducted a national survey of over 10,000 US adults and designed this <a href="http://www.people-press.org/quiz/political-typology/">political typology quiz</a> to help individuals determine is they are strong conservatives, strong democrats, or somewhere in the middle. You may agree with more liberal / conservative idealogies than you think!
+Are you unsure of your political leanings? The Pew Research Center conducted a national survey of over 10,000 US adults and designed this 20 question <a href="http://www.people-press.org/quiz/political-typology/">political typology quiz</a> to help individuals determine is they are strong conservatives, strong democrats, or somewhere in the middle. You may agree with more liberal / conservative idealogies than you think!

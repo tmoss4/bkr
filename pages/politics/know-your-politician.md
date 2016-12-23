@@ -44,10 +44,10 @@ Click on a picture to learn more and find contact information. See the [Politica
 	</div><!-- /.medium-3.columns -->
 
 	<div class="medium-3 columns t30">
-		<a href="http://bit.ly/2h886nm"><img src="{{ site.urlimg }}minnis.jpg" alt=""></a>
-		<center>Hubert Minnis</center>
+		<a href="http://bit.ly/2h8079y"><img src="{{ site.urlimg }}loretta.jpg" alt=""></a>
+		<center>Loretta Turner-Butler</center>
+		<center>Long Island</center>
 		<center>Leader of the Opposition</center>
-		<center>MP: Killarney</center>
 	</div><!-- /.medium-3.columns -->
 
 </div><!-- /.row -->
@@ -143,7 +143,7 @@ These are the politicians Bahamians voted into office.
 		<a href="http://bit.ly/2h886nm"><img src="{{ site.urlimg }}minnis.jpg" alt=""></a>
 		<center>Hubert Minnis</center>
 		<center>Killarney</center>
-		<center>Leader of the Opposition</center>
+		<center>Leader of the FNM</center>
 	</div><!-- /.medium-3.columns -->
 </div>
 
@@ -287,7 +287,7 @@ These are the politicians Bahamians voted into office.
 		<a href="http://bit.ly/2h8079y"><img src="{{ site.urlimg }}loretta.jpg" alt=""></a>
 		<center>Loretta Turner-Butler</center>
 		<center>Long Island</center>
-		<center></center>
+		<center>Leader of the Opposition</center>
 	</div><!-- /.medium-3.columns -->
 
 	<div class="medium-3 columns t30">
@@ -491,10 +491,10 @@ The Senate consists of 16 members called Senators. These Senators are not electe
 
 <div class="row">
 	<div class="medium-3 columns t30">
-		<a href="http://bit.ly/2givHnD"><img src="{{ site.urlimg }}carl.jpg" alt=""></a>
-		<center>Carl Bethel</center>
+		<a href="http://bit.ly/2givHnD"><img src="{{ site.urlimg }}branville.jpg" alt=""></a>
+		<center>Branville McCartney</center>
 		<center>Senator</center>
-		<center>Senator Opposition Leader</center>
+		<center>Leader of the DNA</center>
 	</div><!-- /.medium-3.columns -->
 
 	<div class="medium-3 columns t30">
@@ -505,15 +505,15 @@ The Senate consists of 16 members called Senators. These Senators are not electe
 	</div><!-- /.medium-3.columns -->
 
 	<div class="medium-3 columns t30">
-		<a href="http://bit.ly/2h3J0Hl"><img src="{{ site.urlimg }}duane.jpg" alt=""></a>
-		<center>Duane Sands</center>
+		<a href="http://bit.ly/2h3J0Hl"><img src="{{ site.urlimg }}jude.jpg" alt=""></a>
+		<center>Jude Knowles</center>
 		<center>Senator</center>
 		<center></center>
 	</div><!-- /.medium-3.columns -->
 
 	<div class="medium-3 columns t30">
-		<a href="http://bit.ly/2hg24kj"><img src="{{ site.urlimg }}kwasi.jpg" alt=""></a>
-		<center>Kwasi Thompson</center>
+		<a href="http://bit.ly/2hg24kj"><img src="{{ site.urlimg }}rodney.jpg" alt=""></a>
+		<center>Rodney Moncur</center>
 		<center>Senator</center>
 		<center></center>
 	</div><!-- /.medium-3.columns -->
