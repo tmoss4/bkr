@@ -17,7 +17,7 @@ tags:
     - post format
 
 ---
-The [Bahamas Telecommunications Company][2] (BTC) is the primary telecommunications provider for the Bahamas. The company headquarters is on Nassau and it is party government owned. (See [wiki][1])
+The [Bahamas Telecommunications Company][2] (BTC) is the primary telecommunications provider for the Bahamas and the sole mobile provider. The company headquarters is on Nassau and it is party government owned. (See [wiki][1])
 
 Provided services include telephone, internet, and wireless service.
 

@@ -42,10 +42,12 @@ If men could learn from history, what lessons it might teach us! But passion and
 9. Second Bahamian Carnival held with budget of $7 million [[Ref]][4]
 10. Bahamians vote to deny women equal rights - again [[Ref]][5]
 11. Moody’s downgrades Bahamas’ credit rating to baa3, two ranks away from junk status, with stable outlook [[Ref]][6]
-12. Hurricane Matthew devastates Bahamas [[Ref]][62]
-13. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
-14. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
-15. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
+12. Standard & Poor's downgrades Bahamas to 'junk' status [[Ref]][80]
+13. Baha Mar sold to Chow Tai Fook Enterprises [[Ref]][81]
+14. Hurricane Matthew devastates Bahamas [[Ref]][62]
+15. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
+16. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
+17. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -288,6 +290,8 @@ FNM: Free National Movement
 [64]: http://www.bahamaslocal.com/newsitem/144040/Former_FNM_Minister_joins_the_PLP.html
 [78]: http://www.tribune242.com/news/2016/dec/07/breaking-news-hubert-minnis-removed-leader-opposit/
 [79]: http://www.thebahamasweekly.com/publish/bahamas_social_political_gender_activist_human%20rights/Disappointment_in_Butler-Turner_s_Senate_Appointments51819.shtml
+[80]: http://www.tribune242.com/news/2016/dec/21/standard-poors-downgrades-bahamas-junk-status/
+[81]: http://www.tribune242.com/news/2016/dec/12/pm-confirms-sale-baha-mar-chow-tai-fook-enterprise/
 
 <!-- 2015 -->
 [6]: https://www.moodys.com/credit-ratings/Bahamas-Government-of-credit-rating-600010326
@@ -396,4 +400,4 @@ FNM: Free National Movement
 [60]: http://www.bahamapundit.com/2014/01/lasting-legacies-for-the-bahamas-from-the-year-2013.html#more
 [61]: http://bahamasb2b.com/news/wmview.php?ArtID=707
 
-<!-- Next number: 80  -->
+<!-- Next number: 82  -->

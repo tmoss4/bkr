@@ -17,7 +17,6 @@ tags:
     - header
 
 ---
-[Unfinished]
 Since the Free National Movement (FNM) won its first election in 1992 with 32/49 seats, neither the FNM nor the Progressive Liberal Party (PLP) has ever won re-election as the controlling party. We have flipped back and forth between the two for over two decades but in 2017, that may change. 
 
 The *current* FNM party leader, Hubert Minnis, has faced heavy criticism from his own party members who are attempting to have him removed as their leader. Loretta Butler Turner, Member of Parliament for Long Island, is the forerunner for the leadership position - this comes after a [failed attempt][2] from her to gain leadership of the FNM back in May.
