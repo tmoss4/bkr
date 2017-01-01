@@ -46,7 +46,7 @@ The United States Department of State heads the Overseas Security Advisory Counc
        label: {
         text: "Year"
       },
-      values: [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015] 
+      values: [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016] 
     },
     "scale-y":{
     	label: {
@@ -66,7 +66,7 @@ The United States Department of State heads the Overseas Security Advisory Counc
     },
       series: [
       { 
-      	values: [73, 43, 52, 50, 44, 50, 60, 78, 72, 87, 94, 127, 111, 119, 122, 149],
+      	values: [73, 43, 52, 50, 44, 50, 60, 78, 72, 87, 94, 127, 111, 119, 122, 149, 111],
       	backgroundColor:"#BF0000",
       	text: "Murders"
       }
