@@ -1,7 +1,7 @@
 # Controls the Icons in the footer
 
 - name: Facebook
-  url: http://www.facebook.com/
+  url: https://www.facebook.com/paperbeatsrockdmc
   class: icon-facebook
   title: ""
 
