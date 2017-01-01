@@ -44,10 +44,11 @@ If men could learn from history, what lessons it might teach us! But passion and
 11. Moody’s downgrades Bahamas’ credit rating to baa3, two ranks away from junk status, with stable outlook [[Ref]][6]
 12. Standard & Poor's downgrades Bahamas to 'junk' status [[Ref]][80]
 13. Baha Mar sold to Chow Tai Fook Enterprises [[Ref]][81]
-14. Hurricane Matthew devastates Bahamas [[Ref]][62]
-15. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
-16. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
-17. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
+14. The People's Movement (Gatekeepers) form new political party [[Ref]][82] [[Ref 2]][83]
+15. Hurricane Matthew devastates Bahamas [[Ref]][62]
+16. Bahamas Power and Light (BPL) takes over Bahamas Electric Corporation (BEC) [[Ref]][63]
+17. Byran Woodside, former FNM Minister of State, joins the PLP [[Ref]][64]
+18. Simone Cambridge of Queen’s College named ABMS to attend McGill University to study Art History & Urban Studies [[Ref]][35]
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -292,6 +293,8 @@ FNM: Free National Movement
 [79]: http://www.thebahamasweekly.com/publish/bahamas_social_political_gender_activist_human%20rights/Disappointment_in_Butler-Turner_s_Senate_Appointments51819.shtml
 [80]: http://www.tribune242.com/news/2016/dec/21/standard-poors-downgrades-bahamas-junk-status/
 [81]: http://www.tribune242.com/news/2016/dec/12/pm-confirms-sale-baha-mar-chow-tai-fook-enterprise/
+[82]: http://www.thenassauguardian.com/news/67879-gatekeepers-forms-political-party
+[83]: http://www.thenassauguardian.com/opinion/letters/70183-gatekeepers-10-point-plan-for-the-bahamas
 
 <!-- 2015 -->
 [6]: https://www.moodys.com/credit-ratings/Bahamas-Government-of-credit-rating-600010326
@@ -400,4 +403,4 @@ FNM: Free National Movement
 [60]: http://www.bahamapundit.com/2014/01/lasting-legacies-for-the-bahamas-from-the-year-2013.html#more
 [61]: http://bahamasb2b.com/news/wmview.php?ArtID=707
 
-<!-- Next number: 82  -->
+<!-- Next number: 84  -->
