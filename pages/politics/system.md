@@ -63,9 +63,9 @@ These results implicity decide two other positions:
 
 While affliation with a political party is not necessary to run for a MP position, the two named positions require it. 
 
-The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats). 
+The office of Prime Minister is held by the leader of the party which wins a majority of House of Assembly positions (also known as seats). Political parties hold leadership conventions where they elect their party leaders.
 
-The Leader of the Opposition is appointed by the Governor General and is typically the leader of the party which wins the second highest seat count. (This is not always the case as we saw in 2016 when Loretta Butler-Turner was appointed as the Leader of the Opposition while Hubert Minnis was still the leader of the FNM.)
+The Leader of the Opposition is appointed by the Governor General and is typically the leader of the party which wins the second highest seat count. (This is not always the case as we saw in 2016 when Loretta Butler-Turner was appointed as the Leader of the Opposition while Hubert Minnis was still the leader of the FNM).
 
 <h5>Eligibility</h5>
 
