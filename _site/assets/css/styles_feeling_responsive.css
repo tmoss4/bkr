@@ -3315,7 +3315,7 @@ meta.foundation-mq-topbar {
 }
 /* line 364, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
 .top-bar-section ul li.active > a:hover {
-  background: #DA182B;
+  background: #FFFFFF;
   color: #000;
 }
 /* line 372, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3416,7 +3416,7 @@ meta.foundation-mq-topbar {
   padding: 8px 1.04167rem 2px;
   margin-bottom: 0;
   text-transform: uppercase;
-  color: #DA182B;
+  color: #ffffff;
   font-weight: bold;
   font-size: 0.625rem;
 }
@@ -3519,7 +3519,7 @@ meta.foundation-mq-topbar {
   }
   /* line 527, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section li.active:not(.has-form) a:not(.button):hover {
-    background: #DA182B;
+    background: #ffffff;
     color: #000;
   }
   /* line 537, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
@@ -3593,12 +3593,12 @@ meta.foundation-mq-topbar {
     line-height: 3.125rem;
     white-space: nowrap;
     padding: 12px 1.04167rem;
-    background: #DA182B;
+    background: #ffffff;
   }
   /* line 594, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
     color: #000;
-    background: #DA182B;
+    background: #ffffff;
   }
   /* line 599, /Users/SatoshiUchiyuki/bkr/_sass/foundation-components/_top-bar.scss */
   .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
@@ -8553,7 +8553,7 @@ body.video cite {
   display: block;
   width: 36px;
   border-radius: 50%;
-  color: #DA182B;
+  color: #ffffff;
   background: #91dff5;
   text-align: center;
 }

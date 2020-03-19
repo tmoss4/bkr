@@ -67,15 +67,15 @@
     url: "/business/water-sewage/"
   - title: "Baha Mar"
     url: "/business/bahamar/"
-  - title: "Notable Bahamian Owned"
-    url: "/business/notable-bahamian-owned/"
+  #- title: "Notable Bahamian Owned"
+  #  url: "/business/notable-bahamian-owned/"
 
-- title: "Blog"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#- title: "Blog"
+ # url: "/blog/"
+  #side: left
+  #dropdown:
+  #- title: "Blog Archive"
+  #  url: "/blog/archive/"
 
 - title: "Years in Review"
   url: "/years-in-review/"
