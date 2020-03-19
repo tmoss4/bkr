@@ -70,6 +70,7 @@ format: frontpage
 *
 {% endcomment %}
 
+<!-- 
 {% unless site.posts == empty %}
 <div class="row t30 b20 homepage">
     <div class="small-12 columns">
@@ -86,8 +87,8 @@ format: frontpage
         <h2>{{ site.data.language.new_blog_entries }}</h2>
         {% endif %}
         {% endfor %}
-    </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
+    </div> [/.small-12.columns]
+</div> [/.row]
 
 
 <div class="row">
@@ -98,12 +99,13 @@ format: frontpage
             {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
         {% endfor %}
-    </div><!-- /.medium-5.columns -->
+    </div>[/.medium-5.columns]
 
 
     <div class="medium-6 columns">
         <strong>{{ site.data.language.more_articles }}</strong>
         {% include list-posts entries='3' offset='1' %}
-    </div><!-- /.medium-7.columns -->
-</div><!-- /.row -->
+    </div> [/.medium-7.columns]
+</div> [/.row]
 {% endunless %}
+--> 
