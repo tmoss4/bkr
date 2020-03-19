@@ -168,7 +168,7 @@ For more information on registering to vote for the 2017 election - <a href="htt
 
 ## Constituencies {#constituencies}
 
-There are 38 constituencies, 24 on Nassau and 14 on the family islands.
+There are 38 constituencies, 23 on Nassau and 15 on the family islands.
 
 |Nassau                           | Nassau                          | Family Island                         |
 | :-----------------------------: | :-----------------------------: |:-------------------------------------:|
@@ -176,16 +176,17 @@ There are 38 constituencies, 24 on Nassau and 14 on the family islands.
 | 2. Bamboo Town                  | 14. Montagu                     | 2. Central & South Abaco              |
 | 3. Carmichael                   | 15. Mount Moriah                | 3. Central & South Eleuthera          |
 | 4. Centerville                  | 16. Nassau Village              | 4. Central Grand Bahama               |
-| 5. Elizabeth                    | 17. Pineridge                   | 5. East Grand Bahama                  |
-| 6. Englerston                   | 18. Pinewood                    | 6. Exumas and Ragged Island           |
-| 7. Fort Charlotte               | 29. Seabreeze                   | 7. Long Island 						|
-| 8. Fox Hill                     | 20. South Beach                 | 8. Mangrove Cay & South Andros        |
-| 9. Garden Hills                 | 21. Southern Shores             | 9. Marco City 		                |
-| 10. Golden Gates                | 22. St. Anne's                  | 10. M.I.C.A.L.* 					    |
-| 11. Golden Isles                | 23. Tall Pines                  | 11. North Abaco                		|
-| 12. Killarney                   | 24. Yamacraw                    | 12. North Andros & Berry Islands	    |
+| 5. Elizabeth                    | 17. Pinewood                    | 5. East Grand Bahama                  |
+| 6. Englerston                   | 18. Seabreeze                   | 6. Exumas and Ragged Island           |
+| 7. Fort Charlotte               | 19. South Beach                 | 7. Long Island 						|
+| 8. Fox Hill                     | 20. Southern Shores             | 8. Mangrove Cay & South Andros        |
+| 9. Garden Hills                 | 21. St. Anne's                  | 9. Marco City 		                |
+| 10. Golden Gates                | 22. Tall Pines                  | 10. M.I.C.A.L.* 					    |
+| 11. Golden Isles                | 23. Yamacraw                    | 11. North Abaco                		|
+| 12. Killarney                   | 			                    | 12. North Andros & Berry Islands	    |
 |                                 |              					| 13. North Eleuthera           		|
-|                                 |              					| 14. West Grand Bahama & Bimini		|
+|                                 |              					| 14. Pineridge			           		|
+|                                 |              					| 15. West Grand Bahama & Bimini		|
 
 * Mayaguana, Inagua (Great & Little), Crooked Island, Acklins, and Long Cay
 
