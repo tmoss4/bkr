@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-   image_fullwidth: "bpano.jpeg"
+   image_fullwidth:
 permalink: /index.html
 
 widget1:
