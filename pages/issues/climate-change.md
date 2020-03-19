@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "bahamas-hurricane.jpg"
+   image_fullwidth:
 subheadline:
 title:  "Climate Change"
 teaser: 

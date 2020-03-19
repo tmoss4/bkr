@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "bpano.jpeg"
+   image_fullwidth:
 subheadline:
 title:  "Higher Education"
 topic: "BKR"
