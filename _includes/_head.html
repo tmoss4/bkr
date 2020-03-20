@@ -39,6 +39,84 @@
 		});
 	</script>
 
+	<script>
+function areaclickedMain(AreaID) {
+  // function on click event of SVG element
+  // AreaID: ID of a image element (SVG object), e.g. "path4507"
+  selectDeselectAreaMain(AreaID);
+  // deselect other areas if no multiselect
+  if (isMultiselectMain() != 1) {
+    deselectOtherAreasMain(AreaID);
+  }
+}
+function isMultiselectMain() {
+  // return 1 if you need multiselect; 0 - if single select
+  return 0;
+}
+function selectDeselectAreaMain(AreaID) {
+  // if AreaID is selected, it gets deselected. If AreaID is deselected, it gets selected
+  var obj = document.getElementById(AreaID);
+  var currentClass = obj.getAttributeNS(null, 'class'); 
+  if (currentClass == "classRaahDefaultMain") {
+    selectAreaMain(obj);
+  } else {
+    deselectAreaMain(obj);
+  }
+}
+function selectAreaMain(obj) {
+  // selects the object (the SVG element) - sets 'selected' style for the area
+  obj.classList.remove("classRaahDefaultMain");
+  obj.classList.add("classRaahSelectedMain");
+}
+function deselectAreaMain(obj) {
+  // selects the object (the SVG element) - sets 'default' style for the area
+  obj.classList.remove("classRaahSelectedMain");
+  obj.classList.add("classRaahDefaultMain");
+}
+function deselectOtherAreasMain(AreaID) {
+  // this function is used if you need single select. I.e. it deselects all areas except the AreaId
+  var areas = document.getElementsByClassName('classRaahSelectedMain');
+  for (var i = 0; i < (areas.length); i++) {
+    if (areas[i].getAttributeNS(null, 'id') != AreaID) {
+      deselectAreaMain(areas[i]);
+    }
+  }
+}
+function clickButtonGoGroupMain() {
+  // click on buttonGoGroup, open website
+  // find out which SVG element group is selected
+  var areas = document.getElementsByClassName('classRaahSelectedMain');
+  if (areas.length > 0) {
+    var id = areas[0].getAttributeNS(null, 'id');
+    // default URL
+    var URLString = "https://researchasahobby.com/best-website-hosting-companies-fooling/reliable-web-hosting-recommend/";
+    // depending on selected group open specific URL
+    switch (id) {
+      case "HostingGroup":
+        URLString = "https://researchasahobby.com/best-website-hosting-companies-fooling/reliable-web-hosting-recommend/";
+        break;
+      case "SecurityGroup":
+        URLString = "https://researchasahobby.com/best-security-plugin-for-wordpress-combination/";
+        break;
+      case "AudienceGroup":
+        URLString = "https://researchasahobby.com/best-optin-plugin-thriveleads/";
+        break;
+    }    
+    window.open(URLString,'_blank');
+  } else {
+    alert('Please select one of the items and you will read my research!');
+  }
+}
+function alertArrayMain(arr) {
+  // for debugging
+  var str = "Output arr: \nTotal items: " + arr.length + "; " + "\n";
+  for (var i = 0; i < (arr.length); i++) {
+    str = str + "arr[" +i+"]=" + arr[i].getAttributeNS(null, 'id') + "; class=" + arr[i].getAttributeNS(null, 'class') + "\n";
+  }
+  alert(str);
+}
+</script>
+
 	<noscript>
 		<link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
 	</noscript>
