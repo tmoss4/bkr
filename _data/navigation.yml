@@ -16,6 +16,10 @@
   side: left
   url: "/politics/system/"
 
+- title: "Political Parties"
+  side: left
+  url: "/politics/parties/"
+
 #  dropdown:
 #  - title: ""
 #    url: ""
