@@ -18,9 +18,7 @@ homepage: true
 ---
 <div class="row">
 	<div class="medium-4 columns t30 end">
-		<img src="{{ site.urlimg }}country-header-bahamas.jpg" alt=""></a>
-		<center>Leon Williams</center>
-		<center>BTC CEO</center>
+		<img src="{{ site.urlimg }}Country-Header-bahamas.jpg" alt=""></a>
 	</div><!-- /.medium-3.columns -->
 </div><!-- /.row -->
 
