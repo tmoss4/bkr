@@ -20,19 +20,19 @@ tags:
 
 <center>
 Nassau Constituencies and Voting Results
-<img src="{{ site.urlimg }}2002-results.png" alt="2002 Results"></a>
+<img src="{{ site.urlimg }}2002-results.png" alt="2002 Results">
 </center>
 
 <center>
-<img src="{{ site.urlimg }}2007-results.png" alt="2007 Results"></a>
+<img src="{{ site.urlimg }}2007-results.png" alt="2007 Results">
 </center>
 
 <center>
-<img src="{{ site.urlimg }}2012-results.png" alt="2007 Results"></a>
+<img src="{{ site.urlimg }}2012-results.png" alt="2007 Results">
 </center>
 
 <center>
-<img src="{{ site.urlimg }}2017-results.png" alt="2007 Results"></a>
+<img src="{{ site.urlimg }}2017-results.png" alt="2007 Results">
 </center>
 
 <br/>
