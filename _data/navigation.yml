@@ -10,12 +10,12 @@
 # Indented are subheadings
 - title: "Politics"
   side: left
-  url: ""
-#  dropdown:
-#  - title: "Constitution"
-#    url: "/politics/constitution/"
-#  - title: "System"
-#    url: "/politics/system/"
+  url: "/"
+  dropdown:
+  - title: "Constitution"
+    url: "/politics/constitution/"
+  - title: "System"
+    url: "/politics/system/"
 #  - title: "Parties"
 #    url: "/politics/parties/"
 #  - title: "Know Your Politician"
