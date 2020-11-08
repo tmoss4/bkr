@@ -20,11 +20,11 @@ homepage: true
 
 <br>
 
-<div class="row">
+<center><div class="row">
 	<div class="medium-6 large-10">
 		<img src="{{ site.urlimg }}Country-Header-bahamas.jpg" alt="The Bahamas" class="center">
 	</div><!-- /.medium-3.columns -->
-</div><!-- /.row -->
+</div><!-- /.row --></center>
 
 <br>
 
