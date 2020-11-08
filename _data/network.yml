@@ -1,11 +1,11 @@
 # Subfooter Rightmost Column Controls
 
-#- menu_name: "Other Great Websites"
+- menu_name: "Other Great Websites"
 
-#- name: "Bahama Pundit"
-#  url: "http://www.bahamapundit.com/"
-#  class: ""
-#  title: "Bahama Pundit"
+- name: "Caribbean Elections"
+  url: "http://www.caribbeanelections.com/bs/elections/"
+  class: ""
+  title: "Caribbean Elections"
 
 #- name: "Gapminder"
 #  url: "http://www.gapminder.org/ignorance/"
