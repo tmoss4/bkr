@@ -19,22 +19,34 @@ tags:
 ---
 
 <center>
-Nassau Constituencies and 2012 Voting Results
-<a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}nassau-constituency-map.jpg" alt=""></a>
+Nassau Constituencies and Voting Results
+<img src="{{ site.urlimg }}2002-results.png" alt="2002 Results"></a>
+</center>
+
+<center>
+<img src="{{ site.urlimg }}2007-results.png" alt="2007 Results"></a>
+</center>
+
+<center>
+<img src="{{ site.urlimg }}2012-results.png" alt="2007 Results"></a>
+</center>
+
+<center>
+<img src="{{ site.urlimg }}2017-results.png" alt="2007 Results"></a>
 </center>
 
 <br/>
 
 <center>
 Grand Bahama Constituencies and 2012 Voting Results
-<a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}grandbahama-constituency-map.jpg" alt=""></a>
+<a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}grandbahama-constituency-map.jpg" alt="GB 2012 Results"></a>
 </center>
 
 <br/>
 
 <center>
 Family Island Constituencies and 2012 Voting Results
-<a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}familyisland-constituency-map.jpg" alt=""></a>
+<a href="http://en.wikipedia.org/wiki/Bahamian_general_election,_2012"><img src="{{ site.urlimg }}familyisland-constituency-map.jpg" alt="Family Island 2012 Results"></a>
 </center>
 
 <br/>
