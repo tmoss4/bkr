@@ -8,20 +8,25 @@
 #  side: left
 
 # Indented are subheadings
-- title: "Politics"
+- title: "Constitution"
   side: left
-  url: "/"
-  dropdown:
-  - title: "Constitution"
-    url: "/politics/constitution/"
-  - title: "System"
-    url: "/politics/system/"
+  url: "/politics/constitution/"
+
+- title: "System Oveview"
+  side: left
+  url: "/politics/system/"
+
+#  dropdown:
+#  - title: ""
+#    url: ""
+#  - title: ""
+#    url: ""
 #  - title: "Parties"
 #    url: "/politics/parties/"
 #  - title: "Know Your Politician"
 #    url: "/politics/know-your-politician/"
 
-#- title: "Education"
+#- title: "System"
 #  side: left
 #  url: "/education/"
 #  dropdown:
