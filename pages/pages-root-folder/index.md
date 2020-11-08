@@ -16,6 +16,14 @@ callforaction:
 
 homepage: true
 ---
+<div class="row">
+	<div class="medium-4 columns t30 end">
+		<img src="{{ site.urlimg }}country-header-bahamas.jpg" alt=""></a>
+		<center>Leon Williams</center>
+		<center>BTC CEO</center>
+	</div><!-- /.medium-3.columns -->
+</div><!-- /.row -->
+
 <a class="radius button large" href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf">State of the Nation Report - Vision 2040 ›</a>
 
 >
