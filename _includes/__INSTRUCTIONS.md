@@ -2,13 +2,9 @@
 
 There are two types of includes...
 
-
-
 ## 1. includes for templates.
 
 All includes with `_` are used for templates, like for example the `_head.html` or `_footer.html`.
-
-
 
 ## 2. includes as commands
 
