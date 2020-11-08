@@ -17,15 +17,7 @@ tags:
     - post format
 
 ---
->
-I think it would be a very safe bet to assume Bahamians know more about the US Constitution than their own. How can we hold political officers accountable when we don't know how much power we've given them.
 
-The text can be quite imposing, however, you have several tools at your disposal to find things quickly or browse the sections. Check out the table of contents to get an overview of and jump to different sections. As you're reading, if you ever want to get back to the top of the page then just click one of the "Up to table of contents" buttons at the end of each section.
-
-Don't forget that you can always use ctrl+f to find particular words and phrases too!
-
-For a downloadable PDF version, click <a href="https://www.oas.org/juridico/mla/en/bhs/en_bhs-int-text-const.pdf">here</a>. 
-<br/>
 _____________________________________________________
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -2696,8 +2688,6 @@ b.  for the purposes of any reference in this Constitution to the absence, illne
 - the person last appointed to the office shall be deemed to be the sole holder of the office.
 
 13. The Interpretation Act of The Bahamas(a) and all amendments thereto as in force on 10th July 1973 shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and in relation to Acts of Parliament of The Bahamas.
-
-Fuente: Base de Datos políticos de las Américas. http://www.georgetown.edu/pdba/Constitutions/Bahamas/bahamas.html
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

@@ -3,7 +3,7 @@ name: Theo Moss
 author: Theo Moss
 title: Bahamas Knowledge Revolution
 subtitle: 
-description: Bahamas Knowledge Revolution is an online knowledgebase for Bahamian politics 
+description: Bahamas Knowledge Revolution is an online knowledgebase for the Bahamian political system
 slogan: "A Bahamian's Guide to the Bahamas"
 keywords: bahamas politics political
 language: 'en'
@@ -13,7 +13,7 @@ baseurl: /bkr
 urlimg: https://tmoss4.github.io/bkr/images/
 
 github: http://www.github.com/tmoss4
-facebook: https://www.facebook.com/paperbeatsrockdmc/
+facebook: 
 linkedin: https://www.linkedin.com/in/tmoss4
 email: moss.theophilus@gmail.com
 location: 
@@ -27,7 +27,7 @@ excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to tmoss4 or Feeling Responsive as a thank you :)
-credits: <p>Bahamas Knowledge Revolution is part of the <a href="http://tmoss4.github.io/pbr/collection">Paper Beats Rock Collection</a> <br/>Site created using <a href="http://jekyllrb.com/">Jekyll</a> based on the <a href="http://github.com/Phlow/feeling-responsive">Feeling Responsive</a> template</p>
+credits: Site created using <a href="http://jekyllrb.com/">Jekyll</a> based on the <a href="http://github.com/Phlow/feeling-responsive">Feeling Responsive</a> template</p>
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

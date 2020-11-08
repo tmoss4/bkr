@@ -1,14 +1,14 @@
 # Controls the Icons in the footer
 
-- name: Facebook
-  url: https://www.facebook.com/paperbeatsrockdmc
-  class: icon-facebook
-  title: ""
+#- name: Facebook
+#  url: https://www.facebook.com/paperbeatsrockdmc
+#  class: icon-facebook
+#  title: ""
 
-- name: GitHub
-  url: http://github.com/tmoss4
-  class: icon-github
-  title: Global Island
+#- name: GitHub
+#  url: http://github.com/tmoss4
+#  class: icon-github
+#  title: Global Island
 
 #- name: YouTube
 #  url: https://www.youtube.com/PhlowMedia
