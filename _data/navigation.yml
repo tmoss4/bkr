@@ -12,13 +12,21 @@
   side: left
   url: "/politics/constitution/"
 
-- title: "System Oveview"
+- title: "Political System"
   side: left
   url: "/politics/system/"
 
 - title: "Political Parties"
   side: left
   url: "/politics/parties/"
+
+- title: "Educational System"
+  side: left
+  url: "/education/system-exam-results/"
+
+- title: "Gallery"
+  side: left
+  url: "/gallery"
 
 #  dropdown:
 #  - title: ""

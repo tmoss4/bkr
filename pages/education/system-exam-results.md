@@ -3,7 +3,7 @@ layout: page-fullwidth
 header:
    image_fullwidth:
 subheadline:
-title:  "System & Exam Results"
+title:  "Educational System"
 teaser: 
 permalink: "/education/system-exam-results/"
 breadcrumb: true

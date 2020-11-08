@@ -16,14 +16,15 @@ callforaction:
 
 homepage: true
 ---
-<h4>The Bahamas, known officially as the Commonwealth of The Bahamas, is a country within the Lucayan Archipelago of the West Indies in the Atlantic. The archipelagic state consists of more than 700 islands, cays, and islets, and is located north of Cuba and Hispaniola Island (Haiti and the Dominican Republic), northwest of the Turks and Caicos Islands, southeast of the US state of Florida, and east of the Florida Keys. The capital is Nassau on the island of New Providence.</h4>
-<br>
+<h4>The Bahamas, known officially as the Commonwealth of The Bahamas, is a country within the Lucayan Archipelago of the West Indies in the Atlantic. The archipelagic state consists of more than 700 islands, cays, and islets, and has a population of almost 400,000. The capital is Nassau on the island of New Providence.</h4>
 
 <div class="row">
 	<div class="medium-6 large-10">
 		<img src="{{ site.urlimg }}Country-Header-bahamas.jpg" alt="">
 	</div><!-- /.medium-3.columns -->
 </div><!-- /.row -->
+
+<br>
 
 <a class="radius button large" href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf">State of the Nation Report - Vision 2040 ›</a>
 

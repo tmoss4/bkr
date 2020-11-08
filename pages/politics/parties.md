@@ -18,9 +18,9 @@ tags:
 - post format
 
 ---
-There are three major political parties in the Bahamas. This page includes basic information about their views on various issues. Idealogical differences between the parties has previously been removed from the political discourse, however, this page categorizes their notable actions and quotes from party leaders in order to build a party profile.
+There are three major political parties in the Bahamas.
 
-Click on the party's logo to visit their website and find contact information.
+Click on the party's logo to visit their website and learn more.
 
 <div class="row">
 
