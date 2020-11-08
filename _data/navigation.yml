@@ -3,70 +3,70 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
-  side: left
+#- title: About
+#  url: "/about/"
+#  side: left
 
 # Indented are subheadings
 - title: "Politics"
   side: left
-  url: "/politics/"
-  dropdown:
-  - title: "Constitution"
-    url: "/politics/constitution/"
-  - title: "System"
-    url: "/politics/system/"
-  - title: "Parties"
-    url: "/politics/parties/"
-  - title: "Know Your Politician"
-    url: "/politics/know-your-politician/"
+  url: ""
+#  dropdown:
+#  - title: "Constitution"
+#    url: "/politics/constitution/"
+#  - title: "System"
+#    url: "/politics/system/"
+#  - title: "Parties"
+#    url: "/politics/parties/"
+#  - title: "Know Your Politician"
+#    url: "/politics/know-your-politician/"
 
-- title: "Education"
-  side: left
-  url: "/education/"
-  dropdown:
-  - title: "System & Exam Results"
-    url: "/education/system-exam-results/"
-  - title: "Higher Education"
-    url: "/education/higher-education/"
-  - title: "All Bahamas Merit Scholars"
-    url: "/education/all-bahamas-merit-scholars/"
+#- title: "Education"
+#  side: left
+#  url: "/education/"
+#  dropdown:
+#  - title: "System & Exam Results"
+#    url: "/education/system-exam-results/"
+#  - title: "Higher Education"
+#    url: "/education/higher-education/"
+#  - title: "All Bahamas Merit Scholars"
+#    url: "/education/all-bahamas-merit-scholars/"#
 
-- title: "Issues"
-  url: "/issues/"
-  side: left
-  dropdown:
-  - title: "Crime"
-    url: "/issues/crime/"
-  - title: "Unemployment"
-    url: "/issues/unemployment/"
-  - title: "Gross Domestic Product (GDP)"
-    url: "/issues/gdp/"
-  - title: "Education"
-    url: "/education/"
-  - title: "Climate Change"
-    url: "/issues/climate-change/"
-  - title: "Corruption"
-    url: "/issues/corruption/"
-  - title: "Difficulty of Doing Business"
-    url: "/issues/doing-business/"
-  - title: "Human Rights"
-    url: "/issues/human-rights/"
-  - title: "Public Health"
-    url: "/issues/public-health/"
+#- title: "Issues"
+#  url: "/issues/"
+#  side: left
+#  dropdown:
+#  - title: "Crime"
+#    url: "/issues/crime/"
+#  - title: "Unemployment"
+#    url: "/issues/unemployment/"
+#  - title: "Gross Domestic Product (GDP)"
+#    url: "/issues/gdp/"
+#  - title: "Education"
+#    url: "/education/"
+#  - title: "Climate Change"
+#    url: "/issues/climate-change/"
+#  - title: "Corruption"
+#    url: "/issues/corruption/"
+#  - title: "Difficulty of Doing Business"
+#    url: "/issues/doing-business/"
+#  - title: "Human Rights"
+#    url: "/issues/human-rights/"
+#  - title: "Public Health"
+#    url: "/issues/public-health/"#
 
-- title: "Business"
-  url: "/business/"
-  side: left
-  dropdown:
-  - title: "BEC/BPL"
-    url: "/business/bec-bpl/"
-  - title: "BTC/CWC"
-    url: "/business/btc-cwc/"
-  - title: "Water and Sewage"
-    url: "/business/water-sewage/"
-  - title: "Baha Mar"
-    url: "/business/bahamar/"
+#- title: "Business"
+#  url: "/business/"
+#  side: left
+#  dropdown:
+#  - title: "BEC/BPL"
+#    url: "/business/bec-bpl/"
+#  - title: "BTC/CWC"
+#    url: "/business/btc-cwc/"
+#  - title: "Water and Sewage"
+#    url: "/business/water-sewage/"
+#  - title: "Baha Mar"
+#    url: "/business/bahamar/"
   #- title: "Notable Bahamian Owned"
   #  url: "/business/notable-bahamian-owned/"
 
@@ -77,8 +77,8 @@
   #- title: "Blog Archive"
   #  url: "/blog/archive/"
 
-- title: "Years in Review"
-  url: "/years-in-review/"
-  side: left
+#- title: "Years in Review"
+#  url: "/years-in-review/"
+#  side: left
 
 

@@ -1,18 +1,18 @@
 # Subfooter Rightmost Column Controls
 
-- menu_name: "Other Great Websites"
+#- menu_name: "Other Great Websites"
 
-- name: "Bahama Pundit"
-  url: "http://www.bahamapundit.com/"
-  class: ""
-  title: "Bahama Pundit"
+#- name: "Bahama Pundit"
+#  url: "http://www.bahamapundit.com/"
+#  class: ""
+#  title: "Bahama Pundit"
 
-- name: "Gapminder"
-  url: "http://www.gapminder.org/ignorance/"
-  class: ""
-  title: "Gapminder"
+#- name: "Gapminder"
+#  url: "http://www.gapminder.org/ignorance/"
+#  class: ""
+#  title: "Gapminder"
 
-- name: "The First Say"
-  url: "http://www.thefirstsay.org/"
-  class: ""
-  title: "The First Say"
+#- name: "The First Say"
+#  url: "http://www.thefirstsay.org/"
+#  class: ""
+#  title: "The First Say"
