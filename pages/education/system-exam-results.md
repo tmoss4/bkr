@@ -32,7 +32,7 @@ Tertiary education is primarily available from the [University of The Bahamas][4
 
 ## Exam Results
 
-Despite many claims, our national results show little progress regardless of which political party is in power. The reasons behind this are discussed in the main <a href="{{ site.url }}{{ site.baseurl }}/education">Education</a> section.
+Despite many claims, our national results show little progress regardless of which political party is in power.
 
 <center>
 <a href="http://www.thefirstsay.org/education/immeasurable_progress.php"><img src="{{ site.urlimg }}bgcse-scores.png" alt=""></a>

@@ -18,9 +18,11 @@ homepage: true
 ---
 <h4>The Bahamas, known officially as the Commonwealth of The Bahamas, is a country within the Lucayan Archipelago of the West Indies in the Atlantic. The archipelagic state consists of more than 700 islands, cays, and islets, and has a population of almost 400,000. The capital is Nassau on the island of New Providence.</h4>
 
+<br>
+
 <div class="row">
 	<div class="medium-6 large-10">
-		<img src="{{ site.urlimg }}Country-Header-bahamas.jpg" alt="">
+		<img src="{{ site.urlimg }}Country-Header-bahamas.jpg" alt="The Bahamas" class="center">
 	</div><!-- /.medium-3.columns -->
 </div><!-- /.row -->
 
