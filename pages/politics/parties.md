@@ -19,8 +19,6 @@ tags:
 
 ---
 >
-Bicameral Parliament consists of the Senate (16 seats; members appointed by the Governor-General upon the advice of the Prime Minister and the opposition leader to serve five-year terms) and the House of Assembly (39 seats; members elected by direct popular vote to serve five-year terms); the government may dissolve the parliament and call elections at any time
-
 The Bahamas has a two-party system, which means that there are two dominant political parties - The Progressive Libral Party (PLP) and the Free National Movement (FNM). It is difficult to achieve electoral success under the banner of any other party. A notable third party is the Democratic National Alliance (DNA).
 
 <div class="row">
