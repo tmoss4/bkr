@@ -2178,8 +2178,7 @@ Appointments, etc. of public officers.
 109.-
 
 1.  Notwithstanding anything contained in the preceding Article of this Chapter-
-a.  power to make appointments to the office of Permanent Secretary or Head of a Department of Government (or to be the holder of any such other office of similar status as the Governor-General may, acting in accordance with the advice of the Prime Minister specify by notice in the Gazette) is hereby vested in the Governor-General actin on the recommendation f the Public Service  Commission  after  the  Commission  has  consulted  the  Prime
-Minister;
+a.  power to make appointments to the office of Permanent Secretary or Head of a Department of Government (or to be the holder of any such other office of similar status as the Governor-General may, acting in accordance with the advice of the Prime Minister specify by notice in the Gazette) is hereby vested in the Governor-General acting on the recommendation of the Public Service  Commission after the Commission has consulted the Prime Minister;
 b.  power  to  make  appointments to  the  office  of  Permanent Secretary on transfer from another such office carrying the same salary is hereby vested in the Governor-General acting on the advice of the Prime Minister.
 2.  In this Article "Permanent Secretary" includes the Secretary of the Cabinet and the
 Financial Secretary.
