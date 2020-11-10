@@ -2,17 +2,12 @@
 
 - menu_name: "See Also"
 
-- name: "Caribbean Elections"
-  url: "http://www.caribbeanelections.com/bs/elections/"
+- name: "The Government of The Bahamas"
+  url: "https://www.bahamas.gov.bs/"
+  class: ""
+  title: "The Government of The Bahamas"
+
+- name: "CE: The Bahamas Election Centre "
+  url: "http://www.caribbeanelections.com/elections/bs_elections.asp"
   class: ""
   title: "Caribbean Elections"
-
-#- name: "Gapminder"
-#  url: "http://www.gapminder.org/ignorance/"
-#  class: ""
-#  title: "Gapminder"
-
-#- name: "The First Say"
-#  url: "http://www.thefirstsay.org/"
-#  class: ""
-#  title: "The First Say"

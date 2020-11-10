@@ -168,7 +168,7 @@ For more information on registering to vote for the 2017 election - <a href="htt
 
 ## Constituencies {#constituencies}
 
-There are 38 constituencies, 23 on Nassau and 15 on the family islands.
+There are currently 38 constituencies, 23 on Nassau and 15 on the family islands.
 
 |Nassau                           | Nassau                          | Family Island                         |
 | :-----------------------------: | :-----------------------------: |:-------------------------------------:|
