@@ -118,23 +118,23 @@ Term Limits: 5 years
 
 There are currently 17 distinct areas of government interest that positioned as official ministries. These are to be led by the sitting Minister along with a Permanent Secretary with some exceptions (a Financial Secretary for the Ministry of Finance and Chief Medical Officer for the Ministry of Health, for example). The current government ministries are:
 
-1. <a href="http://bit.ly/2h36BYv">Agriculture, Marine Resources and Local Government</a>
-2. <a href="http://bit.ly/1Tsw8si">Education, Science and Technology</a> - <a href="http://www.ministryofeducationbahamas.com/">Dedicated website</a>
-3. <a href="http://bit.ly/2heIaq6">Environment and Housing</a>
-4. <a href="http://bit.ly/2h08Mfj">Finance</a>
-5. <a href="http://bit.ly/2heDbtx">Financial Services</a>
-6. <a href="http://bit.ly/2h36T1v">Foreign Affairs and Immigration</a>
-7. <a href="http://bit.ly/2gPhAa3">Grand Bahama</a>
-8. <a href="http://bit.ly/2heKtt3">Health</a>
-9. <a href="http://bit.ly/2heL1TN">Labour and National Insurance</a>
-10. <a href="http://bit.ly/2h47DpH">National Security</a>
-11. <a href="http://bit.ly/2h41xpc">Office of the Attorney General & Ministry of Legal Affairs</a>
-12. <a href="http://bit.ly/2heBlcf">Public Service</a>
-13. <a href="http://bit.ly/2heG1uF">Social Services and Community Development</a>
-14. <a href="http://bit.ly/2h49kU5">Tourism</a>
-15. <a href="http://bit.ly/2ghT5lf">Transport and Aviation</a>
-16. <a href="http://bit.ly/2h0ey0m">Works and Urban Development</a>
-17. <a href="http://bit.ly/2gA95fU">Youth, Sports and Culture</a>
+1. Agriculture, Marine Resources and Local Government
+2. Education, Science and Technology
+3. Environment and Housing
+4. Finance
+5. Financial Services
+6. Foreign Affairs and Immigration
+7. Grand Bahama
+8. Health
+9. Labour and National Insurance
+10. National Security
+11. Office of the Attorney General & Ministry of Legal Affairs
+12. Public Service
+13. Social Services and Community Development
+14. Tourism
+15. Transport and Aviation
+16. Works and Urban Development
+17. Youth, Sports and Culture
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -163,7 +163,7 @@ There are numerous government departments including:
 18.	Parliamentary Registration Department
 19.	Port Department
 20.	Post Office Department
-21.	Princess Margaret Hospital
+21.	Princess Margaret Hospital (PMH)
 22.	Public Health
 23.	Public Prosecutions
 24.	Registrar Generals Department
@@ -208,11 +208,11 @@ There are also numerous government corporations and statutory agencies including
 21.	Hotel Corporation of The Bahamas
 22.	Maritime Matters
 23.	Nassau Flight Services
-24.	National Insurance Board
-25.	Public Hospitals Authority
+24.	National Insurance Board (NIB)
+25.	Public Hospitals Authority (PHA)
 26.	Securities Commission of The Bahamas
 27.	The Bahamas Telecommunications Company Ltd (BTC)
-28.	University of The Bahamas
+28.	University of The Bahamas (UB)
 29.	Utilities Regulation & Competition Authority (URCA)
 30.	Water & Sewerage Corporation
 
