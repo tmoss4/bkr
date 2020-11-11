@@ -7,7 +7,12 @@
   class: ""
   title: "The Government of The Bahamas"
 
-- name: "CE: The Bahamas Election Centre "
+- name: "CE: The Bahamas Election Centre"
   url: "http://www.caribbeanelections.com/elections/bs_elections.asp"
   class: ""
   title: "Caribbean Elections"
+
+- name: "Parliamentary Registration Department"
+  url: "https://www.elections.gov.bs/"
+  class: ""
+  title: "Parliamentary Registration Department"
