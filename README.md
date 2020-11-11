@@ -6,3 +6,4 @@ System Restart.
 - _data/navigation.yml for top level navigation
 - _data/network and services for some footer information, config.yml for others
 - Moved old pages to archive
+- Text can be split without break tags
