@@ -116,7 +116,7 @@ Term Limits: 5 years
 
 ## Ministries {#ministries}
 
-There are currently 17 distinct areas of government interest that positioned as official ministries:
+There are currently 17 distinct areas of government interest that positioned as official ministries. These are to be led by the sitting Minister along with a Permanent Secretary with some exceptions (a Financial Secretary for the Ministry of Finance and Chief Medical Officer for the Ministry of Health, for example). The current government ministries are:
 
 1. <a href="http://bit.ly/2h36BYv">Agriculture, Marine Resources and Local Government</a>
 2. <a href="http://bit.ly/1Tsw8si">Education, Science and Technology</a> - <a href="http://www.ministryofeducationbahamas.com/">Dedicated website</a>
