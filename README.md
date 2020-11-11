@@ -7,3 +7,4 @@ System Restart.
 - _data/network and services for some footer information, config.yml for others
 - Moved old pages to archive
 - Text can be split without break tags
+- File extensions on things like images are case-sensitive
