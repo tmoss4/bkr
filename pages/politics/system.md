@@ -223,21 +223,15 @@ There are also numerous government corporations and statutory agencies including
 
 The only elected positions in the Bahamian government are the 38 Members of Parliament.
 
-The 38 MPs correspond to 38 individual constituencies (neighborhoods)and citizens may only vote on the set of individuals running in the constituency in which they have resided for a certain period of time. This leads to MPs restricting their campaigning efforts to the constituency in which they are running. 
+The 38 MPs correspond to 38 individual constituencies and citizens may only vote in their residential constituency.
 
 "...The current legal framework does not grant the electoral management body supervision of campaign finance, nor does it delegate this function to other public entities. In fact, political campaigns are fully funded from private sources. Campaign financing is currently unregulated and political parties are not required to report on the flows or administration of their campaign funds." <a href="http://www.vision2040bahamas.org/media/uploads/State_of_the_Nation_Summary_Report.pdf">State of the Nation Report, page 32</a> This has led to serious allegations of corruption in the past. Campaign financing can decide elections and reveal conflicts of interest.
-
-An individual does not need to be affliated with a political party or reside in the constituency in order to run. However, because the Prime Minister is not elected and rather is the party leader of the winner of most MP seats, many citizens see voting for an independent candidate as an inability to directly affect who becomes Prime Minister. 
-
-The citzens' inability to directly vote for the Prime Minister is one of the primary reasons for the extreme degree of 'party politics' seen in the Bahamas. Unlike in the US where political parties are split on social and economical issues, political parties in the Bahamas are primarily differentiated by individuals and the party leader. Subsequently, many citizens vote for individuals running with a particular party because they approve of the party leader rather than the individual themselves.
 
 <h5>Eligibility</h5>
 
 To vote you must:
 <p>1. be a citizen of the Bahamas who is 18 years or older
 <br/>2. residing in the Bahamas for at least one year immediately before the date of appointment</p>
-
-For more information on registering to vote for the 2017 election - <a href="http://www.votebahamas2017.com/">click here</a>.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
