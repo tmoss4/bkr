@@ -55,12 +55,10 @@ Family Island Constituencies and 2012 Voting Results
 <br/>
 For a more detailed view of the constituencies - <a href="http://www.tribune242.com/photos/galleries/2012/apr/24/new-providence-constituencies/">click here</a>.
 
-Exerpt below adapted from comment found <a href="http://www.tribune242.com/news/2020/nov/02/speaker-moultrie-hands-his-keys/">here</a>
+Exerpt below adapted from comment found <a href="http://www.tribune242.com/news/2020/nov/02/speaker-moultrie-hands-his-keys/">here:</a>
 <br/>
 Government employees are commanded by the Permanent Secretary (PS) of the Ministry they work for. PS' are commanded by the Governor General. This is true for all except the Ministry of Finance (MOF) which is commanded by the Financial Secretary (FS) (even though the MOF also has a Permanent Secretary). The PS of Finance is considered by some to be a figurehead. The Prime Minister (PM) (nor any MP) does not have the authority to directly instruct government employees. The PM can fire a government employee "in interest of government" but this occurs rarely and may be taken as a sign of lack of faith in the PS leading that Ministry.
 
-<br/>
 The Cabinet makes policy and suggest legislation and regulations. They have no executive power. The Parliament (even though many of the same individuals are in Cabinet) make laws. The Courts interpret anything in the law which is unclear or which has to be applied to an unforeseen scenario which was not contemplated at the time the law was written, or is suggested to be unconstitutional.
 
-<br/>
 Some believe that the Cabinet, by refusing to appoint a FS (knowing how powerful the position is), exerts undue influence over the MOF to effectively control any expenditure by the Legislature (The House & Senate). The House itself has not had a budget of its own in over 40 years. The Bahamas has had only an "Acting" FS since 2010.
