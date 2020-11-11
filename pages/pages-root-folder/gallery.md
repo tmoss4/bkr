@@ -65,6 +65,6 @@ Some believe that the Cabinet, by refusing to appoint a FS (knowing how powerful
 
 <center>
 <a href="https://www.academia.edu/44344747/Building_State_Capacity_in_the_Caribbean_The_State_of_the_Civil_Service_in_The_Bahamas">Building State Capacity in the Caribbean: The State of the Civil Service in The Bahamas</a>
-<img src="{{ site.urlimg }}administrative-organizational-chart-mops.png" alt="administrative-organizational-chart-mops">
+<img src="{{ site.urlimg }}administrative-organizational-chart-mops.PNG" alt="administrative-organizational-chart-mops">
 </center>
 <br/>
