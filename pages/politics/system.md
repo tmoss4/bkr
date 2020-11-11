@@ -111,14 +111,12 @@ The Senate can pass bills and make bill amendments which must be approved by the
 
 Term Limits: 5 years
 
-Head to the <a href="{{ site.url }}{{ site.baseurl }}/politics/know-your-politician">Know Your Politician</a> page to see the current Senators.
-
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
 
 ## Ministries {#ministries}
 
-There are 17 distinct areas of government interest that are led by an individual. To find more information on the government ministries, departments, corporations, and statutory agencies - <a href="http://bit.ly/2ghJ8V0">click here</a> 
+There are currently 17 distinct areas of government interest that positioned as official ministries:
 
 1. <a href="http://bit.ly/2h36BYv">Agriculture, Marine Resources and Local Government</a>
 2. <a href="http://bit.ly/1Tsw8si">Education, Science and Technology</a> - <a href="http://www.ministryofeducationbahamas.com/">Dedicated website</a>
@@ -138,7 +136,85 @@ There are 17 distinct areas of government interest that are led by an individual
 16. <a href="http://bit.ly/2h0ey0m">Works and Urban Development</a>
 17. <a href="http://bit.ly/2gA95fU">Youth, Sports and Culture</a>
 
-Head to the <a href="{{ site.url }}{{ site.baseurl }}/politics/know-your-politician">Know Your Politician</a> page to see the current Ministers.
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+## Departments {#departments}
+
+There are numerous government departments including:
+
+1.	Archives
+2.	Bahamas National Geographic Information Systems (BNGIS) Centre
+3.	Business License
+4.	Cooperatives Development
+5.	Court of Appeal
+6.	Customs Department
+7.	Fire Services
+8.	Forestry Unit
+9.	HIV-AIDS Center
+10.	Housing
+11.	Immigration
+12.	Internal Audit
+13.	Labor
+14.	Marine Resources
+15.	Meteorology
+16.	National Anti-Drug Secretariat
+17.	National Emergency Management Agency (NEMA)
+18.	Parliamentary Registration Department
+19.	Port Department
+20.	Post Office Department
+21.	Princess Margaret Hospital
+22.	Public Health
+23.	Public Prosecutions
+24.	Registrar Generals Department
+25.	Road Traffic
+26.	Royal Bahamas Defense Force
+27.	Royal Bahamas Police Force
+28.	Royal Bahamas Police Force - Grand Bahama
+29.	Sandilands Rehabilitation Centre
+30.	Social Services
+31.	Statistics
+32.	Supreme Court
+33.	Treasury Department
+34.	VAT Bahamas
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
+## Corporations & Agencies {#agencies}
+
+There are also numerous government corporations and statutory agencies including:
+
+1.	19CCEM Conference Secretariat
+2.	Auditor General
+3.	Bahamas ACP Secretariat
+4.	Bahamas Agricultural & Industrial Corporation (BAIC)
+5.	Bahamas Bureau of Standards and Quality (BBSQ)
+6.	Bahamas Development Bank
+7.	Bahamas Electricity Corporation (BEC)
+8.	Bahamas Environment Science and Technology Commission (BEST)
+9.	Bahamas Investment Authority
+10.	Bahamas Maritime Authority
+11.	Bahamas Trade Commission
+12.	Bahamasair Holding Ltd
+13.	Bank of The Bahamas
+14.	Broadcasting Corporation of The Bahamas
+15.	Cellular Liberalization Task Force
+16.	Central Bank of The Bahamas
+17.	Compliance Commission
+18.	Data Protection Commissioner
+19.	Financial Intelligence Unit
+20.	Foreign Account Tax Compliance Act (FATCA)
+21.	Hotel Corporation of The Bahamas
+22.	Maritime Matters
+23.	Nassau Flight Services
+24.	National Insurance Board
+25.	Public Hospitals Authority
+26.	Securities Commission of The Bahamas
+27.	The Bahamas Telecommunications Company Ltd (BTC)
+28.	University of The Bahamas
+29.	Utilities Regulation & Competition Authority (URCA)
+30.	Water & Sewerage Corporation
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
