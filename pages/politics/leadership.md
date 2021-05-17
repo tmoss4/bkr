@@ -17,6 +17,6 @@ Bicameral Parliament consists of the Senate (16 seats; members appointed by the 
 
 See the [Political System][1] page for more information on the political offices and powers.
 
-[1]: {{ site.url }}{{ site.baseurl }}/politics/system/
+[1]: {{ site.url }}{{ site.baseurl }}/politics/system/  
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-cdAgTyHnzMC5plyfDNpWFE6115mmuxiZ-gIZZhziGbNQjnfgtxO3GXnXWJDYkV8aIZiv4WH7ADtz/pubhtml?widget=true&amp;headers=false"></iframe>
