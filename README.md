@@ -9,3 +9,4 @@ System Restart.
 - Moved old pages to archive
 - Text can be split without break tags
 - File extensions on things like images are case-sensitive
+- https://www.markdownguide.org/basic-syntax/
