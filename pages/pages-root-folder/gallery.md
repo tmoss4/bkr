@@ -68,3 +68,7 @@ Some believe that the Cabinet, by refusing to appoint a FS (knowing how powerful
 <img src="{{ site.urlimg }}administrative-organizational-chart-mops.PNG" alt="administrative-organizational-chart-mops">
 </center>
 <br/>
+
+Some outdated pages:
+https://tmoss4.github.io/bkr/politics/2012-2017-leadership/
+https://tmoss4.github.io/bkr/years-in-review/
