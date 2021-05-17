@@ -19,4 +19,4 @@ See the [Political System][1] page for more information on the political offices
 
 [1]: {{ site.url }}{{ site.baseurl }}/politics/system/  
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-cdAgTyHnzMC5plyfDNpWFE6115mmuxiZ-gIZZhziGbNQjnfgtxO3GXnXWJDYkV8aIZiv4WH7ADtz/pubhtml?widget=true&amp;headers=false" style="width:100%; height:100%;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-cdAgTyHnzMC5plyfDNpWFE6115mmuxiZ-gIZZhziGbNQjnfgtxO3GXnXWJDYkV8aIZiv4WH7ADtz/pubhtml?widget=true&amp;headers=false" style="width:100%; height:1000px;"></iframe>
