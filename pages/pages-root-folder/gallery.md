@@ -37,7 +37,11 @@ Nassau Constituencies and Voting Results
 <center>
 <img src="{{ site.urlimg }}2017-results.png" alt="2007 Results">
 </center>
+<br/>
 
+<center>
+<img src="{{ site.urlimg }}NPMap.png" alt="NP 2017 Results">
+</center>
 <br/>
 
 <center>

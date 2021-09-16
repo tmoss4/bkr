@@ -238,22 +238,22 @@ To vote you must:
 
 ## Constituencies {#constituencies}
 
-There are currently 38 constituencies, 23 on Nassau and 15 on the family islands.
+There are currently 39 constituencies, 24 on Nassau and 15 on the family islands.
 
 |Nassau                           | Nassau                          | Family Island                         |
 | :-----------------------------: | :-----------------------------: |:-------------------------------------:|
 | 1. Bain Town & Grants Town      | 13. Marathon                    | 1. Cat Island, Rum Cay & San Salvador |
-| 2. Bamboo Town                  | 14. Montagu                     | 2. Central & South Abaco              |
+| 2. Bamboo Town                  | 14. Freetown (Montagu)          | 2. Central & South Abaco              |
 | 3. Carmichael                   | 15. Mount Moriah                | 3. Central & South Eleuthera          |
-| 4. Centerville                  | 16. Nassau Village              | 4. Central Grand Bahama               |
+| 4. Centreville                  | 16. Nassau Village              | 4. Central Grand Bahama               |
 | 5. Elizabeth                    | 17. Pinewood                    | 5. East Grand Bahama                  |
 | 6. Englerston                   | 18. Seabreeze                   | 6. Exumas and Ragged Island           |
 | 7. Fort Charlotte               | 19. South Beach                 | 7. Long Island 						|
 | 8. Fox Hill                     | 20. Southern Shores             | 8. Mangrove Cay & South Andros        |
 | 9. Garden Hills                 | 21. St. Anne's                  | 9. Marco City 		                |
-| 10. Golden Gates                | 22. Tall Pines                  | 10. M.I.C.A.L.* 					    |
-| 11. Golden Isles                | 23. Yamacraw                    | 11. North Abaco                		|
-| 12. Killarney                   | 			                    | 12. North Andros & Berry Islands	    |
+| 10. Golden Gates                | 22. St. Barnabas                | 10. M.I.C.A.L.* 					    |
+| 11. Golden Isles                | 23. Tall Pines                  | 11. North Abaco                		|
+| 12. Killarney                   | 24. Yamacraw                    | 12. North Andros & Berry Islands	    |
 |                                 |              					| 13. North Eleuthera           		|
 |                                 |              					| 14. Pineridge			           		|
 |                                 |              					| 15. West Grand Bahama & Bimini		|
